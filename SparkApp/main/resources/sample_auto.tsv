@@ -1,0 +1,2004 @@
+AutoID	OwnerID	VIN	Make	Model	Year	DriveTrain	EngineType	ExteriorColor	InteriorColor	Transmission
+1	1	FHL3O1SA4IEHB4WU1	Contoso Motors	Sedan	2007	FWD	6 Cylinder	Black	Black	Manual
+2	1	PUB3U17PS911EB369	Contoso Motors	Sedan	2005	FWD	6 Cylinder	Thunder Gray	Gray	Manual
+3	1	OA1FTZ9HJBS0LH0HP	Contoso Motors	Wagon	2005	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+4	2	JTHMYHQTEPP4WBMRN	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+5	2	9230C202Z60XX84AU	Contoso Motors	SUV	2004	AWD	6 Cylinder	Blazing Gray	Black	Automatic
+6	2	TEE8OFO7KCFO1PQH6	Contoso Motors	SUV	2011	FWD	4 Cylinder	Blazing Gray	Black	Automatic
+7	3	3581A1IM5GCDDNX6S	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+8	3	5KKR2VB4WHQH97PF8	Contoso Motors	Convertible 2DR	2016	FWD	8 Cylinder	Deep Blue	Brown	Automatic
+9	3	C7DB1JTWYWWVOCU3K	Contoso Motors	Coupe	2005	FWD	4 Cylinder	Racing Green	Beige	Manual
+10	4	26WJSGHX4MA5ROHNL	Contoso Motors	Hybrid	2013	FWD	Hybrid	White Silver	Smoke White	Semi-automatic
+11	4	8Y5QKG27QET1RBK7I	Contoso Motors	Truck	2009	AWD	10 Cylinder	Blue	Black	Automatic
+12	4	TS61YCX093VPDBN4C	Contoso Motors	Wagon	2007	FWD	6 Cylinder	Deep Blue	White	Automatic
+13	146	HE0Y7YC1BJJBQ7K98	Contoso Motors	Sedan	2010	FWD	6 Cylinder	Volcanic Orange	White	Manual
+14	206	3HUG8Y362XD2AWKDY	Contoso Motors	Sedan	2015	AWD	6 Cylinder	Blue	Old Lace	Manual
+15	445	LVYE74QDF2F9CRP70	Contoso Motors	Sedan	2004	FWD	6 Cylinder	Midnight Black	Silverstone	Manual
+16	146	F19LDAGBRRYUMX2UX	Contoso Motors	Wagon	2005	AWD	6 Cylinder	Deep Blue	White	Automatic
+17	258	FEP3U8HGTMIW5CPBU	Contoso Motors	Truck	2007	AWD	10 Cylinder	Black	Black	Automatic
+18	402	O8NSRUCP8NC0XG4YQ	Contoso Motors	Truck	2005	FWD	10 Cylinder	Black	Black	Automatic
+19	265	BWQ77DOTN9R6J8DR6	Contoso Motors	Coupe	2007	AWD	4 Cylinder	Midnight Black	Silverstone	Manual
+20	20	Z2EOZWZBXAEW3E60T	Contoso Motors	Hybrid	2013	FWD	Hybrid	Deep Blue	Brown	Semi-automatic
+21	142	3ADD7VN2KKRYOT2XS	Contoso Motors	SUV	2013	FWD	Electric	Blazing Gray	Black	Automatic
+22	487	RD8HGV484NLOVRUHP	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+23	23	R0JAUHT1L1R3BIKI0	Contoso Motors	Convertible 2DR	2011	AWD	Electric	Racing Green	Beige	Automatic
+24	704	ZV03D9VP79L5BZ98V	Contoso Motors	SUV	2013	FWD	6 Cylinder	Blazing Gray	Black	Automatic
+25	752	OZPT7F80EYFGFFEFA	Contoso Motors	SUV	2004	RWD	8 Cylinder	Blazing Gray	Black	Automatic
+26	26	4WPYRUZII5YV7YA42	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+27	822	I8K5MU1DHDBVGGFFQ	Contoso Motors	SUV	2009	FWD	4 Cylinder	Blazing Gray	Black	Automatic
+28	28	XUF99EW9OIQOMV7Q7	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+29	870	T2OG788FMQZNQGVS2	Contoso Motors	SUV	2016	FWD	4 Cylinder	Blazing Gray	Black	Automatic
+30	30	UXO8LUK75DYL9WZLK	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Blue	Old Lace	Automatic
+31	31	XYDBXU9MA5XXPPQR0	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Silver	Ivory	Automatic
+32	81	JF1GH6B60BG81026	Contoso Motors	Convertible 2DR	2017	RWD	8 Cylinder	Black	Midnight Black	Manual
+33	85	AVHD2GCOA2NN5ES9J	Contoso Motors	Convertible 2DR	2016	RWD	6 Cylinder	Blazing Gray	Black	Automatic
+34	34	ZVTOCRLBYKEB1Y5L9	Contoso Motors	Minivan	2015	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+35	565	RXB14GHQFO3PUYKNS	Contoso Motors	Sedan	2005	AWD	6 Cylinder	Racing Green	Beige	Manual
+36	386	0125DITL7HX8TYA6T	Contoso Motors	Wagon	2016	FWD	6 Cylinder	Deep Blue	White	Automatic
+37	770	5199WY00VHB6G0WDW	Contoso Motors	Sedan	2016	FWD	6 Cylinder	Blue	Old Lace	Manual
+38	830	HOVSW338LVHWN2KVR	Contoso Motors	Sedan	2007	FWD	6 Cylinder	Blue	Old Lace	Manual
+39	22	BPMFLFF6LNYIOMAVX	Contoso Motors	SUV	2005	FWD	Electric	Blazing Gray	Black	Automatic
+40	642	LTZFCUSVPFQ4W7Z4J	Contoso Motors	Truck	2007	FWD	10 Cylinder	Black	Black	Automatic
+41	761	6R0Q5GZP90RLBIZSF	Contoso Motors	Truck	2004	AWD	10 Cylinder	Black	Black	Automatic
+42	530	8UW5Z294E0NJMJPLJ	Contoso Motors	Wagon	2015	FWD	6 Cylinder	Deep Blue	White	Automatic
+43	770	2MVDG47OQ3G5I49FK	Contoso Motors	Wagon	2013	FWD	6 Cylinder	Deep Blue	White	Automatic
+44	44	60G4SUPG5KNFU3ZYS	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+45	45	0IBN9W4FLJTNDM6G4	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+46	280	Q0OIIVH166MJM9SRH	Contoso Motors	SUV	2004	AWD	6 Cylinder	Blazing Gray	Black	Automatic
+47	394	1YMDHCCKY6126ZU1K	Contoso Motors	Wagon	2009	FWD	6 Cylinder	Deep Blue	White	Automatic
+48	881	9RPS1HJG9D1LBEQQH	Contoso Motors	Truck	2011	FWD	10 Cylinder	Black	Black	Automatic
+49	328	0PLKJAYEVRA6NRU0J	Contoso Motors	SUV	2011	AWD	4 Cylinder	Blazing Gray	Black	Automatic
+50	950	5PDU8WYEFFGO40HHC	Contoso Motors	Sedan	2007	FWD	6 Cylinder	White Silver	Smoke White	Manual
+51	139	962GBB2WZOZXU7OMG	Contoso Motors	Hatchback	2012	FWD	6 Cylinder	Deep Blue	White	Automatic
+52	52	YNU5C8YZYT7DOYXQ8	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+53	398	BTV19HPRPU7RWICET	Contoso Motors	SUV	2016	FWD	Electric	Blazing Gray	Black	Automatic
+54	6	MHTP9N792PHK08WJM	Contoso Motors	SUV	2005	AWD	Hybrid	Blue	Black	Automatic
+55	502	J9RO51ZXXUSHUT13B	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+56	56	UE6D2HW9H7KUFMFFO	Contoso Motors	Convertible 2DR	2015	AWD	6 Cylinder	Deep Blue	Brown	Automatic
+57	267	HKTHWDDMML03RMZPR	Contoso Motors	Coupe	2013	RWD	4 Cylinder	Midnight Black	Silverstone	Manual
+58	58	W7ZXWIK8O86SZGH9G	Contoso Motors	Hybrid	2013	FWD	Hybrid	White Silver	Smoke White	Semi-automatic
+59	1	9T9VSN0FI93R6HTIT	Contoso Motors	Truck	2014	AWD	10 Cylinder	Black	Black	Automatic
+60	147	HHP8M4ES04246X7B6	Contoso Motors	Hatchback	2007	AWD	6 Cylinder	Deep Blue	White	Automatic
+61	10	H0BRZNH49CP43HKN1	Contoso Motors	Sedan	2005	FWD	6 Cylinder	White Silver	Smoke White	Manual
+62	154	UHK4NJMODN4CJ8N1Q	Contoso Motors	Sedan	2013	FWD	6 Cylinder	Thunder Gray	Gray	Manual
+63	214	GTL07WURKAEBZO7KO	Contoso Motors	Sedan	2007	AWD	6 Cylinder	Thunder Gray	Gray	Manual
+64	523	92S177DVXRBE1PK45	Contoso Motors	Hatchback	2016	AWD	6 Cylinder	Deep Blue	White	Automatic
+65	266	OIERM0565QG99HAN9	Contoso Motors	Truck	2015	AWD	10 Cylinder	Black	Black	Automatic
+66	650	7O2VKAE0FELJG5ELK	Contoso Motors	Truck	2016	AWD	10 Cylinder	Black	Black	Automatic
+67	651	UXXQX95MAJ1FHJRFA	Contoso Motors	Coupe	2011	AWD	4 Cylinder	Chili Red	Black	Manual
+68	68	A3FQXISX6GIN2G6M2	Contoso Motors	Hybrid	2013	FWD	Hybrid	Deep Blue	Brown	Semi-automatic
+69	54	3BY5XUUAB7MS5BOUQ	Contoso Motors	SUV	2013	AWD	4 Cylinder	Blue	Black	Automatic
+70	535	926ORRXDY9J83POLE	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+71	71	V5UOQH37Z6ZUQEVOA	Contoso Motors	Convertible 2DR	2013	FWD	3 Cylinder	Racing Green	Beige	Automatic
+72	534	EMUKPWIQTTZ8XDAKV	Contoso Motors	SUV	2007	AWD	6 Cylinder	Blue	Black	Automatic
+73	582	A1LCTSY2WHBDL4RXY	Contoso Motors	SUV	2005	FWD	10 Cylinder	Blue	Black	Automatic
+74	74	ZPGYKO3SW7RC58YUZ	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+75	734	K0GMEOI4V7EHGGAR6	Contoso Motors	SUV	2009	FWD	4 Cylinder	Blue	Black	Automatic
+76	76	UOUFX6BWC4G2NU4OA	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+77	782	XF1QTSNCM8M3SKNRX	Contoso Motors	SUV	2016	FWD	Hybrid	Blue	Black	Automatic
+78	78	HOE5ERNKHQA06CAL9	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Blue	Old Lace	Automatic
+79	79	ST95EH8B8NNG34EE3	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Silver	Ivory	Automatic
+80	80	TEE607XTPSEPGIOW0	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+81	81	SNCE1JI16ORA8TZJ6	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+82	82	JCGOM1OM7DNYJW6Y9	Contoso Motors	Minivan	2007	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+83	334	HW67MDOKG6X824CLF	Contoso Motors	Sedan	2010	FWD	6 Cylinder	Blue	Old Lace	Manual
+84	575	HYP1FSUQ6NQUMLBE5	Contoso Motors	Hatchback	2006	FWD	6 Cylinder	Deep Blue	White	Automatic
+85	394	6QSTEN3L3M3CZWPKO	Contoso Motors	Sedan	2015	AWD	6 Cylinder	Blue	Old Lace	Manual
+86	573	W0RXEHZ32SJB3VDX4	Contoso Motors	Sedan	2014	AWD	6 Cylinder	Midnight Black	Silverstone	Manual
+87	992	RY3FMAG69XTBL0KTX	Contoso Motors	SUV	2015	RWD	4 Cylinder	Blue	Black	Automatic
+88	889	9QATZSVHST426DAG1	Contoso Motors	Truck	2004	FWD	10 Cylinder	Black	Black	Automatic
+89	820	CP6TW23WUH9ZHH8GT	Contoso Motors	Convertible 2DR	2015	RWD	8 Cylinder	Chili Red	Red	Manual
+90	822	VXE1D06K67MWOWEJ3	Contoso Motors	Convertible 2DR	2016	RWD	8 Cylinder	Racing Green	Black	Automatic
+91	848	GHRJAC7PDRUQ960AF	Contoso Motors	Convertible 2DR	2014	RWD	8 Cylinder	White Silver	Gray	Manual
+92	888	449PLM0RCNHZ6YHO5	Contoso Motors	Convertible 2DR	2015	RWD	8 Cylinder	Black	Black	Automatic
+93	800	Q7HBIZ6T7172QJP0U	Contoso Motors	Convertible 2DR	2016	RWD	8 Cylinder	Blue	Dark Gray	Manual
+94	801	90LR6IH70DMQNV245	Contoso Motors	Convertible 2DR	2016	RWD	8 Cylinder	Volcanic Orange	Black	AUtomatic
+95	959	G45XN4SW529YCKBST	Contoso Motors	Hatchback	2013	AWD	6 Cylinder	Deep Blue	White	Automatic
+96	129	Z94AOEKMF6Q9K32LQ	Contoso Motors	Truck	2011	FWD	10 Cylinder	Black	Black	Automatic
+97	41	4ZV9MBVJL7K1540ZL	Contoso Motors	SUV	2011	AWD	Hybrid	Blue	Black	Automatic
+98	693	JB5IZCJJCS4DSPQQM	Contoso Motors	Sedan	2007	FWD	6 Cylinder	Racing Green	Beige	Manual
+99	2	6XXVJMY80S4CHSUKW	Contoso Motors	Wagon	2015	FWD	6 Cylinder	Deep Blue	White	Automatic
+100	100	6QLISR018O06X8K44	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Blue	Old Lace	Automatic
+101	43	L6JHAWNP1IXGNF0SP	Contoso Motors	Crossover	2004	AWD	Hybrid	Blue	Black	Automatic
+102	45	YQIIQJAOQW46KX2KS	Contoso Motors	Crossover	2007	AWD	Hybrid	Blue	Black	Automatic
+103	598	MYVBR1ANM44W9A8ZN	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+104	104	OXPVYJT8F5CV0QETY	Contoso Motors	Convertible 2DR	2016	FWD	Hybrid	White Silver	Smoke White	Automatic
+105	275	FO6IFCLO0J6QWI428	Contoso Motors	Coupe	2016	FWD	4 Cylinder	Silver	Ivory	Manual
+106	106	HQ966AF5RI70ST3Y6	Contoso Motors	Hybrid	2013	FWD	Hybrid	Blazing Gray	Nutmeg	Semi-automatic
+107	274	X41MAQ673N3V5XWEG	Contoso Motors	Truck	2015	FWD	10 Cylinder	Black	Black	Automatic
+108	11	OBY5PK2DEXG66GXJG	Contoso Motors	Hatchback	2007	FWD	6 Cylinder	Deep Blue	White	Automatic
+109	958	VHA71CU9U064O5HEE	Contoso Motors	Sedan	2016	FWD	6 Cylinder	Blue	Old Lace	Manual
+110	18	84CFOIJACQGPF9ZDL	Contoso Motors	Sedan	2007	FWD	6 Cylinder	Deep Blue	Brown	Manual
+111	78	CLARVXUPYK83L0UMN	Contoso Motors	Sedan	2013	AWD	6 Cylinder	White Silver	Smoke White	Manual
+112	147	VJ5B73VXKJGZWDG0B	Contoso Motors	Hatchback	2006	FWD	6 Cylinder	Deep Blue	White	Automatic
+113	395	N2S4F51PGIFY8KK2Z	Contoso Motors	Truck	2007	FWD	12 Cylinder	Black	Black	Automatic
+114	635	XZQSSPJVU0SM7MLWL	Contoso Motors	Truck	2004	AWD	12 Cylinder	Black	Black	Automatic
+115	883	XMMHB1HUHLP2FEM3Z	Contoso Motors	Coupe	2006	FWD	4 Cylinder	Electric Blue	Red	Manual
+116	116	CBBAZP0M5MBYTXLF3	Contoso Motors	Hybrid	2013	FWD	Hybrid	White Silver	Smoke White	Semi-automatic
+117	55	5L2GJRKV27YOM6Z3R	Contoso Motors	SUV	2016	FWD	6 Cylinder	Blue	Black	Automatic
+118	631	JVITFBM1K8F6P8O0H	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+119	119	0LYX3XH2KQYH4N1HH	Contoso Motors	Convertible 2DR	2016	FWD	6 Cylinder	Electric Blue	Red	Automatic
+120	62	AD91ZJFRBAZDLZEHD	Contoso Motors	SUV	2007	FWD	3 Cylinder	Blue	Black	Automatic
+121	65	KCF1B6NPOS4RDK0HR	Contoso Motors	SUV	2004	FWD	Electric	Blue	Black	Automatic
+122	122	VVR5QYAX0BY9F80GL	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+123	69	84WCQ14XBWR8VNEY6	Contoso Motors	Crossover	2011	FWD	10 Cylinder	Blue	Black	Automatic
+124	124	SV94DVYSPT74V7ROW	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Blue	Old Lace	Automatic
+125	70	CM6WVRC0NHBFWEITJ	Contoso Motors	SUV	2005	FWD	12 Cylinder	Blue	Black	Automatic
+126	126	141PHXSEFBVZ60Z6U	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+127	127	PRUQC9HEW3JMSEYZL	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+128	128	VVL9DCWP2BR82PVZT	Contoso Motors	Minivan	2011	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+129	129	12H3A1VTFIBICG08V	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Racing Green	Beige	Automatic
+130	130	LW0D9X0CSULXMVFW8	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+131	342	9PZJ20GGBXZNHUWEJ	Contoso Motors	Sedan	2013	FWD	6 Cylinder	Thunder Gray	Gray	Manual
+132	155	DU8GQ0ORH2QR7MYL6	Contoso Motors	Hatchback	2014	FWD	6 Cylinder	Deep Blue	White	Automatic
+133	402	0D94JQQVVLFJHGWG3	Contoso Motors	Sedan	2007	AWD	10 Cylinder	Volcanic Orange	White	Manual
+134	462	P7178468GYLAA3O81	Contoso Motors	Sedan	2005	RWD	10 Cylinder	Blue	Old Lace	Manual
+135	85	HYY0HVD6WBPS62RQL	Contoso Motors	SUV	2011	FWD	8 Cylinder	Blue	Black	Automatic
+136	779	YIACHKQLKD47DJ7GZ	Contoso Motors	Truck	2016	AWD	12 Cylinder	Black	Black	Automatic
+137	882	T5E2KFO1FDN6M7WCH	Contoso Motors	Truck	2005	FWD	12 Cylinder	Black	Black	Automatic
+138	387	P6GN82OKKZUINQJMH	Contoso Motors	Hatchback	2011	FWD	6 Cylinder	Deep Blue	White	Automatic
+139	395	IHJIZ2RW4KTMKJNJP	Contoso Motors	Hatchback	2016	AWD	6 Cylinder	Deep Blue	White	Automatic
+140	140	TV6LN1B3KPQJEH1TZ	Contoso Motors	Minivan	2016	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+141	141	Z20AU24O1TLEW8IJ7	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Racing Green	Beige	Automatic
+142	88	RUVB2F10GV9F5KEGZ	Contoso Motors	SUV	2005	FWD	Electric	Blue	Black	Automatic
+143	531	01MWFV89QBUM2NDIH	Contoso Motors	Hatchback	2013	FWD	6 Cylinder	Deep Blue	White	Automatic
+144	19	CC9O3GNGXD4IYVHZL	Contoso Motors	Truck	2012	FWD	12 Cylinder	Black	Black	Automatic
+145	89	RQWE40TVB2JF104UO	Contoso Motors	SUV	2007	FWD	Hybrid	Blue	Black	Automatic
+146	207	DB2JXBWBLCL09FJFU	Contoso Motors	Sedan	2016	AWD	12 Cylinder	Silver	Ivory	Manual
+147	583	HUSDFMYIX8AUMMBSZ	Contoso Motors	Hatchback	2007	FWD	6 Cylinder	Deep Blue	White	Automatic
+148	148	A850GFNHN2T5ZBWLU	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Blue	Old Lace	Automatic
+149	91	X87GMLMPI3N3452EH	Contoso Motors	Crossover	2011	FWD	Electric	Blue	Black	Automatic
+150	93	KJTMQ3YDP3J4E0AUM	Contoso Motors	Crossover	2005	FWD	6 Cylinder	Blue	Black	Automatic
+151	679	FXM5KQA4V1RLWO50C	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+152	152	LI496C6SXJN1DYY8R	Contoso Motors	Convertible 2DR	2013	FWD	Hybrid	White Silver	Smoke White	Automatic
+153	891	3KU61YXFMS3SB9VYH	Contoso Motors	Coupe	2007	FWD	4 Cylinder	Racing Green	Beige	Manual
+154	154	HO0BS98YQQ93PNGOM	Contoso Motors	Hybrid	2013	FWD	Hybrid	Blazing Gray	Nutmeg	Semi-automatic
+155	643	MCSX0IY7P1G69F443	Contoso Motors	Truck	2007	RWD	12 Cylinder	Black	Black	Automatic
+156	771	X7MUMNEC7K6AVZTA8	Contoso Motors	Hatchback	2014	FWD	6 Cylinder	Deep Blue	White	Automatic
+157	386	0NJ3E4WL55FTM9EJ6	Contoso Motors	Sedan	2015	AWD	12 Cylinder	White Silver	Smoke White	Manual
+158	446	G8VIZT4JT1BG4XGEZ	Contoso Motors	Sedan	2005	FWD	12 Cylinder	White Silver	Smoke White	Manual
+159	515	9SYGOXZYVTWS1RXQR	Contoso Motors	Sedan	2016	FWD	10 Cylinder	Midnight Black	Silverstone	Manual
+160	967	AIMYX6V6VUQQ6NJBO	Contoso Motors	Hatchback	2016	AWD	6 Cylinder	Deep Blue	White	Automatic
+161	890	16K43B9EXZJ2XJTPJ	Contoso Motors	Truck	2005	FWD	12 Cylinder	Black	Black	Automatic
+162	27	HS8OGPYC88OR70ELE	Contoso Motors	Truck	2006	AWD	12 Cylinder	Black	Black	Automatic
+163	131	74J2KIPUKN126DB68	Contoso Motors	Coupe	2004	FWD	4 Cylinder	Pepper White	Dark Gray	Manual
+164	164	3MLZGU0B95D1V3MZS	Contoso Motors	Hybrid	2013	FWD	Hybrid	White Silver	Smoke White	Semi-automatic
+165	103	N81KF5CPUBAPCNID8	Contoso Motors	SUV	2013	FWD	Hybrid	Blue	Black	Automatic
+166	694	5YHTI7I7HUGG0QAU7	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+167	167	FBQ93S6GERDWDGI3B	Contoso Motors	Convertible 2DR	2013	AWD	Hybrid	Electric Blue	Red	Automatic
+168	110	JLUW83P79X3MWNGQ3	Contoso Motors	SUV	2005	FWD	4 Cylinder	Blue	Black	Automatic
+169	113	QJ30CU7JAYM60OIG4	Contoso Motors	SUV	2011	RWD	4 Cylinder	Blue	Black	Automatic
+170	170	BTQDYNLSULF1I6XSY	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+171	117	5DD9KEOGLLIQ68U1V	Contoso Motors	Crossover	2004	AWD	6 Cylinder	Blue	Black	Automatic
+172	172	VXPIIX3G3WFJQQGJP	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Blue	Old Lace	Automatic
+173	158	FJ80LSTGDWVA9R23E	Contoso Motors	SUV	2005	FWD	Hybrid	Blue	Black	Automatic
+174	174	2OFBAAU8GA3IORDDJ	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+175	175	9J2KVIVC0M0MX0C7J	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+176	176	DW8HNGPJFSUCSJQ45	Contoso Motors	Minivan	2016	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+177	177	HM2PUCY2VW99H5LJP	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Racing Green	Beige	Automatic
+178	178	ZV6LW5PM03ILMLXQ8	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+179	566	O49ITMGKTW81HWWV1	Contoso Motors	Sedan	2007	AWD	10 Cylinder	Thunder Gray	Gray	Manual
+180	10	M7SFAP1ED7VNVNWXF	Contoso Motors	Wagon	2015	AWD	6 Cylinder	Deep Blue	Nutmeg	Automatic
+181	626	KYCXVEM3JY5QN6JCU	Contoso Motors	Sedan	2013	FWD	10 Cylinder	Thunder Gray	Gray	Manual
+182	831	6M8D18I4CCYRZH4LO	Contoso Motors	Sedan	2016	FWD	10 Cylinder	Silver	Ivory	Manual
+183	262	36NUFUIMP760EPS2D	Contoso Motors	SUV	2009	AWD	Hybrid	Blue	Black	Automatic
+184	130	XUE4MP2SHKKTSPQBB	Contoso Motors	Truck	2009	FWD	12 Cylinder	Black	Black	Automatic
+185	11	GHLUB6ONKMOSI7E77	Contoso Motors	Truck	2014	FWD	6 Cylinder	Black	Black	Automatic
+186	19	JEVBYNRKCFY0AXG4M	Contoso Motors	Hatchback	2016	FWD	6 Cylinder	Deep Blue	Silverstone	Automatic
+187	395	DXWRKFLC7Z7DIB5B9	Contoso Motors	Hatchback	2004	FWD	6 Cylinder	Deep Blue	Silverstone	Automatic
+188	188	1SZ0YBL52GH4DU6R4	Contoso Motors	Minivan	2015	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+189	189	6PQGV44MP0RW7K19T	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Racing Green	Beige	Automatic
+190	310	G6X4F0WSMSM8R3RN0	Contoso Motors	SUV	2016	FWD	4 Cylinder	Blue	Black	Automatic
+191	403	DSMFG6SQSPZG5TK43	Contoso Motors	Hatchback	2013	AWD	6 Cylinder	Deep Blue	Black	Automatic
+192	251	2UM8372QJ1AUJ4V9H	Contoso Motors	Truck	2016	FWD	6 Cylinder	Black	Black	Automatic
+193	5	W9FTHG27LZN1YWO0Y	Contoso Motors	Crossover	2004	FWD	Electric	Chili Red	Black	Automatic
+194	899	C3TJEP9O4OHLFOYEK	Contoso Motors	Sedan	2004	FWD	10 Cylinder	Chili Red	Black	Manual
+195	191	YDBOVMH3U2UZT76UA	Contoso Motors	Hatchback	2007	FWD	6 Cylinder	Pepper White	Black	Automatic
+196	196	TSH5CTQ742NK69LT0	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+197	29	8OMCL3LGI7XNCC21U	Contoso Motors	Crossover	2014	FWD	Hybrid	Chili Red	Black	Automatic
+198	53	U30I1WB31T9XBKCMY	Contoso Motors	Crossover	2011	FWD	4 Cylinder	Chili Red	Black	Automatic
+199	742	550JLST7HPQGU70AN	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+200	200	1SJG95N3TFJLZL4CY	Contoso Motors	Convertible 2DR	2004	AWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+201	345	M3T7ZNZQJDDLJ7XQ9	Contoso Motors	Coupe	2005	AWD	4 Cylinder	Pepper White	Dark Gray	Manual
+202	202	MGQP7XL2GZFICD0QY	Contoso Motors	Hybrid	2013	FWD	Hybrid	Thunder Gray	Gray	Semi-automatic
+203	498	K3HRWTZJT22XAPRBY	Contoso Motors	Truck	2010	FWD	6 Cylinder	Black	Black	Automatic
+204	387	XI9TFYQUDKQWA44IS	Contoso Motors	Hatchback	2013	AWD	6 Cylinder	Racing Green	Black	Automatic
+205	215	JVBSIRUIUUIRT2Z3A	Contoso Motors	Sedan	2013	AWD	10 Cylinder	Pepper White	Dark Gray	Manual
+206	523	U3Q20OC4V7OVZQD64	Contoso Motors	Sedan	2013	RWD	12 Cylinder	Silver	Ivory	Automatic
+207	574	3RULDLY2XJX5W03EH	Contoso Motors	Sedan	2015	AWD	6 Cylinder	White Silver	Smoke White	Automatic
+208	618	ANNL32RN5YYDC1616	Contoso Motors	Wagon	2005	FWD	6 Cylinder	Blue	Black	Automatic
+209	259	8KQI9U6PZ45G0G46X	Contoso Motors	Truck	2013	FWD	6 Cylinder	Black	Black	Automatic
+210	746	IEYRW40VBV7K32V6L	Contoso Motors	Truck	2015	FWD	6 Cylinder	Black	Black	Automatic
+211	489	AAJQER5038Q78UOTV	Contoso Motors	Coupe	2004	AWD	4 Cylinder	Silver	Ivory	Manual
+212	212	SZVVERBWRBYG17PTU	Contoso Motors	Hybrid	2013	FWD	Hybrid	Blazing Gray	Nutmeg	Semi-automatic
+213	77	PGCWPNBZ6LQ21PF9T	Contoso Motors	Crossover	2014	FWD	8 Cylinder	Chili Red	Black	Automatic
+214	790	2F542XPU60LRXCNNQ	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+215	215	LP9A6PXHGPDYCT154	Contoso Motors	Convertible 2DR	2016	FWD	Hybrid	Pepper White	Dark Gray	Automatic
+216	123	9IHEP7L28HBMWVEY7	Contoso Motors	Crossover	2013	FWD	4 Cylinder	Chili Red	Black	Automatic
+217	135	RQ32V8PDJTE5UQSHQ	Contoso Motors	SUV	2006	AWD	Hybrid	Chili Red	Black	Automatic
+218	218	KFMFVCNXDSN30IXN0	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Blue	Old Lace	Automatic
+219	171	351ZSO5XWXYCUVQQ6	Contoso Motors	Crossover	2010	AWD	4 Cylinder	Chili Red	Black	Automatic
+220	220	KULCBKCPR7KCYNL57	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+221	557	H89VPI708KGT4QQJR	Contoso Motors	SUV	2011	FWD	4 Cylinder	Chili Red	Black	Automatic
+222	222	ZV42JTYUZYXLS0H7C	Contoso Motors	Minivan	2005	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+223	223	SH0L79SV2VCIO9ZTF	Contoso Motors	Minivan	2006	FWD	6 Cylinder	Racing Green	Beige	Automatic
+224	224	Z3YMNSOQZ4UBN5APB	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+225	225	DRT0Q802HU1LZCI3T	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Electric Blue	Red	Automatic
+226	226	PJC90C6A84L8CREMC	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+227	634	QXZKFBIB1W26O5FAE	Contoso Motors	Sedan	2005	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+228	627	8FVWUY730VQZF3XOV	Contoso Motors	Hatchback	2014	FWD	6 Cylinder	Pepper White	Black	Automatic
+229	694	G6RY4WQF149EB309W	Contoso Motors	Sedan	2016	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+230	763	ZZJUOWYKRXM8J0HOL	Contoso Motors	Sedan	2006	FWD	6 Cylinder	Racing Green	Beige	Automatic
+231	709	217YAFI9N5U8ERPL0	Contoso Motors	Crossover	2005	FWD	8 Cylinder	Chili Red	Black	Automatic
+232	267	2559R3T5JMAMOQCYW	Contoso Motors	Truck	2011	FWD	6 Cylinder	Black	Black	Automatic
+233	48	39GWXOGV27KIR9CZF	Contoso Motors	Truck	2007	FWD	6 Cylinder	Black	Black	Automatic
+234	763	N7E1ZLIBFDRZUY1F9	Contoso Motors	Hatchback	2007	FWD	6 Cylinder	Racing Green	Black	Automatic
+235	3	7Z63SN96WUO9078UC	Contoso Motors	Hatchback	2013	FWD	6 Cylinder	Pepper White	Black	Automatic
+236	236	CR8AEJHPJPX0RFDJT	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+237	237	6KG3RFCNVM8D5XAU6	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Electric Blue	Red	Automatic
+238	733	RMMFWD5RYX9QPR2O1	Contoso Motors	Crossover	2011	FWD	4 Cylinder	Chili Red	Black	Automatic
+239	199	EOFJ9EE8WHS5576FJ	Contoso Motors	Hatchback	2014	FWD	6 Cylinder	Racing Green	Black	Automatic
+240	113	O3FNJ4LMVTQ460NE3	Contoso Motors	Truck	2005	FWD	6 Cylinder	Black	Black	Automatic
+241	757	OEEU3LFOJYUECCAY2	Contoso Motors	Crossover	2004	AWD	6 Cylinder	Chili Red	Black	Automatic
+242	907	NIBPFRW6PF3AJYC78	Contoso Motors	Sedan	2007	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+243	626	7B4PZSBEHHGQ9TL4G	Contoso Motors	Wagon	2005	FWD	6 Cylinder	Volcanic Orange	Black	Automatic
+244	244	36A60Q4A10EZSSUAF	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+245	781	JQ6T0KZ77C142FJS2	Contoso Motors	Crossover	2007	FWD	Electric	Chili Red	Black	Automatic
+246	803	YBCR5S7UHQTERSRBP	Contoso Motors	Crossover	2007	FWD	6 Cylinder	Chili Red	Black	Automatic
+247	838	ID4NDGXOUECEEMCSP	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+248	248	GGMI6EAOC7T5DPOBB	Contoso Motors	Convertible 2DR	2011	FWD	8 Cylinder	Blazing Gray	Nutmeg	Automatic
+249	499	W480F2A76XNQYE8ZR	Contoso Motors	Coupe	2007	FWD	4 Cylinder	Chili Red	Black	Manual
+250	250	DZ42BCLDOEMFZ6MIG	Contoso Motors	Hybrid	2013	FWD	Hybrid	Thunder Gray	Gray	Semi-automatic
+251	114	7NNQ0XE3WYY1STK76	Contoso Motors	Truck	2007	AWD	6 Cylinder	Black	Black	Automatic
+252	635	U4AS6E41OZTT9F8PQ	Contoso Motors	Hatchback	2012	FWD	6 Cylinder	Electric Blue	Black	Automatic
+253	79	D284BARJKP9IH5RPO	Contoso Motors	Sedan	2014	AWD	6 Cylinder	Racing Green	Beige	Automatic
+254	147	MDVGCN46K837U7BJX	Contoso Motors	Sedan	2013	FWD	6 Cylinder	Silver	Ivory	Automatic
+255	463	ROEKFVU4RPFJUEWL5	Contoso Motors	Sedan	2007	FWD	6 Cylinder	Silver	Ivory	Automatic
+256	11	5OEH6YE41ZVOQXUX4	Contoso Motors	Hatchback	2016	AWD	6 Cylinder	Electric Blue	Black	Automatic
+257	192	8PX8ZFK0BBI26OW1K	Contoso Motors	Truck	2016	FWD	6 Cylinder	Black	Black	Automatic
+258	232	SOQ4O5DGEH8RY9ILH	Contoso Motors	Truck	2015	FWD	6 Cylinder	Black	Black	Automatic
+259	547	4OGNOAI6V5FROIVFK	Contoso Motors	Coupe	2004	AWD	4 Cylinder	Chili Red	Black	Manual
+260	260	0AWR3XIDJ1U1BMKQA	Contoso Motors	Hybrid	2013	FWD	Hybrid	Blazing Gray	Nutmeg	Semi-automatic
+261	815	RVRUL4C54YEE6RME2	Contoso Motors	SUV	2014	FWD	Hybrid	Chili Red	Black	Automatic
+262	967	DQA4I40H1JH2L643H	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+263	263	29B894VC3B79UHWBP	Contoso Motors	Convertible 2DR	2007	FWD	Electric	Pepper White	Dark Gray	Automatic
+264	851	PE6UI0UM05MWMIACN	Contoso Motors	Crossover	2006	FWD	4 Cylinder	Chili Red	Black	Automatic
+265	863	AV9M6DEWSQUX2VB4L	Contoso Motors	SUV	2007	AWD	Hybrid	Chili Red	Black	Automatic
+266	266	9Q7NP86FNK8UMZC74	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Blue	Old Lace	Automatic
+267	897	DZVFKZ3ZCSSWDFAFU	Contoso Motors	SUV	2004	AWD	8 Cylinder	Chili Red	Black	Automatic
+268	268	1Q2FOUKE63J7OK3LI	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+269	921	6P471QFZWFQHWFMKI	Contoso Motors	SUV	2014	FWD	Hybrid	Chili Red	Black	Automatic
+270	270	C27GX6BM2GYV9HX9Y	Contoso Motors	Minivan	2005	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+271	271	4DU5NJMFVRKIM3P1O	Contoso Motors	Minivan	2012	FWD	6 Cylinder	Racing Green	Beige	Automatic
+272	272	6BTD6NHP7DS1W7SJX	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+273	273	7012NSYW542KZM7WE	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Electric Blue	Red	Automatic
+274	274	GYTKQ1BS38TKLCCBM	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+275	62	TL2YQRP3GMW2FC2KX	Contoso Motors	Sedan	2009	AWD	4 Cylinder	Thunder Gray	Gray	Automatic
+276	447	E8DCZDDLIWCKVCVHU	Contoso Motors	Hatchback	2013	FWD	6 Cylinder	Pepper White	Black	Automatic
+277	131	722BH1XOFDHU03YB9	Contoso Motors	Sedan	2007	AWD	4 Cylinder	Electric Blue	Red	Automatic
+278	182	CQLGZP7J9WH1B4ZRE	Contoso Motors	Sedan	2005	FWD	4 Cylinder	Volcanic Orange	White	Automatic
+279	945	DBM9C43ALR2DRYF8S	Contoso Motors	SUV	2011	FWD	Electric	Chili Red	Black	Automatic
+280	233	Q9Y2DLKX0V567FIJN	Contoso Motors	Truck	2004	FWD	6 Cylinder	Black	Black	Automatic
+281	288	870I604O4BXFLA721	Contoso Motors	Truck	2004	FWD	6 Cylinder	Black	Black	Automatic
+282	3	WORG68Z2PLTNZDBI7	Contoso Motors	Hatchback	2006	AWD	4 Cylinder	Pepper White	Black	Automatic
+283	12	9C2RHVRVLMEJDBXLP	Contoso Motors	Wagon	2015	FWD	4 Cylinder	Blazing Gray	Black	Automatic
+284	284	E45JME5KYJF6ICLUD	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+285	285	7M05O1PNOJUW5VR9D	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+286	969	3QN85DCQ8IBUUBA0Y	Contoso Motors	SUV	2014	AWD	Hybrid	Chili Red	Black	Automatic
+287	51	5FY0WL5EQPVD9LKYW	Contoso Motors	Hatchback	2012	FWD	4 Cylinder	Pepper White	Black	Automatic
+288	347	B2UC9Q15DWAPBP2VR	Contoso Motors	Truck	2016	AWD	6 Cylinder	Silver	Black	Automatic
+289	133	Y8TWTEKBBH8CNEKI8	Contoso Motors	SUV	2007	AWD	6 Cylinder	Chili Red	Black	Automatic
+290	242	O9UGQ1PR18CQAEKVE	Contoso Motors	Sedan	2016	AWD	4 Cylinder	Blue	Old Lace	Automatic
+291	108	TPQGWQYW26AHH9TLI	Contoso Motors	Wagon	2005	FWD	4 Cylinder	Thunder Gray	Black	Automatic
+292	292	38AWD03G73Q6DUA3L	Contoso Motors	Minivan	2011	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+293	261	VI4IS9NCX3XERQF73	Contoso Motors	Crossover	2011	AWD	Electric	Chili Red	Black	Automatic
+294	285	FEUSSIGY4UQGO5TVJ	Contoso Motors	Crossover	2004	FWD	Hybrid	Chili Red	Black	Automatic
+295	63	ZMP7T83Y1SR5544F7	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+296	296	B0RTKSTPYD2DGODTV	Contoso Motors	Convertible 2DR	2013	RWD	6 Cylinder	Thunder Gray	Gray	Automatic
+297	691	LR3DODLS7329DDTWM	Contoso Motors	Coupe	2016	FWD	4 Cylinder	Midnight Black	Silverstone	Manual
+298	298	978NUG9ZG3DVJL1MX	Contoso Motors	Hybrid	2013	FWD	Hybrid	Volcanic Orange	White	Semi-automatic
+299	424	X77PUP820K6B2MP99	Contoso Motors	Truck	2011	AWD	6 Cylinder	Silver	Black	Automatic
+300	112	QEC5VLEBW5ENSEQAW	Contoso Motors	Wagon	2004	RWD	4 Cylinder	Blue	Old Lace	Automatic
+301	447	LHLMIBC5OPP2UZBL5	Contoso Motors	Sedan	2012	FWD	4 Cylinder	Racing Green	Beige	Automatic
+302	139	HIF5LODXQC4QD20O5	Contoso Motors	Sedan	2016	AWD	4 Cylinder	Racing Green	Beige	Automatic
+303	190	5J0AP38IFFE3H3P34	Contoso Motors	Sedan	2005	FWD	4 Cylinder	Thunder Gray	Gray	Automatic
+304	132	LBWKGBW5WE5MMRF2J	Contoso Motors	Hatchback	2016	AWD	4 Cylinder	Blue	Gray	Automatic
+305	425	LF8RQP1N78DQK0G6J	Contoso Motors	Truck	2014	FWD	6 Cylinder	Silver	Black	Automatic
+306	545	847HUI23QD4NM1S9J	Contoso Motors	Truck	2011	RWD	6 Cylinder	Silver	Black	Automatic
+307	921	0RBCSW4NPPEEKF3BQ	Contoso Motors	Coupe	2004	RWD	4 Cylinder	Pepper White	Dark Gray	Manual
+308	308	ZRIPVQ77OZUKB0Y61	Contoso Motors	Hybrid	2013	FWD	Hybrid	Thunder Gray	Gray	Semi-automatic
+309	309	4ERRFYCP6UQ81FG7S	Contoso Motors	Crossover	2007	FWD	4 Cylinder	Chili Red	Black	Automatic
+310	126	7G8GJ9SAFYHU76KXQ	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+311	311	E4Q4L1AFCQHJU7OGW	Contoso Motors	Convertible 2DR	2006	AWD	Hybrid	Chili Red	Black	Automatic
+312	333	OPYOX6FJD1XUM3USR	Contoso Motors	Crossover	2011	AWD	8 Cylinder	Chili Red	Black	Automatic
+313	379	JRXDPJOKH96PFXSW2	Contoso Motors	Crossover	2006	FWD	4 Cylinder	Chili Red	Black	Automatic
+314	314	GBZ42PSLANFVHXRWM	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+315	391	N3VP3KGLV7AZ7UDLF	Contoso Motors	SUV	2007	FWD	Hybrid	Chili Red	Black	Automatic
+316	316	Q8GLGAECVVBV4YDL5	Contoso Motors	Minivan	2016	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+317	427	ZP45GAHWWX484JIDS	Contoso Motors	Crossover	2012	FWD	4 Cylinder	Chili Red	Black	Automatic
+318	318	6AHIENBQ3IE0BX63L	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+319	319	8JVCS7OF5R71ZG1VJ	Contoso Motors	Minivan	2014	FWD	6 Cylinder	Electric Blue	Red	Automatic
+320	320	TP2EHAA57KII7LIGJ	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+321	321	RIBJLHHKCFVPCYPIP	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+322	322	9ZJ8ZAOW2ZDCFJHRS	Contoso Motors	Minivan	2010	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+323	250	FRVQ1FXYHRC6J04RK	Contoso Motors	Sedan	2009	AWD	4 Cylinder	Volcanic Orange	White	Automatic
+324	228	UANMTDWRW00TJ28QV	Contoso Motors	Hatchback	2016	FWD	4 Cylinder	Blue	White	Automatic
+325	310	CPGA4ETZIMOP82T9E	Contoso Motors	Sedan	2015	FWD	4 Cylinder	Volcanic Orange	White	Automatic
+326	379	72KW331LQW1QR9NIX	Contoso Motors	Sedan	2007	RWD	4 Cylinder	Pepper White	Dark Gray	Automatic
+327	439	2JXM1P3WJ0HZQBR6S	Contoso Motors	SUV	2004	AWD	4 Cylinder	Chili Red	Black	Automatic
+328	546	R2VX77FUK9B51P90E	Contoso Motors	Truck	2009	FWD	6 Cylinder	Silver	Black	Automatic
+329	568	KYCY6I07C0KJ459Q1	Contoso Motors	Truck	2011	AWD	6 Cylinder	Silver	Black	Automatic
+330	234	UPUGBZ8I8MD3OQJ5N	Contoso Motors	Wagon	2010	AWD	4 Cylinder	Blue	Smoke White	Automatic
+331	243	F3512YWMZF1WA2GKR	Contoso Motors	Hatchback	2011	AWD	4 Cylinder	Blue	Ivory	Automatic
+332	332	XKK5DSG4YQ3UUHJLL	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+333	333	DZ9OJAMDUDQIFWG45	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+334	449	9BZ7D8XML1OREBU6Z	Contoso Motors	SUV	2014	FWD	6 Cylinder	Chili Red	Black	Automatic
+335	252	EIS8TO7IBPGSUGAFC	Contoso Motors	Wagon	2013	FWD	4 Cylinder	Blue	White	Automatic
+336	664	GEPLA8Z81Y788GDV5	Contoso Motors	Truck	2007	FWD	6 Cylinder	Silver	Black	Automatic
+337	473	F4XK9KWUPSQEKCQ44	Contoso Motors	SUV	2011	AWD	Electric	Chili Red	Black	Automatic
+338	695	JIA2JAPA34C2AMK5C	Contoso Motors	Sedan	2011	FWD	4 Cylinder	Pepper White	Dark Gray	Automatic
+339	291	2J34P6DUJ5TLGLK7J	Contoso Motors	Hatchback	2013	FWD	4 Cylinder	Blue	Silverstone	Automatic
+340	340	9Y1PTAE0DAXZCB4K6	Contoso Motors	Minivan	2013	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+341	497	VKJOFELAS7M9H0IOW	Contoso Motors	SUV	2014	AWD	6 Cylinder	Chili Red	Black	Automatic
+342	102	AT814MUK5J0G3JPOD	Contoso Motors	SUV	2010	FWD	Hybrid	Deep Blue	Black	Automatic
+343	159	8YQEXY61638YKBL4O	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+344	344	QKGNSLFNKYGWJ4QR8	Contoso Motors	Convertible 2DR	2004	RWD	4 Cylinder	Thunder Gray	Gray	Automatic
+345	65	ZWEDMO23SMRZUPPK3	Contoso Motors	Coupe	2011	AWD	4 Cylinder	Silver	Ivory	Manual
+346	346	2B102NSZTIA304BJR	Contoso Motors	Hybrid	2013	FWD	Hybrid	Volcanic Orange	White	Semi-automatic
+347	665	JLCVKVD9F3032F6JR	Contoso Motors	Truck	2004	FWD	6 Cylinder	Silver	Black	Automatic
+348	379	SRWH1B23OM3AOSB28	Contoso Motors	Hatchback	2013	AWD	4 Cylinder	Blue	Dark Gray	Automatic
+349	318	649PZ6LT55M9ELLL4	Contoso Motors	Sedan	2015	FWD	4 Cylinder	Thunder Gray	Gray	Automatic
+350	387	BIWYSE0RLUJFVWVVV	Contoso Motors	Sedan	2014	FWD	4 Cylinder	Electric Blue	Red	Automatic
+351	438	RWIM837UQOPQNJBJ1	Contoso Motors	Sedan	2009	AWD	4 Cylinder	Volcanic Orange	White	Automatic
+352	426	AOEKR0D869SYL4DTA	Contoso Motors	Wagon	2015	FWD	4 Cylinder	Blue	Gray	Automatic
+353	689	67E710RBKX9C4LKLX	Contoso Motors	Truck	2014	AWD	6 Cylinder	Silver	Black	Automatic
+354	690	F8MB6Z8E20PB290YW	Contoso Motors	Truck	2015	RWD	6 Cylinder	Silver	Black	Automatic
+355	123	1RTJG39L0ZJDM0YRF	Contoso Motors	Coupe	2011	RWD	4 Cylinder	Chili Red	Black	Manual
+356	356	APZK8MLD6NRH8AE1B	Contoso Motors	Hybrid	2013	FWD	Hybrid	Thunder Gray	Gray	Semi-automatic
+357	150	I3KWWJGS9QF2YVZEI	Contoso Motors	SUV	2009	AWD	6 Cylinder	Deep Blue	Black	Automatic
+358	207	JFY53LLTFONNTTZFC	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+359	359	LQS47SYHDPU7PY659	Contoso Motors	Convertible 2DR	2012	FWD	Hybrid	Chili Red	Black	Automatic
+360	512	N3PI8UMX2FKPBSLKJ	Contoso Motors	SUV	2016	FWD	8 Cylinder	Deep Blue	Black	Automatic
+361	560	ZBA97K3ZHMJWKM8VL	Contoso Motors	SUV	2005	FWD	6 Cylinder	Deep Blue	Black	Automatic
+362	362	U727IUNSWAWN20S83	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+363	630	AYJWKOVO1YUNA76I7	Contoso Motors	SUV	2005	AWD	Hybrid	Deep Blue	Black	Automatic
+364	364	S2X3N4BACU2TN96FJ	Contoso Motors	Minivan	2015	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+365	678	BRF8PXVFCCYM2DWCW	Contoso Motors	SUV	2005	AWD	4 Cylinder	Deep Blue	Black	Automatic
+366	366	YACKN696MBIRX8J9C	Contoso Motors	Minivan	2010	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+367	367	GN363ZCEXYXJDESOH	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Electric Blue	Red	Automatic
+368	368	J5FIRE115YCDREGO2	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+369	369	NO2JM5T62TH82JE0G	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+370	370	0FQC86QTFJ7YKFLP1	Contoso Motors	Minivan	2009	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+371	498	VWPV36QH0X8VTLUVG	Contoso Motors	Sedan	2015	RWD	4 Cylinder	Blue	Old Lace	Automatic
+372	427	96E454V8GFVILTWSS	Contoso Motors	Hatchback	2016	FWD	4 Cylinder	Blue	Dark Gray	Automatic
+373	2	8J0U8XCPRGW4Z3NQE	Contoso Motors	Sedan	2005	FWD	4 Cylinder	Thunder Gray	Gray	Automatic
+374	50	6I1PU5IJTTW5JW0VL	Contoso Motors	Sedan	2005	FWD	4 Cylinder	Thunder Gray	Gray	Automatic
+375	830	6EAE4IIMXY3RHH6LZ	Contoso Motors	SUV	2007	AWD	6 Cylinder	Deep Blue	Black	Automatic
+376	720	60JXAVE61HUYRYXZX	Contoso Motors	Truck	2016	FWD	6 Cylinder	Silver	Black	Automatic
+377	864	64CIW3DOG0CETY0M5	Contoso Motors	Truck	2011	FWD	6 Cylinder	Silver	Black	Automatic
+378	448	UZQXXBVKVAIC9ZF4G	Contoso Motors	Wagon	2016	FWD	4 Cylinder	Blue	Nutmeg	Automatic
+379	544	NS0NCNF06CW7PLQXN	Contoso Motors	Wagon	2016	AWD	4 Cylinder	Blue	Gray	Automatic
+380	380	4H61HJFAK7VWXX1OV	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+381	381	LQY0148LQ37YJ19NH	Contoso Motors	Minivan	2014	FWD	6 Cylinder	Chili Red	Black	Automatic
+382	878	1C8026X1LS42E7916	Contoso Motors	SUV	2015	FWD	6 Cylinder	Deep Blue	Black	Automatic
+383	619	V7D26DTTXLSIS56M1	Contoso Motors	Hatchback	2006	AWD	4 Cylinder	Blue	Gray	Automatic
+384	875	MTP34WQYET4MBXKP3	Contoso Motors	Truck	2016	FWD	6 Cylinder	Silver	Black	Automatic
+385	136	UV25HI2L1W28HEVYF	Contoso Motors	SUV	2004	AWD	6 Cylinder	Deep Blue	Black	Automatic
+386	63	9GAK9WB9PERDMBYWH	Contoso Motors	Sedan	2004	AWD	4 Cylinder	Pepper White	Dark Gray	Automatic
+387	666	JYIPJNLSPYCKWKKNJ	Contoso Motors	Wagon	2005	FWD	4 Cylinder	Blue	Gray	Automatic
+388	388	2FU0GEB32SFRRA6LQ	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+389	206	SJPIEUI7S9WPHTAAI	Contoso Motors	SUV	2005	RWD	6 Cylinder	Deep Blue	Black	Automatic
+390	254	GPI5N9BGT5NRZN00V	Contoso Motors	SUV	2013	FWD	6 Cylinder	Deep Blue	Black	Automatic
+391	318	GJGVZ5KGGIVU5HVJE	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+392	392	0URNPBEKUUELE97HG	Contoso Motors	Convertible 2DR	2011	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+393	497	6XLREKMP7K6FNL6H2	Contoso Motors	Coupe	2011	FWD	4 Cylinder	Pepper White	Dark Gray	Manual
+394	394	XF93A5HNUMQF3W7XN	Contoso Motors	Hybrid	2013	FWD	Hybrid	Blue	Old Lace	Semi-automatic
+395	923	QROSBQF5GCDX6MFYR	Contoso Motors	Truck	2007	AWD	6 Cylinder	Silver	Black	Automatic
+396	667	XXW0169ZOVK5YJ41O	Contoso Motors	Hatchback	2012	FWD	4 Cylinder	Blue	Gray	Automatic
+397	109	FIL37ODI7DPZJ17XN	Contoso Motors	Sedan	2007	FWD	4 Cylinder	Pepper White	Dark Gray	Automatic
+398	110	M3NYC3L36K7N6NG3X	Contoso Motors	Sedan	2016	FWD	4 Cylinder	Volcanic Orange	White	Automatic
+399	111	TXRICS2GT5CTQB3NT	Contoso Motors	Sedan	2011	AWD	4 Cylinder	Chili Red	Black	Automatic
+400	688	WNAYDQB61LZ83DQF0	Contoso Motors	Wagon	2011	FWD	4 Cylinder	Blue	Gray	Automatic
+401	67	QYRRYY3SJW7W4VL91	Contoso Motors	Truck	2014	AWD	6 Cylinder	Silver	Black	Automatic
+402	96	OWWOA16T9B8Q7YCCV	Contoso Motors	Truck	2011	FWD	6 Cylinder	Silver	Black	Automatic
+403	507	GZKUG00S0EQ5F54TG	Contoso Motors	Coupe	2014	AWD	4 Cylinder	Pepper White	Dark Gray	Manual
+404	404	OKVQCDJV4UYZVJ07T	Contoso Motors	Hybrid	2013	FWD	Hybrid	Volcanic Orange	White	Semi-automatic
+405	358	O8KOMQOQK5OSEX8N4	Contoso Motors	SUV	2007	FWD	Hybrid	Deep Blue	Black	Automatic
+406	366	VUOI9X4MG7DP0ZQV8	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+407	407	1ZKLUE7IJPHCITBXG	Contoso Motors	Convertible 2DR	2014	FWD	Electric	Silver	Ivory	Automatic
+408	406	PBSIU00P08RA1SIBE	Contoso Motors	SUV	2015	AWD	6 Cylinder	Deep Blue	Black	Automatic
+409	25	T8DNDN5UDCWL7M72H	Contoso Motors	SUV	2005	AWD	8 Cylinder	Electric Blue	Black	Automatic
+410	410	ZJOCAJ6AF9ER5GPW8	Contoso Motors	Minivan	2010	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+411	49	U2FX7NDGMSL43QUGM	Contoso Motors	SUV	2004	FWD	4 Cylinder	Electric Blue	Black	Automatic
+412	412	WQS4ADJ267BIDYYII	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+413	73	R6L3VILU35RHJDAZV	Contoso Motors	SUV	2014	FWD	6 Cylinder	Electric Blue	Black	Automatic
+414	414	ZNMOPH5SW3ZEBV3NO	Contoso Motors	Minivan	2009	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+415	415	TMN5DLU9NY4XX0JUY	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+416	416	8H8W7LAM2WHOK1UON	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+417	417	U1G77DG0TQDQU1KPO	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Chili Red	Black	Automatic
+418	418	V5V483U7H0713ZAQ0	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Blue	Old Lace	Automatic
+419	229	Z19X6P9CCCLQRPSN8	Contoso Motors	Sedan	2011	FWD	4 Cylinder	Chili Red	Black	Automatic
+420	719	XQURYT88D8BCHF4PD	Contoso Motors	Hatchback	2007	FWD	4 Cylinder	Blue	Gray	Automatic
+421	230	ASFVLRMRYZQDVOAIY	Contoso Motors	Sedan	2013	FWD	4 Cylinder	Blue	Old Lace	Automatic
+422	290	6C3RWG9NFGWS93TC1	Contoso Motors	Sedan	2007	FWD	4 Cylinder	Deep Blue	Brown	Automatic
+423	517	VV280A4H1LRBV1S1M	Contoso Motors	Crossover	2007	FWD	6 Cylinder	Electric Blue	Black	Automatic
+424	97	YSTK76U2MMH44OISI	Contoso Motors	Truck	2004	FWD	6 Cylinder	Silver	Black	Automatic
+425	121	18NL8LMI9B1VD0IXV	Contoso Motors	Truck	2007	FWD	6 Cylinder	Silver	Black	Automatic
+426	723	HYT7N0YGG7IE1206T	Contoso Motors	Hatchback	2004	FWD	4 Cylinder	Blue	Gray	Automatic
+427	804	IQD3NDVE7QZC45HNC	Contoso Motors	Hatchback	2015	FWD	4 Cylinder	Blue	Gray	Automatic
+428	428	1OQI8PS9UBQDMBEQY	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+429	429	JNZIYNLRASQ08GN5T	Contoso Motors	Minivan	2014	FWD	6 Cylinder	Chili Red	Black	Automatic
+430	541	FOHABFXIQK0NZECAC	Contoso Motors	Crossover	2011	AWD	Electric	Electric Blue	Black	Automatic
+431	815	PN7J7WIR695T90QDK	Contoso Motors	Hatchback	2011	AWD	4 Cylinder	Blue	Gray	Automatic
+432	122	MA3H9KZGMS7RSBK0P	Contoso Motors	Truck	2016	AWD	6 Cylinder	Silver	Black	Automatic
+433	565	8H55KPJ421ANV9B8Y	Contoso Motors	Crossover	2005	FWD	6 Cylinder	Electric Blue	Black	Automatic
+434	371	SW39ZMDNA1K1DYFF0	Contoso Motors	Sedan	2004	FWD	4 Cylinder	Chili Red	Black	Automatic
+435	863	LXK7IDPDB86PDY8N5	Contoso Motors	Hatchback	2013	FWD	4 Cylinder	Blue	Gray	Automatic
+436	436	9K3NPUOHFCGGMDO9G	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+437	589	XUEKQC1GE5U0KUJ60	Contoso Motors	Crossover	2004	FWD	8 Cylinder	Electric Blue	Black	Automatic
+438	611	YXIN7YPOJVAHR93FB	Contoso Motors	Crossover	2013	AWD	Hybrid	Electric Blue	Black	Automatic
+439	414	3GTFQ3O1QAXMY2J7M	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+440	440	23WOY61CJWXBDK1BQ	Contoso Motors	Convertible 2DR	2016	RWD	6 Cylinder	Volcanic Orange	White	Automatic
+441	555	OOVX3DY97VI41SG9E	Contoso Motors	Coupe	2007	AWD	4 Cylinder	Pepper White	Dark Gray	Manual
+442	442	8W7J9SXHW68O3IGUW	Contoso Motors	Hybrid	2013	FWD	Hybrid	Blue	Old Lace	Semi-automatic
+443	200	W3SLZ4MTMD96G0SQ7	Contoso Motors	Truck	2015	FWD	6 Cylinder	Silver	Black	Automatic
+444	924	C2V41OH6X7OCGXN08	Contoso Motors	Wagon	2016	AWD	4 Cylinder	Blue	Gray	Automatic
+445	722	CQWTAYYFRZLDNYUJ4	Contoso Motors	Sedan	2009	FWD	4 Cylinder	Volcanic Orange	White	Automatic
+446	755	XO2GTH3AZ5VG2TXDQ	Contoso Motors	Sedan	2012	FWD	4 Cylinder	Pepper White	Dark Gray	Automatic
+447	803	QIWX094Y0KAXSBWBP	Contoso Motors	Sedan	2014	FWD	4 Cylinder	Pepper White	Dark Gray	Automatic
+448	44	KHMNBOIEHC5LSPC9N	Contoso Motors	Hatchback	2013	FWD	4 Cylinder	Blue	Gray	Automatic
+449	240	WG51TI6CFREWX91BW	Contoso Motors	Truck	2016	FWD	6 Cylinder	Silver	Black	Automatic
+450	241	2VKCGDT7EGS41DOKL	Contoso Motors	Truck	2011	FWD	6 Cylinder	Silver	Black	Automatic
+451	737	M7INY34JC08YNB5R5	Contoso Motors	Coupe	2007	RWD	4 Cylinder	Midnight Black	Silverstone	Manual
+452	452	P2K7SAYWZFRNSEVGC	Contoso Motors	Hybrid	2013	FWD	Hybrid	Volcanic Orange	White	Semi-automatic
+453	623	HHCZ4NDHXQF0C8X3A	Contoso Motors	SUV	2016	FWD	6 Cylinder	Electric Blue	Black	Automatic
+454	495	K1EBN5O0N6F6X93Q1	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+455	455	3BBBO4Y80NPEWY9ZE	Contoso Motors	Convertible 2DR	2007	AWD	12 Cylinder	Silver	Ivory	Automatic
+456	659	BYH6NGWZQZV4EMA6N	Contoso Motors	Crossover	2016	FWD	Hybrid	Electric Blue	Black	Automatic
+457	671	6NV8M1G8FNB334F2N	Contoso Motors	SUV	2007	FWD	Hybrid	Electric Blue	Black	Automatic
+458	458	91D8RNONGLP2GMORS	Contoso Motors	Minivan	2009	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+459	705	H64NOSDV403YUTFTF	Contoso Motors	SUV	2014	FWD	6 Cylinder	Electric Blue	Black	Automatic
+460	460	EZNMZ02SI3ZRI4Z3U	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+461	729	7TS2U7GG9S192BNPL	Contoso Motors	SUV	2004	FWD	Hybrid	Electric Blue	Black	Automatic
+462	462	N5G3UB9T6IVX0186H	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+463	463	M9NHXYTMG36VNP2KD	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+464	464	AF8LSC5SG2T7W6FGU	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+465	465	M1RWVAKFAIODBX0SS	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Chili Red	Black	Automatic
+466	466	9S702A2K3QHHQWW5R	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Blue	Old Lace	Automatic
+467	805	L2F7UX5520AGR0A3A	Contoso Motors	Sedan	2004	FWD	4 Cylinder	Chili Red	Black	Automatic
+468	68	C356PIURZ6T95DCP0	Contoso Motors	Wagon	2015	AWD	4 Cylinder	Blue	Gray	Automatic
+469	806	KE4EG963LBEM0WD7J	Contoso Motors	Sedan	2010	FWD	4 Cylinder	Blue	Old Lace	Automatic
+470	866	KPLLMLEK90FRNPJNB	Contoso Motors	Sedan	2015	FWD	4 Cylinder	Deep Blue	Brown	Automatic
+471	753	NYOZT93T7AJDL9HHI	Contoso Motors	SUV	2005	AWD	10 Cylinder	Electric Blue	Black	Automatic
+472	296	F2R5FUDSMJARGSR4A	Contoso Motors	Truck	2005	FWD	6 Cylinder	Silver	Black	Automatic
+473	361	YQ1RUJV3ULTUWBIFU	Contoso Motors	Truck	2004	AWD	6 Cylinder	Silver	Black	Automatic
+474	98	0WAAYJ0Z6GFCDBJAC	Contoso Motors	Wagon	2005	FWD	4 Cylinder	Blue	White	Automatic
+475	99	DWHPNUPRWOL040GB4	Contoso Motors	Hatchback	2007	FWD	4 Cylinder	Blue	Black	Automatic
+476	476	HPFR22VNYIBN6073Y	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Blue	Old Lace	Automatic
+477	477	DMO1ECP3407RCA3MY	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Silver	Ivory	Automatic
+478	777	OILZ12EH6RP1G6D6H	Contoso Motors	SUV	2011	FWD	6 Cylinder	Electric Blue	Black	Automatic
+479	120	8IZNXN9WPJ9JFHLOJ	Contoso Motors	Wagon	2005	FWD	4 Cylinder	Blue	Gray	Automatic
+480	362	XVXAPOFOK684H9HJ9	Contoso Motors	Truck	2005	AWD	6 Cylinder	Silver	Black	Automatic
+481	893	IFBFIBPS4D235VEKS	Contoso Motors	SUV	2011	FWD	6 Cylinder	Electric Blue	Black	Automatic
+482	925	1FNKHMOYCBGZFFL8R	Contoso Motors	Sedan	2011	AWD	4 Cylinder	Silver	Ivory	Automatic
+483	140	I7CWJZ6R3ST4W523R	Contoso Motors	Hatchback	2011	AWD	4 Cylinder	Blue	Nutmeg	Automatic
+484	484	2H2KRFWQT3W4A8RL2	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+485	941	6T4Y45W8ZDY8T97GX	Contoso Motors	SUV	2004	FWD	6 Cylinder	Electric Blue	Black	Automatic
+486	141	S6XW97S479J2R4QVS	Contoso Motors	Crossover	2014	FWD	6 Cylinder	Electric Blue	Black	Automatic
+487	543	BLIPK8NMTMTYX1ZIY	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+488	488	ZN1TUV6WAHXLO3U33	Contoso Motors	Convertible 2DR	2007	RWD	4 Cylinder	Blue	Old Lace	Automatic
+489	747	3EJA3KMY2WXA0FKFJ	Contoso Motors	Coupe	2016	FWD	4 Cylinder	Silver	Ivory	Semi-automatic
+490	490	4HCWC5S5IJXMOG5TH	Contoso Motors	Hybrid	2013	FWD	Hybrid	Deep Blue	Brown	Semi-automatic
+491	440	XQ3MOFK9LO7XY8C59	Contoso Motors	Truck	2013	FWD	6 Cylinder	Silver	Black	Automatic
+492	236	S53V9GQM15XVDDJF1	Contoso Motors	Hatchback	2007	FWD	4 Cylinder	Blue	Gray	Automatic
+493	926	N4O3YGCZCPG7EQ18J	Contoso Motors	Sedan	2005	AWD	4 Cylinder	Deep Blue	Brown	Automatic
+494	995	6OEDX46M4TTLQ7OHR	Contoso Motors	Sedan	2013	AWD	4 Cylinder	Silver	Ivory	Automatic
+495	43	AZAI19YW9US5M6VTM	Contoso Motors	Sedan	2016	FWD	4 Cylinder	Midnight Black	Silverstone	Automatic
+496	242	WGZ3BHPFQQBAPE9V4	Contoso Motors	Wagon	2013	FWD	4 Cylinder	Blue	Brown	Automatic
+497	499	VI45NWQ2GTHYL4DZB	Contoso Motors	Truck	2006	RWD	6 Cylinder	Silver	Black	Automatic
+498	553	O5R1PH70RV82A3E4N	Contoso Motors	Truck	2004	FWD	6 Cylinder	Silver	Black	Automatic
+499	795	ORZSALKL8GVZ0D7BS	Contoso Motors	Coupe	2013	AWD	4 Cylinder	Midnight Black	Silverstone	Semi-automatic
+500	500	GTEK9BAEZRDOEYOZ2	Contoso Motors	Hybrid	2013	FWD	Hybrid	Blue	Old Lace	Semi-automatic
+501	187	J65M7JNC4QDZHWQ1K	Contoso Motors	Crossover	2016	AWD	Hybrid	Electric Blue	Black	Automatic
+502	558	8RHCYCA9UBHU3FHSQ	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+503	503	KGPM36VK26AELEZ41	Contoso Motors	Convertible 2DR	2004	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+504	199	JXGEO31C6UNAC0KIH	Contoso Motors	SUV	2007	FWD	6 Cylinder	Electric Blue	Black	Automatic
+505	235	BPNVBNVOYNLAQFNXX	Contoso Motors	Crossover	2013	FWD	Hybrid	Electric Blue	Black	Automatic
+506	506	MP80QE3HPJPGAI4IG	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+507	247	CD9FXB2ILCO170YPG	Contoso Motors	SUV	2006	FWD	4 Cylinder	Electric Blue	Black	Automatic
+508	508	DYC9JXQ7Y35T8YVS2	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+509	281	TSTZUK9J4D46YRCCI	Contoso Motors	SUV	2005	RWD	8 Cylinder	Electric Blue	Black	Automatic
+510	510	WQ44S93J3N27SVIRX	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+511	511	ZTR0Z9X2250HA1PI0	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Chili Red	Black	Automatic
+512	512	DK2YL7NWWJDMJ9RYK	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Blue	Old Lace	Automatic
+513	513	G3O2BOTP2IVSZ2W48	Contoso Motors	Minivan	2014	FWD	6 Cylinder	Silver	Ivory	Automatic
+514	514	RR55YZ6DG2EZ72KKY	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+515	45	FJJSIW0EIIGUERE2M	Contoso Motors	Sedan	2014	FWD	4 Cylinder	Racing Green	Beige	Automatic
+516	251	LIO7YTOE8DQT6K7O9	Contoso Motors	Hatchback	2004	AWD	4 Cylinder	Blue	Black	Automatic
+517	46	S9JTJUFCLUX043CJG	Contoso Motors	Sedan	2015	FWD	4 Cylinder	Blazing Gray	Nutmeg	Automatic
+518	69	EI6CW0CKYK741OUHO	Contoso Motors	Sedan	2004	AWD	4 Cylinder	Racing Green	Beige	Automatic
+519	305	8BZS7FORHI8Y4FIYH	Contoso Motors	SUV	2011	FWD	4 Cylinder	Electric Blue	Black	Automatic
+520	554	1C2RW5NTEBI2U8EY7	Contoso Motors	Truck	2010	FWD	6 Cylinder	Silver	Black	Automatic
+521	576	ULA46Z5XFF5T0JP3C	Contoso Motors	Truck	2004	AWD	6 Cylinder	Silver	Black	Automatic
+522	260	0WNSOLYN5IIV8LBKT	Contoso Motors	Wagon	2011	FWD	4 Cylinder	Thunder Gray	Gray	Automatic
+523	299	ZHP04SZYFDUZ1JXJI	Contoso Motors	Hatchback	2011	FWD	4 Cylinder	Chili Red	Black	Automatic
+524	524	XZXQPPCGWGPN8958F	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Blue	Old Lace	Automatic
+525	525	CMJT8KNLDLWSSYAY8	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Silver	Ivory	Automatic
+526	329	TRFD6LW1SWWCNNFF5	Contoso Motors	SUV	2004	RWD	6 Cylinder	Electric Blue	Black	Automatic
+527	356	RDM6J5EKM0XAOFECS	Contoso Motors	Wagon	2004	AWD	4 Cylinder	Volcanic Orange	White	Automatic
+528	672	PX06U5IK5P7JBZWMI	Contoso Motors	Truck	2016	FWD	6 Cylinder	Silver	Black	Automatic
+529	469	LGFZNOVA6891NIQ04	Contoso Motors	SUV	2004	FWD	6 Cylinder	Electric Blue	Red	Automatic
+530	70	SY6BM4551V77GBW56	Contoso Motors	Sedan	2010	AWD	4 Cylinder	Blazing Gray	Nutmeg	Automatic
+531	360	OH5PU71JGFC98YNPZ	Contoso Motors	Wagon	2011	AWD	4 Cylinder	Deep Blue	Brown	Automatic
+532	532	OW88VTE8YMYDMZDIC	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+533	21	M4TV6IEALD5QDS3IR	Contoso Motors	SUV	2007	AWD	6 Cylinder	Midnight Black	Black	Automatic
+534	69	DC4UBCJ3K37YKLMLM	Contoso Motors	SUV	2005	FWD	10 Cylinder	Midnight Black	Black	Automatic
+535	591	CXQMZ796VHXZCIZDY	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+536	536	G1IJPTPCGG4VVM0O3	Contoso Motors	Convertible 2DR	2016	FWD	Electric	Blue	Old Lace	Automatic
+537	929	0HMF39RGO8WJ1OS8R	Contoso Motors	Coupe	2005	FWD	4 Cylinder	Electric Blue	Red	Semi-automatic
+538	538	XV1W2KOSDNKHQKHVL	Contoso Motors	Hybrid	2013	FWD	Hybrid	Deep Blue	Brown	Semi-automatic
+539	673	HAFETMKFJVQ4FBOLE	Contoso Motors	Truck	2011	FWD	6 Cylinder	Silver	Black	Automatic
+540	380	IY587XB4HJX6N04PA	Contoso Motors	Hatchback	2016	FWD	4 Cylinder	Volcanic Orange	White	Automatic
+541	93	CI3IA2MUNCLR5GJM0	Contoso Motors	Sedan	2005	FWD	4 Cylinder	Racing Green	Beige	Automatic
+542	94	HW3SMAH36QFY1MYXR	Contoso Motors	Sedan	2007	FWD	4 Cylinder	Blazing Gray	Nutmeg	Automatic
+543	117	V4UM6VQFRG2USOV1R	Contoso Motors	Sedan	2011	FWD	4 Cylinder	Racing Green	Beige	Automatic
+544	443	561JUQ622CUR0E8JZ	Contoso Motors	Hatchback	2013	FWD	4 Cylinder	Midnight Black	Silverstone	Automatic
+545	793	G1STEWZKBIT5OYWUK	Contoso Motors	Truck	2014	AWD	6 Cylinder	Silver	Black	Automatic
+546	794	LMH9EM8N6AA7VQO3A	Contoso Motors	Truck	2015	AWD	6 Cylinder	Silver	Black	Automatic
+547	169	I0ZE8JP32J8ZWSBLM	Contoso Motors	Coupe	2004	AWD	4 Cylinder	Silver	Ivory	Semi-automatic
+548	548	SC8RB10F5JF4LX5CV	Contoso Motors	Hybrid	2013	FWD	Hybrid	Blue	Old Lace	Semi-automatic
+549	513	JBOIN5XKK8K8X9HMA	Contoso Motors	SUV	2011	FWD	10 Cylinder	Midnight Black	Black	Automatic
+550	654	4K11P2TCO0ZJ0B0H6	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+551	551	195W304UL8HAP9Q4G	Contoso Motors	Convertible 2DR	2011	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+552	537	GAQ3SA5S84P25JPM3	Contoso Motors	SUV	2004	AWD	6 Cylinder	Midnight Black	Black	Automatic
+553	561	HGDCO2CD1H90AHYZH	Contoso Motors	SUV	2007	FWD	6 Cylinder	Midnight Black	Black	Automatic
+554	554	9ZMA2FR6LFGXAB4YJ	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+555	585	6BGDZUVC05OGK0U2N	Contoso Motors	SUV	2011	FWD	6 Cylinder	Midnight Black	Black	Automatic
+556	556	7RJT1IM5441CS5P55	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+557	701	NG1UDZWISW1I2HJXM	Contoso Motors	SUV	2014	FWD	8 Cylinder	Midnight Black	Black	Automatic
+558	558	DB7GXQUVTGDWLEWJD	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+559	559	RPA91HDWA2F03K906	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Chili Red	Black	Automatic
+560	560	NBUL247OFXI8HQ578	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Blue	Old Lace	Automatic
+561	561	TOHAZOWEUU9PY3EI8	Contoso Motors	Minivan	2014	FWD	6 Cylinder	Silver	Ivory	Automatic
+562	562	LOCNQO28JR378RMGF	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+563	118	CPTIEAH6GPLGIO4G3	Contoso Motors	Sedan	2009	FWD	4 Cylinder	Blazing Gray	Nutmeg	Automatic
+564	552	76DLNGP1LW3ZH64OT	Contoso Motors	Wagon	2015	FWD	4 Cylinder	Blazing Gray	Nutmeg	Automatic
+565	119	XE7I7TUY2WSJ8ZXJE	Contoso Motors	Sedan	2004	FWD	4 Cylinder	Electric Blue	Red	Automatic
+566	237	JFX3YQSEC0IJ1F5CY	Contoso Motors	Sedan	2004	FWD	4 Cylinder	Pepper White	Dark Gray	Automatic
+567	749	2LN5YNG2XJ1ERFKX3	Contoso Motors	SUV	2014	FWD	Electric	Midnight Black	Black	Automatic
+568	816	CCGL4SM7UU0P4ZBRV	Contoso Motors	Truck	2015	FWD	6 Cylinder	Silver	Black	Automatic
+569	817	OTLM4XY3T2PI9WVBF	Contoso Motors	Truck	2004	FWD	6 Cylinder	Silver	Black	Automatic
+570	627	NECJ2TQWLBVFCH5DB	Contoso Motors	Hatchback	2007	AWD	4 Cylinder	Chili Red	Black	Automatic
+571	674	NF981XF6W88HYKE9Y	Contoso Motors	Wagon	2005	FWD	4 Cylinder	Volcanic Orange	White	Automatic
+572	572	HFHGW4VCB0VIR1XS1	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+573	573	WB2GUS8R6BGDC2G7D	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+574	901	6ZAH06X3W9HUWYLHS	Contoso Motors	Crossover	2011	AWD	6 Cylinder	Midnight Black	Black	Automatic
+575	675	GIMP343NPI0HICJ9X	Contoso Motors	Hatchback	2006	FWD	4 Cylinder	Chili Red	Black	Automatic
+576	872	TXPBHK1G57K059R07	Contoso Motors	Truck	2004	FWD	6 Cylinder	Silver	Black	Automatic
+577	925	MD2QMDXNINBM2GC4M	Contoso Motors	Crossover	2014	FWD	Hybrid	Midnight Black	Black	Automatic
+578	238	VPP5L9XRIZ99D9VPY	Contoso Motors	Sedan	2005	FWD	4 Cylinder	Volcanic Orange	White	Automatic
+579	696	D4QKU00WCL3EMBJ69	Contoso Motors	Wagon	2004	FWD	4 Cylinder	Volcanic Orange	White	Automatic
+580	580	VIJNKM20V255IWKUO	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+581	949	VTVIIMP7VVMBKS54N	Contoso Motors	Crossover	2004	FWD	10 Cylinder	Midnight Black	Black	Automatic
+582	973	6ZCFVVRY55MTNQDK9	Contoso Motors	Crossover	2005	AWD	6 Cylinder	Midnight Black	Black	Automatic
+583	687	D7ECN6CN0GDMX3DXW	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+584	584	IZ744LDZ0LJQ06ERN	Contoso Motors	Convertible 2DR	2015	RWD	Electric	Deep Blue	Brown	Automatic
+585	227	KFJUVG6XG3K6JE4A1	Contoso Motors	Coupe	2013	AWD	4 Cylinder	Chili Red	Black	Semi-automatic
+586	586	X07T6E30I713UCFRP	Contoso Motors	Hybrid	2013	FWD	Hybrid	White Silver	Smoke White	Semi-automatic
+587	883	HLH85IDCRB0O5J6K6	Contoso Motors	Truck	2013	AWD	6 Cylinder	Silver	Black	Automatic
+588	792	1IU4JMQ0BXEZNOMFN	Contoso Motors	Wagon	2013	AWD	4 Cylinder	Blue	Old Lace	Automatic
+589	298	ARTXP87VTDTC6MS18	Contoso Motors	Sedan	2016	FWD	4 Cylinder	Volcanic Orange	White	Automatic
+590	311	Y7RDS9FZMKIVZE3MJ	Contoso Motors	Sedan	2013	FWD	4 Cylinder	Chili Red	Black	Automatic
+591	357	CJ7IV4AJ4BC6PUKQQ	Contoso Motors	Sedan	2005	AWD	4 Cylinder	Chili Red	Black	Automatic
+592	818	E6BS9CXTX2KQ5STIM	Contoso Motors	Wagon	2010	FWD	4 Cylinder	Deep Blue	Brown	Automatic
+593	931	X61ZJ042L9QHMX91E	Contoso Motors	Truck	2016	AWD	6 Cylinder	Silver	Black	Automatic
+594	112	GTRRNCG4JCICBP5D8	Contoso Motors	Truck	2016	AWD	6 Cylinder	Silver	Black	Automatic
+595	9	W9NSZ423XZHAONYXB	Contoso Motors	Coupe	2011	FWD	6 Cylinder	Midnight Black	Silverstone	Semi-automatic
+596	596	RYMLI5IZQWJH7OF0A	Contoso Motors	Hybrid	2013	FWD	Hybrid	Deep Blue	Brown	Semi-automatic
+597	995	CRM00QGMSNBX7EC9U	Contoso Motors	Crossover	2007	FWD	6 Cylinder	Midnight Black	Black	Automatic
+598	735	5BL4VFIIQZ59JLFL2	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+599	599	A6EWRI0QEJMUY6LFQ	Contoso Motors	Convertible 2DR	2013	AWD	Hybrid	Racing Green	Beige	Automatic
+600	7	O0SP48ZJC7C9D37GX	Contoso Motors	SUV	2013	AWD	6 Cylinder	Midnight Black	Black	Automatic
+601	137	LLIL1MVZTJ8E92EKG	Contoso Motors	SUV	2005	RWD	8 Cylinder	Midnight Black	Black	Automatic
+602	602	HVETJI1MVFEJPLUEJ	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+603	161	YSXL57ME3XP7WPVM6	Contoso Motors	SUV	2004	FWD	Hybrid	Midnight Black	Black	Automatic
+604	604	Z37090N06MS0J0H8X	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+605	277	1RWB65DQZQ0ZST2C0	Contoso Motors	SUV	2014	AWD	6 Cylinder	Midnight Black	Black	Automatic
+606	606	SA23YNMGPBVLL59BB	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Blue	Old Lace	Automatic
+607	607	PB2GAMT1UBQC0N2BW	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Silver	Ivory	Automatic
+608	608	Z42D49ZK8SZE9JA9Z	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+609	609	0I2L5C2P0RY3P97FR	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+610	610	SNEXT2XFUNCI9H0F9	Contoso Motors	Minivan	2007	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+611	358	JA4C5LB3SVH9VGMPZ	Contoso Motors	Sedan	2007	AWD	4 Cylinder	Blue	Old Lace	Automatic
+612	819	PA3JJB7JEPN2HG0HX	Contoso Motors	Hatchback	2007	FWD	4 Cylinder	Midnight Black	Silverstone	Automatic
+613	359	2Y2CFDMXBAQNKC02X	Contoso Motors	Sedan	2016	AWD	4 Cylinder	Silver	Ivory	Automatic
+614	442	VC7CU97RZ8Y7VGYQX	Contoso Motors	Sedan	2015	FWD	4 Cylinder	Deep Blue	Brown	Automatic
+615	325	N01QK9B7DLNKTHSAV	Contoso Motors	SUV	2005	FWD	10 Cylinder	Midnight Black	Black	Automatic
+616	123	GGNBNTBOU7FBFNYSC	Contoso Motors	Truck	2014	FWD	6 Cylinder	Silver	Black	Automatic
+617	171	ZM15LTFB6YBQULUT1	Contoso Motors	Truck	2007	FWD	6 Cylinder	Silver	Black	Automatic
+618	871	A8XUKOW7TXJ8K37WH	Contoso Motors	Hatchback	2011	FWD	4 Cylinder	Electric Blue	Red	Automatic
+619	875	XXT5LBJOC2Z7EHTJ8	Contoso Motors	Hatchback	2013	FWD	4 Cylinder	Chili Red	Black	Automatic
+620	620	HTSTI9TYT7AVCZAMD	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+621	621	N9V6H5GEVWXEJIEFD	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+622	453	6F8VEEXVK56DXHTEC	Contoso Motors	Crossover	2014	FWD	8 Cylinder	Midnight Black	Black	Automatic
+623	932	A3V048GGYTTKGD4JD	Contoso Motors	Wagon	2011	RWD	4 Cylinder	Volcanic Orange	White	Automatic
+624	225	9QTETX1DP7VDYSXWG	Contoso Motors	Truck	2005	AWD	6 Cylinder	Silver	Black	Automatic
+625	477	KT3REQOBYWUUX488A	Contoso Motors	Crossover	2004	AWD	Hybrid	Midnight Black	Silverstone	Automatic
+626	475	C5RO30W6BRFFOFZI7	Contoso Motors	Sedan	2011	FWD	4 Cylinder	Chili Red	Black	Automatic
+627	52	26BP3DNBT2Z6AYHNI	Contoso Motors	Hatchback	2011	FWD	4 Cylinder	Blue	Old Lace	Automatic
+628	628	PZQAYREQWH527DV50	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+629	27	D1ZVY26UV2BFGHZNO	Contoso Motors	Crossover	2013	AWD	12 Cylinder	Pepper White	Black	Manual
+630	39	40AUQE77I2BZ07K5O	Contoso Motors	SUV	2016	AWD	6 Cylinder	Pepper White	Black	Automatic
+631	798	YVFO13CBNKZXJHE5S	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+632	632	NNLRTNV7UVZF1YJ5U	Contoso Motors	Convertible 2DR	2016	RWD	6 Cylinder	Deep Blue	Brown	Automatic
+633	19	DF6OX2WSRA6511BVG	Contoso Motors	Coupe	2004	RWD	6 Cylinder	Silver	Ivory	Semi-automatic
+634	634	MU72U93BZ8CCAWBUE	Contoso Motors	Hybrid	2013	FWD	Hybrid	White Silver	Smoke White	Semi-automatic
+635	226	5N97WWETF2TXG2B0D	Contoso Motors	Truck	2007	AWD	6 Cylinder	Silver	Black	Automatic
+636	63	UN22JLHW8NGF3LIFS	Contoso Motors	Hatchback	2016	AWD	4 Cylinder	Chili Red	Black	Automatic
+637	874	PMF9MF4NEMNYDMOV3	Contoso Motors	Sedan	2007	FWD	4 Cylinder	Volcanic Orange	White	Automatic
+638	933	MSZOZWSKLED9OW4OB	Contoso Motors	Sedan	2004	AWD	4 Cylinder	Chili Red	Black	Automatic
+639	934	J5G7QC2YSFEF4S6SR	Contoso Motors	Sedan	2005	AWD	4 Cylinder	Blue	Old Lace	Automatic
+640	111	KIT8NT6ZT6RY0P84I	Contoso Motors	Hatchback	2007	FWD	4 Cylinder	Silver	Ivory	Automatic
+641	248	XL2Y5G1TIV5KTVGXJ	Contoso Motors	Truck	2007	FWD	6 Cylinder	Silver	Black	Automatic
+642	249	HCHAJQOQ1ZN19VN7W	Contoso Motors	Truck	2004	FWD	6 Cylinder	Silver	Black	Automatic
+643	57	6UOCMQWHFIWZTN0XV	Contoso Motors	Coupe	2004	AWD	6 Cylinder	Midnight Black	Silverstone	Semi-automatic
+644	644	FZE5OSHN5M9XAXL2N	Contoso Motors	Hybrid	2013	FWD	Hybrid	Deep Blue	Brown	Semi-automatic
+645	75	WOQY2N691M7VUPN0F	Contoso Motors	Crossover	2016	AWD	Hybrid	Pepper White	Black	Automatic
+646	942	IOKBCVTFITW7KV8NV	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+647	647	9WSAILJZ8SW8CF6H3	Contoso Motors	Convertible 2DR	2016	FWD	Electric	Racing Green	Beige	Automatic
+648	87	4GOJ345ZOYDA33TCB	Contoso Motors	SUV	2007	FWD	12 Cylinder	Pepper White	Black	Automatic
+649	97	C1OVHZ8ILU8TGGPD8	Contoso Motors	SUV	2011	AWD	Electric	Pepper White	Black	Automatic
+650	650	KGX6WIWZK9LANQ1LR	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+651	121	BR6LMIBHCBI8ABFVD	Contoso Motors	SUV	2014	FWD	6 Cylinder	Pepper White	Black	Automatic
+652	652	J5751V8CYCTP8OP4B	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+653	145	3BP7P0NENUH9RI3M6	Contoso Motors	SUV	2004	FWD	8 Cylinder	Pepper White	Black	Automatic
+654	654	64QRQEWGY5ZQINQAZ	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Blue	Old Lace	Automatic
+655	655	9C9MXU2K85SKH52B8	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Silver	Ivory	Automatic
+656	656	G5J8FO00MKO0YHNNH	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+657	657	MWNDEI881FUSUE07W	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+658	658	N8VU34JIFIOLL5QTV	Contoso Motors	Minivan	2005	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+659	3	EMY7WDRZPPS5PDTYV	Contoso Motors	Sedan	2011	AWD	4 Cylinder	Chili Red	Black	Automatic
+660	172	YQB21B238TXKCMKAD	Contoso Motors	Wagon	2016	AWD	4 Cylinder	White Silver	Smoke White	Automatic
+661	51	W8XLBATF96LUDDCE4	Contoso Motors	Sedan	2013	FWD	4 Cylinder	Chili Red	Black	Automatic
+662	53	454ILQUYBQPTZ267L	Contoso Motors	Sedan	2014	FWD	4 Cylinder	Silver	Ivory	Automatic
+663	169	5HTLJ84O2J32MFFYS	Contoso Motors	SUV	2015	AWD	4 Cylinder	Pepper White	Black	Automatic
+664	304	BUHA9ZOJCJRVS3EK6	Contoso Motors	Truck	2016	FWD	6 Cylinder	Silver	Black	Automatic
+665	369	UILM8LD1FDSPINLBZ	Contoso Motors	Truck	2005	AWD	6 Cylinder	Silver	Black	Automatic
+666	196	23YK520GRELCLJVX3	Contoso Motors	Hatchback	2011	FWD	4 Cylinder	White Silver	Smoke White	Automatic
+667	224	SKFXJJNBII3AF3T78	Contoso Motors	Wagon	2004	AWD	4 Cylinder	Thunder Gray	Gray	Automatic
+668	668	CXGSM7RX2NWJ6ZTKG	Contoso Motors	Minivan	2016	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+669	669	4GGHJBM0ZFJ7IGZQH	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Racing Green	Beige	Automatic
+670	613	C4SOMWYENYMFLWAWH	Contoso Motors	Crossover	2014	AWD	4 Cylinder	Pepper White	Black	Automatic
+671	250	15G5IEC3I0K52JC11	Contoso Motors	Wagon	2005	FWD	4 Cylinder	Volcanic Orange	White	Automatic
+672	370	26QDC3UYGMBBBP2RZ	Contoso Motors	Truck	2007	AWD	6 Cylinder	Silver	Black	Automatic
+673	637	SRRECKRR4UUB0VZWV	Contoso Motors	Crossover	2011	FWD	6 Cylinder	Pepper White	Black	Automatic
+674	54	SRPVCRT3UXBZSNTY5	Contoso Motors	Sedan	2015	FWD	4 Cylinder	Deep Blue	Brown	Automatic
+675	251	4I8OM07H8BEPD8VY8	Contoso Motors	Hatchback	2012	FWD	4 Cylinder	Chili Red	Black	Automatic
+676	676	ORSUL9LZY92OIIR6L	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Blue	Old Lace	Automatic
+677	661	F6JFHBLMR0NX8I87T	Contoso Motors	Crossover	2014	FWD	Electric	Pepper White	Black	Automatic
+678	685	T15T0WOSO20RRZH1B	Contoso Motors	Crossover	2004	AWD	6 Cylinder	Pepper White	Black	Automatic
+679	23	IOE6XD5VDQCY6VTBH	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+680	680	PWKDX1KUF46KM4J5X	Contoso Motors	Convertible 2DR	2005	FWD	Electric	White Silver	Smoke White	Automatic
+681	67	LDXV3HYEO1DKUIFKX	Contoso Motors	Coupe	2011	FWD	6 Cylinder	Silver	Ivory	Semi-automatic
+682	682	165K804CU71Z1ERBS	Contoso Motors	Hybrid	2013	FWD	Hybrid	Blazing Gray	Nutmeg	Semi-automatic
+683	448	GGISA6OZA4D2QNIZ9	Contoso Motors	Truck	2011	FWD	6 Cylinder	Silver	Black	Automatic
+684	259	MR3ZDP1C9ODHT8M76	Contoso Motors	Hatchback	2007	AWD	4 Cylinder	Pepper White	Dark Gray	Automatic
+685	114	DWT22RBR4EY569RRX	Contoso Motors	Sedan	2005	AWD	4 Cylinder	White Silver	Smoke White	Automatic
+686	173	12K032PRJPCSBHOLV	Contoso Motors	Sedan	2011	RWD	4 Cylinder	Racing Green	Beige	Automatic
+687	174	RBS0Y6TWVF8EQFVTU	Contoso Motors	Sedan	2009	FWD	4 Cylinder	Blazing Gray	Nutmeg	Automatic
+688	268	RFO2ETT02NZYR12RM	Contoso Motors	Wagon	2004	FWD	4 Cylinder	Blazing Gray	Dark Gray	Automatic
+689	488	BA8QX6RD89EZ3TQEJ	Contoso Motors	Truck	2004	FWD	6 Cylinder	Silver	Black	Manual
+690	489	8M98GRB4GIWNVWKF4	Contoso Motors	Truck	2005	FWD	6 Cylinder	Silver	Black	Manual
+691	115	LXHN99S7W9CA1QNI1	Contoso Motors	Coupe	2013	RWD	6 Cylinder	Midnight Black	Silverstone	Semi-automatic
+692	692	DJ5NC85UCWYPOZRWE	Contoso Motors	Hybrid	2013	FWD	Hybrid	White Silver	Smoke White	Semi-automatic
+693	707	EC5AH3OWV2DLLIOMH	Contoso Motors	Crossover	2013	FWD	Electric	Pepper White	Black	Automatic
+694	86	ZWS5XCAHJ7L40MF32	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+695	695	SL0PKLM3YD24Y2VQL	Contoso Motors	Convertible 2DR	2013	FWD	6 Cylinder	Electric Blue	Red	Automatic
+696	719	04G2AAZES95JFZ9KS	Contoso Motors	SUV	2006	AWD	Hybrid	Pepper White	Black	Automatic
+697	755	Y79QZPA090W8TFNU4	Contoso Motors	Crossover	2016	AWD	3 Cylinder	Pepper White	Black	Automatic
+698	698	SYZNGBRKG9Y3JBTTD	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+699	767	TL2CUWMHOQMS2US03	Contoso Motors	SUV	2012	FWD	Electric	Pepper White	Black	Automatic
+700	700	SGHRPNB79FAXMCZWQ	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Blue	Old Lace	Automatic
+701	801	NHB1NL2QVAZED0713	Contoso Motors	SUV	2004	FWD	6 Cylinder	Pepper White	Black	Automatic
+702	702	2TT5DNNIHDBXIOWBO	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+703	703	C53XVQMRLTY8PN51L	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+704	704	P06EU01ICF0P3MD0E	Contoso Motors	Minivan	2016	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+705	705	XFWVHJNOANIVJSTOR	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Racing Green	Beige	Automatic
+706	706	1DHKINM70L0IMDNDX	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+707	195	TEIQ3S8J4IS3A37ZH	Contoso Motors	Sedan	2016	FWD	4 Cylinder	Midnight Black	Silverstone	Automatic
+708	307	SGY9UAYFZYAZE86LX	Contoso Motors	Hatchback	2004	FWD	4 Cylinder	Pepper White	Dark Gray	Automatic
+709	197	6LW2ZHZWZXPR9AO7Q	Contoso Motors	Sedan	2004	FWD	4 Cylinder	Racing Green	Beige	Automatic
+710	198	ESRMWA9TJLDSGQHLO	Contoso Motors	Sedan	2005	FWD	4 Cylinder	Blazing Gray	Nutmeg	Automatic
+711	825	U9291EX7TM550KABK	Contoso Motors	SUV	2007	AWD	6 Cylinder	Pepper White	Black	Automatic
+712	59	9SQ22M5CIJSXOAYEB	Contoso Motors	Truck	2007	AWD	6 Cylinder	Silver	Black	Automatic
+713	96	70LKXM5BCGNUG45QI	Contoso Motors	Truck	2016	AWD	6 Cylinder	Silver	Black	Automatic
+714	364	DDHBE53XPJEP6Y7OI	Contoso Motors	Wagon	2013	AWD	4 Cylinder	Thunder Gray	Dark Gray	Automatic
+715	368	DOVXHGDQSGKOTTS7D	Contoso Motors	Wagon	2004	AWD	4 Cylinder	Blue	Dark Gray	Automatic
+716	716	QPDTG35AB6HRKHYP1	Contoso Motors	Minivan	2015	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+717	717	FJN5UWII43ECSW9D8	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Racing Green	Beige	Automatic
+718	849	A98ZQTKVDBA3LXFNG	Contoso Motors	SUV	2011	FWD	4 Cylinder	Pepper White	Black	Automatic
+719	388	HCFBT8LPDIWF223FE	Contoso Motors	Hatchback	2015	AWD	4 Cylinder	Thunder Gray	Dark Gray	Automatic
+720	136	A75GQE0AKRWCYIMQV	Contoso Motors	Truck	2007	FWD	6 Cylinder	Silver	Black	Automatic
+721	873	L2M27IC4G3Z1OPNGA	Contoso Motors	SUV	2005	FWD	4 Cylinder	Pepper White	Black	Automatic
+722	221	MY9OKHRUXSR7SKV4K	Contoso Motors	Sedan	2007	RWD	4 Cylinder	Racing Green	Beige	Automatic
+723	484	CICHILT7JTT0G3TZ7	Contoso Motors	Hatchback	2005	FWD	4 Cylinder	Volcanic Orange	Dark Gray	Automatic
+724	724	SZ1PLFQYJNUDHYD3W	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Blue	Old Lace	Automatic
+725	989	5H80TLM5QNF4QC4NZ	Contoso Motors	SUV	2011	RWD	4 Cylinder	Pepper White	Black	Automatic
+726	37	IL53ZX06LEM2VDU43	Contoso Motors	SUV	2004	FWD	Electric	Pepper White	Black	Automatic
+727	119	F3IIMGLT5DZYUOK0R	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+728	728	3EJUIMFWGRQZG81ET	Contoso Motors	Convertible 2DR	2004	AWD	6 Cylinder	White Silver	Smoke White	Automatic
+729	153	BRHC5R4SNHS73D7QE	Contoso Motors	Coupe	2014	FWD	6 Cylinder	Racing Green	Beige	Semi-automatic
+730	730	7HHGDTH9FK3U8O75R	Contoso Motors	Hybrid	2013	FWD	Hybrid	Blazing Gray	Nutmeg	Semi-automatic
+731	144	6WBGQ85RXT2YDTPVP	Contoso Motors	Truck	2015	FWD	6 Cylinder	Silver	Black	Automatic
+732	490	LYI0FRMLLNNWU774U	Contoso Motors	Wagon	2007	FWD	4 Cylinder	White Silver	Dark Gray	Automatic
+733	222	RW2Z6CATSMFIN889Q	Contoso Motors	Sedan	2016	AWD	4 Cylinder	Blazing Gray	Nutmeg	Automatic
+734	223	1IDOX778KN0B9JVQ8	Contoso Motors	Sedan	2011	AWD	4 Cylinder	Electric Blue	Red	Automatic
+735	245	HZUVNXFEFR972CF7P	Contoso Motors	Sedan	2011	RWD	4 Cylinder	Racing Green	Beige	Automatic
+736	499	7UYFAKDB3GTWRUARI	Contoso Motors	Hatchback	2013	FWD	4 Cylinder	Silver	Dark Gray	Automatic
+737	184	CR0SPKNCJ0TDA6S37	Contoso Motors	Truck	2016	RWD	6 Cylinder	Silver	Black	Automatic
+738	210	NVCEX4LASZIL7H7O3	Contoso Motors	Truck	2015	FWD	6 Cylinder	Silver	Black	Automatic
+739	201	AKYYQ91FZHZPZPW0T	Contoso Motors	Coupe	2005	AWD	6 Cylinder	Electric Blue	Red	Semi-automatic
+740	740	40TD7R10U4Y5LGV0S	Contoso Motors	Hybrid	2013	FWD	Hybrid	White Silver	Smoke White	Semi-automatic
+741	165	W955YIY7FXRM689F8	Contoso Motors	Crossover	2011	FWD	Hybrid	Pepper White	Black	Automatic
+742	22	VHRA1Y2TGTA84F00H	Contoso Motors	Commercial	2013	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+743	743	W4VHIZMS7VNN66O0L	Contoso Motors	Convertible 2DR	2016	AWD	4 Cylinder	Electric Blue	Red	Automatic
+744	189	4G08RIMH2EDJPMAAO	Contoso Motors	Crossover	2014	AWD	Hybrid	Pepper White	Black	Automatic
+745	213	8X5GIWV3BRRMSQNPM	Contoso Motors	Crossover	2004	FWD	Electric	Pepper White	Black	Automatic
+746	746	1W3N5OPBM26B2FGTI	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+747	237	FPV30MHDDWMVNKM7P	Contoso Motors	Crossover	2005	FWD	Electric	Pepper White	Black	Automatic
+748	748	T9KOS71E4AIP1Q8EL	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Blue	Old Lace	Automatic
+749	283	6JQXXHW66LO0UGIHG	Contoso Motors	Crossover	2016	FWD	12 Cylinder	Pepper White	Black	Automatic
+750	750	R3L4HK7T3NX7QVKEN	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+751	751	G2X9W0T6L2JS6WFP9	Contoso Motors	Minivan	2006	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+752	752	5FQ1WG7XU1R21H076	Contoso Motors	Minivan	2007	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+753	753	TRMKI7HQS5W2AXXZJ	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Racing Green	Beige	Automatic
+754	754	KMNVN2AH9A5ROOM8U	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+755	246	T1FWKED19XQUSKUIP	Contoso Motors	Sedan	2005	FWD	4 Cylinder	Blazing Gray	Nutmeg	Automatic
+756	16	4R30FOR7NUOBL05GJ	Contoso Motors	Wagon	2016	FWD	6 Cylinder	Volcanic Orange	Dark Gray	Automatic
+757	306	O4SP2LLBB22B178AN	Contoso Motors	Sedan	2009	FWD	4 Cylinder	Thunder Gray	Gray	Automatic
+758	319	ECTILBZ7Q9CXDT1PI	Contoso Motors	Sedan	2016	FWD	4 Cylinder	Pepper White	Dark Gray	Automatic
+759	295	HDZ6EZ3BJ3R0E8O7D	Contoso Motors	SUV	2012	AWD	6 Cylinder	Pepper White	Black	Automatic
+760	240	MMPDFE10GSJVDFLPU	Contoso Motors	Truck	2005	AWD	6 Cylinder	Silver	Black	Automatic
+761	299	NQXHWVC3T5K8HQ8VH	Contoso Motors	Truck	2013	FWD	6 Cylinder	Silver	Black	Automatic
+762	36	VGBMKIXICFYAJSHER	Contoso Motors	Hatchback	2004	FWD	6 Cylinder	Blazing Gray	Dark Gray	Automatic
+763	60	6JSA9PR2FFEZ9B2LF	Contoso Motors	Wagon	2016	AWD	6 Cylinder	Blazing Gray	Dark Gray	Automatic
+764	764	81G2A4SL9PO4568FR	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+765	765	MS1X7K1TATLZN91VO	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Electric Blue	Red	Automatic
+766	331	TVQUH7OPXUML589BF	Contoso Motors	Crossover	2007	AWD	Hybrid	Pepper White	Black	Automatic
+767	64	K4S59LCD768E439BP	Contoso Motors	Wagon	2005	FWD	6 Cylinder	Volcanic Orange	Dark Gray	Automatic
+768	329	TNZWN4KCBEAFU2PY4	Contoso Motors	Truck	2007	RWD	6 Cylinder	Silver	Black	Automatic
+769	343	BCBH8NN5VYDYJKHLN	Contoso Motors	SUV	2014	FWD	12 Cylinder	Pepper White	Black	Automatic
+770	365	QZ2UC2O6OC2RKAIN2	Contoso Motors	Sedan	2014	RWD	4 Cylinder	Pepper White	Dark Gray	Automatic
+771	84	1KGYSUOELB2RW72TO	Contoso Motors	Hatchback	2011	FWD	6 Cylinder	Blazing Gray	Dark Gray	Automatic
+772	772	K9HXYEIKIALDNOZVI	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+773	353	ZCZW1LLECMJCR28ZW	Contoso Motors	SUV	2007	RWD	Electric	Pepper White	Black	Automatic
+774	377	I068HDP99WD7KEY1N	Contoso Motors	SUV	2011	FWD	6 Cylinder	Pepper White	Black	Automatic
+775	247	JJRWXPF3C451H02VK	Contoso Motors	Commercial	2013	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+776	776	4OMDL2KTP014J5CLU	Contoso Motors	Convertible 2DR	2011	AWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+777	249	90YJI5CIBBUPG91RQ	Contoso Motors	Coupe	2014	FWD	6 Cylinder	Electric Blue	Red	Semi-automatic
+778	778	9YCXB7UMTKU8ECRV7	Contoso Motors	Hybrid	2015	FWD	Hybrid	Thunder Gray	Gray	Semi-automatic
+779	353	W6V391Z9F53WKNQC6	Contoso Motors	Truck	2011	FWD	6 Cylinder	Silver	Black	Automatic
+780	90	MP7995L7DJRK9RYFV	Contoso Motors	Wagon	2005	AWD	6 Cylinder	Blue	Dark Gray	Automatic
+781	366	OYM8VOGTOYNEDHEDU	Contoso Motors	Sedan	2015	AWD	4 Cylinder	Volcanic Orange	White	Automatic
+782	367	X5LI0HRNEZTB1LHJV	Contoso Motors	Sedan	2013	AWD	4 Cylinder	Chili Red	Black	Automatic
+783	485	5E8ZLLMNOKC97Y39F	Contoso Motors	Sedan	2007	FWD	4 Cylinder	Chili Red	Black	Automatic
+784	99	J7QSXBTTYAVCARPCM	Contoso Motors	Hatchback	2014	AWD	6 Cylinder	Chili Red	Dark Gray	Automatic
+785	354	C6U9GGBA5AW3XTUU1	Contoso Motors	Truck	2005	FWD	6 Cylinder	Silver	Black	Automatic
+786	376	T8NJCUFGG2QGQFDWL	Contoso Motors	Truck	2004	FWD	6 Cylinder	Silver	Black	Automatic
+787	259	YN25BAMRKJLP1K3K6	Contoso Motors	Coupe	2016	RWD	6 Cylinder	Racing Green	Beige	Semi-automatic
+788	788	J0AA6GOZ9DDA3SMI2	Contoso Motors	Hybrid	2015	FWD	Hybrid	Blazing Gray	Nutmeg	Semi-automatic
+789	401	0QO6KQFIMUFQYUVK7	Contoso Motors	SUV	2005	RWD	8 Cylinder	Pepper White	Black	Automatic
+790	343	H0L0TKDKWFMEBAFK2	Contoso Motors	Commercial	2013	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+791	791	N7JV75WZ0OCOQEDGZ	Contoso Motors	Convertible 2DR	2007	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+792	425	VVLP43HE78ERBU8BK	Contoso Motors	SUV	2004	RWD	4 Cylinder	Pepper White	Black	Automatic
+793	117	9GV7PZNT6AWE05604	Contoso Motors	SUV	2014	FWD	6 Cylinder	Red	Black	Automatic
+794	794	54GLGFGG366EBV9J2	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Blue	Old Lace	Automatic
+795	165	0A4SMSAGR5CA4LAY6	Contoso Motors	SUV	2014	AWD	Hybrid	Red	Black	Automatic
+796	796	OB8R8LR5DUG79YSRA	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+797	515	97PMUAYJHGRMB0KPM	Contoso Motors	Crossover	2004	FWD	3 Cylinder	Red	Black	Automatic
+798	798	IJS4NQHF1H5RDJVWA	Contoso Motors	Minivan	2005	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+799	799	9DIEKCNPQDFXINGR7	Contoso Motors	Minivan	2012	FWD	6 Cylinder	Racing Green	Beige	Automatic
+800	800	P172QGLD4TJDHP5KW	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+801	801	YWRP6OT9GHZRYF19H	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Electric Blue	Red	Automatic
+802	802	4ZLVO4S8I3N1C658C	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+803	486	8HJPW8YBGK2QX45YM	Contoso Motors	Sedan	2016	FWD	4 Cylinder	Blue	Old Lace	Automatic
+804	156	QK1HIM0WKKNM7TCT5	Contoso Motors	Wagon	2010	FWD	6 Cylinder	Thunder Gray	Dark Gray	Automatic
+805	13	BRNHVMZOUJ6EOCP32	Contoso Motors	Sedan	2004	FWD	6 Cylinder	Electric Blue	Red	Automatic
+806	61	5OZEYSZSL53OJI90B	Contoso Motors	Sedan	2011	AWD	6 Cylinder	Electric Blue	Red	Automatic
+807	527	Y6P4Z7FX84XCC210V	Contoso Motors	SUV	2016	FWD	Electric	Red	Black	Automatic
+808	377	K0Z9D5WQV51K1D9DD	Contoso Motors	Truck	2005	FWD	6 Cylinder	Silver	Black	Automatic
+809	432	5KIJ2LBT9NBXRYNJ1	Contoso Motors	Truck	2004	FWD	6 Cylinder	Silver	Black	Automatic
+810	180	9D7YC1K6H889N676Y	Contoso Motors	Hatchback	2007	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+811	187	7NR0A40LLPWQBIVEQ	Contoso Motors	Hatchback	2014	RWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+812	812	DRZQCEQTOITFGYE1F	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+813	813	ZTOXRYHCBTPVA346D	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Electric Blue	Red	Automatic
+814	563	230L1LHPMTHZMQH5D	Contoso Motors	Crossover	2011	FWD	6 Cylinder	Red	Black	Automatic
+815	204	WU6TUN4OUQJ62959R	Contoso Motors	Wagon	2011	AWD	6 Cylinder	Volcanic Orange	White	Automatic
+816	443	QYR2YHRCPM7KRXIFH	Contoso Motors	Truck	2006	FWD	6 Cylinder	Silver	Black	Automatic
+817	575	0AHXFLV9JHV1C3FLF	Contoso Motors	SUV	2013	AWD	3 Cylinder	Red	Black	Automatic
+818	133	VW2J1NWNDZMIX5S9L	Contoso Motors	Sedan	2011	AWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+819	235	QFQVXAZ7QT2Y9HY5P	Contoso Motors	Hatchback	2007	RWD	6 Cylinder	Racing Green	Beige	Automatic
+820	820	PKEPO5FRA6XJVOIJL	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+821	609	FR2BMACDU78E81XTM	Contoso Motors	SUV	2005	AWD	Hybrid	Red	Black	Automatic
+822	633	NAYMOPAFWZZJ3P5ST	Contoso Motors	SUV	2004	FWD	10 Cylinder	Red	Black	Automatic
+823	406	4QY2YX7ZBBYX3R90G	Contoso Motors	Commercial	2013	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+824	824	HICE0LWREABPLGNZ4	Contoso Motors	Convertible 2DR	2013	FWD	4 Cylinder	Blazing Gray	Nutmeg	Automatic
+825	297	VE48CAR1OTQWPEGGZ	Contoso Motors	Coupe	2014	FWD	6 Cylinder	Pepper White	Dark Gray	Semi-automatic
+826	826	HYK915IEFUDRMB5VK	Contoso Motors	Hybrid	2015	FWD	Hybrid	Thunder Gray	Gray	Semi-automatic
+827	449	5COLRNFEJUAE4AWRB	Contoso Motors	Truck	2011	FWD	6 Cylinder	Silver	Black	Automatic
+828	239	3NXGTA28RQCJWC2GG	Contoso Motors	Hatchback	2004	AWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+829	159	80YJYHAP7PBI71W1E	Contoso Motors	Sedan	2013	FWD	6 Cylinder	Chili Red	Black	Automatic
+830	179	RZFQM7V90QR7IISH6	Contoso Motors	Sedan	2006	FWD	6 Cylinder	Electric Blue	Red	Automatic
+831	181	95SL8ZZOYDZD11JJ2	Contoso Motors	Sedan	2004	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+832	256	5DJE9WG9965PK8D38	Contoso Motors	Wagon	2004	RWD	6 Cylinder	Deep Blue	Brown	Automatic
+833	472	TAKBJJ63U55C1MMUJ	Contoso Motors	Truck	2013	AWD	6 Cylinder	Silver	Black	Automatic
+834	491	2IOYK1O5K2TVF1NFP	Contoso Motors	Truck	2012	AWD	6 Cylinder	Silver	Black	Automatic
+835	403	SZPH4O2AB63H13YQ3	Contoso Motors	Coupe	2012	AWD	6 Cylinder	Pepper White	Dark Gray	Semi-automatic
+836	836	X0FOEI94DVDI6VID8	Contoso Motors	Hybrid	2015	FWD	Hybrid	Blazing Gray	Nutmeg	Semi-automatic
+837	657	TGHXAB6J65XTQCVD7	Contoso Motors	SUV	2014	FWD	6 Cylinder	Red	Black	Automatic
+838	775	1RFEOANOYZCBM4TU0	Contoso Motors	Commercial	2013	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+839	839	7MUZB90VD18D9W1RH	Contoso Motors	Convertible 2DR	2006	FWD	12 Cylinder	Pepper White	Dark Gray	Automatic
+840	681	M990FT6MMHZJXQUEC	Contoso Motors	SUV	2011	AWD	6 Cylinder	Red	Black	Automatic
+841	797	R8V7LBUTZU3144KJO	Contoso Motors	SUV	2005	FWD	4 Cylinder	Red	Black	Automatic
+842	842	4PRGPFPQSAGGP9NX6	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Blue	Old Lace	Automatic
+843	845	ZXOIFCKDL05F05B3X	Contoso Motors	SUV	2004	RWD	4 Cylinder	Red	Black	Automatic
+844	844	NMGCY7X5J1PJ2UA94	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+845	997	HYKPJHYAHBWE8ISKL	Contoso Motors	Crossover	2011	FWD	6 Cylinder	Red	Black	Automatic
+846	846	BU90U8QBV69ZU7O2Q	Contoso Motors	Minivan	2013	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+847	847	8KRJYE1D2LYS2LZ62	Contoso Motors	Minivan	2014	FWD	6 Cylinder	Racing Green	Beige	Automatic
+848	848	GYT0MJJJJJWMIPCGY	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+849	849	MUP19M2VC7BB0F2XS	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+850	850	7GF2Y9JGPOH5T99V8	Contoso Motors	Minivan	2010	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+851	253	SC9G0RES3EUPLX7C2	Contoso Motors	Sedan	2014	FWD	6 Cylinder	Chili Red	Black	Automatic
+852	276	G8Q4AX4JD5WD72WM2	Contoso Motors	Hatchback	2015	AWD	6 Cylinder	Volcanic Orange	White	Automatic
+853	301	6LUK9D367V9T1CIN8	Contoso Motors	Sedan	2005	FWD	6 Cylinder	Silver	Ivory	Automatic
+854	303	HZTDMFDAZPE2PGBNN	Contoso Motors	Sedan	2016	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+855	21	F97CREJY4K36GXYQB	Contoso Motors	Crossover	2004	FWD	6 Cylinder	Red	Black	Automatic
+856	497	52914EY5HGMGPU7SG	Contoso Motors	Truck	2004	FWD	6 Cylinder	Silver	Black	Automatic
+857	520	OMM9F2ABI0RY7XP76	Contoso Motors	Truck	2004	FWD	6 Cylinder	Silver	Black	Automatic
+858	300	CUEHKXE2HHXAKJWY5	Contoso Motors	Wagon	2004	FWD	6 Cylinder	Blue	Old Lace	Automatic
+859	324	26GSEZPDD802ZCPDI	Contoso Motors	Hatchback	2016	FWD	6 Cylinder	Blue	Old Lace	Automatic
+860	860	QPK7XEOMZO2OZ7GV8	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+861	861	FZ3HW1YFEWTKM6PNH	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+862	139	QA0CKZPRYXCIAXWT1	Contoso Motors	Crossover	2013	FWD	12 Cylinder	Red	Black	Automatic
+863	348	XMABHI97U66MFZWUP	Contoso Motors	Wagon	2011	AWD	6 Cylinder	Blue	Old Lace	Automatic
+864	569	U01QK1XK2EGWUGXHT	Contoso Motors	Truck	2004	FWD	6 Cylinder	Silver	Black	Automatic
+865	151	HOA1OHM0MQ4ZJFW9Y	Contoso Motors	SUV	2016	AWD	Electric	Red	Black	Automatic
+866	323	DK6JW0RNF0G9PO2FJ	Contoso Motors	Sedan	2007	FWD	6 Cylinder	Chili Red	Black	Automatic
+867	352	HH0UUWH1QB9GG4S4A	Contoso Motors	Wagon	2016	AWD	6 Cylinder	White Silver	Smoke White	Automatic
+868	868	QZUP2Q4EHOE069K1X	Contoso Motors	Minivan	2013	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+869	185	6B7VXWUK1PHZCS3OU	Contoso Motors	SUV	2014	RWD	Hybrid	Red	Black	Automatic
+870	209	434GS5N28DIN5OVLH	Contoso Motors	SUV	2011	RWD	6 Cylinder	Red	Black	Automatic
+871	871	K9QF880KTD5NDKG0M	Contoso Motors	Commercial	2013	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+872	872	F52U4Z5UNCE2C1OFT	Contoso Motors	Convertible 2DR	2004	AWD	6 Cylinder	Thunder Gray	Gray	Automatic
+873	595	MD1QGKELEC5FZ04F8	Contoso Motors	Coupe	2011	AWD	6 Cylinder	Silver	Ivory	Semi-automatic
+874	874	ZFA6L9YHV0AX89PKO	Contoso Motors	Hybrid	2015	FWD	Hybrid	Volcanic Orange	White	Semi-automatic
+875	576	YECGNLIVTNF3841CP	Contoso Motors	Truck	2007	FWD	6 Cylinder	Silver	Black	Automatic
+876	372	D1360EL2ADUC6MPDQ	Contoso Motors	Hatchback	2005	FWD	6 Cylinder	Blue	Old Lace	Automatic
+877	325	N8JSLRBYQKE9IACLA	Contoso Motors	Sedan	2011	FWD	6 Cylinder	Silver	Ivory	Automatic
+878	326	3S0ES2JI4ACRFV3ET	Contoso Motors	Sedan	2009	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+879	349	AAYW7K4YP7I4RNOPV	Contoso Motors	Sedan	2004	AWD	6 Cylinder	Silver	Ivory	Automatic
+880	378	BTJWLTKYWTYE5QNYD	Contoso Motors	Wagon	2007	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+881	616	87USY6PCJ78B9KL0I	Contoso Motors	Truck	2016	AWD	6 Cylinder	Silver	Black	Automatic
+882	617	R00Z3DI0LOLCAYH87	Contoso Motors	Truck	2011	RWD	6 Cylinder	Silver	Black	Automatic
+883	643	HOCG329DOP8M59A3O	Contoso Motors	Coupe	2013	FWD	6 Cylinder	Silver	Ivory	Automatic
+884	884	1VJFB9JEFQPGC11G3	Contoso Motors	Hybrid	2015	FWD	Hybrid	Thunder Gray	Gray	Semi-automatic
+885	233	E8ZEHV77X4K5BI6VB	Contoso Motors	SUV	2014	FWD	6 Cylinder	Red	Black	Automatic
+886	934	YQ38IK9VIFZ9L4X0L	Contoso Motors	Commercial	2013	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+887	887	S51OBQSGMPCRL8ERU	Contoso Motors	Convertible 2DR	2012	AWD	Hybrid	Chili Red	Black	Automatic
+888	257	TBDPURKUDLZ32H4NQ	Contoso Motors	SUV	2004	RWD	6 Cylinder	Red	Black	Automatic
+889	373	LSEOQTC2VU7C4T2VQ	Contoso Motors	SUV	2004	AWD	6 Cylinder	Red	Black	Automatic
+890	890	9RO3097X9OREKUP5G	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+891	421	ADWXNCODEU6OYKVCH	Contoso Motors	SUV	2011	AWD	Hybrid	Red	Black	Automatic
+892	892	RHU8UM5VHY4M5O6CP	Contoso Motors	Minivan	2015	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+893	101	F0ART9GM914MTWBEB	Contoso Motors	Crossover	2004	FWD	Hybrid	Silver	Black	Automatic
+894	894	9MGA02Q904RZK30Y0	Contoso Motors	Minivan	2010	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+895	895	JZZR7MEBSY5Z3DBSV	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Electric Blue	Red	Automatic
+896	896	61PM8FCE5Z47LCBM7	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+897	897	QAUJ75K404OKCWAYB	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+898	898	Y31AP41FPE968VDAQ	Contoso Motors	Minivan	2009	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+899	350	9K4NASRJYRC5IGE5F	Contoso Motors	Sedan	2005	AWD	6 Cylinder	Deep Blue	Brown	Automatic
+900	383	6ROKN7HL3QYDKBZU2	Contoso Motors	Hatchback	2016	AWD	6 Cylinder	Silver	Ivory	Automatic
+901	351	ZG29O4PDUVJB480O7	Contoso Motors	Sedan	2007	AWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+902	373	89TKX09LO2TMOQ5ZZ	Contoso Motors	Sedan	2007	FWD	6 Cylinder	Silver	Ivory	Automatic
+903	125	O00E9L82AK190JQLE	Contoso Motors	Crossover	2005	FWD	Electric	Silver	Black	Automatic
+904	672	DRNRGX58IYSUEULXS	Contoso Motors	Truck	2015	AWD	6 Cylinder	Silver	Black	Automatic
+905	768	JGWFS0V5AO56BGKRX	Contoso Motors	Truck	2005	FWD	6 Cylinder	Silver	Black	Automatic
+906	396	YYR59LU296241XM7C	Contoso Motors	Wagon	2016	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+907	400	MD3MRWCB5BJZLT7KR	Contoso Motors	Wagon	2007	AWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+908	908	48NS2CV6X0R8MWGF8	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+909	909	U70L3UW3I74U0I1D2	Contoso Motors	Minivan	2014	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+910	149	5H7BDXTKTIRIMVGIS	Contoso Motors	Crossover	2011	FWD	Hybrid	Silver	Black	Automatic
+911	431	8Q2VFOO8CA3Z45B6V	Contoso Motors	Hatchback	2013	FWD	6 Cylinder	Silver	Ivory	Automatic
+912	785	HW4XJWLPNNDLQAX05	Contoso Motors	Truck	2005	AWD	6 Cylinder	Silver	Black	Automatic
+913	173	22EG0JMRZL1IWKZZF	Contoso Motors	Crossover	2004	FWD	4 Cylinder	Silver	Black	Automatic
+914	374	60GJ5JULBBBM13ZUP	Contoso Motors	Sedan	2016	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+915	435	QI6EFFZ7ZXGQO9SOU	Contoso Motors	Hatchback	2016	FWD	6 Cylinder	Racing Green	Beige	Automatic
+916	916	MAVMESMCTW2JBG1G5	Contoso Motors	Minivan	2004	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+917	183	IKNVB3TIXN438BQ89	Contoso Motors	SUV	2012	AWD	4 Cylinder	Silver	Black	Automatic
+918	190	74G4ZYNQ6ZJOHDAVW	Contoso Motors	SUV	2010	FWD	12 Cylinder	Silver	Black	Automatic
+919	303	YKHPJ1STWYTEASS7K	Contoso Motors	Commercial	2013	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+920	920	WLDA9RJA6P4UTS5K0	Contoso Motors	Convertible 2DR	2011	AWD	4 Cylinder	Thunder Gray	Gray	Automatic
+921	729	8H2GFWRYTVXA2HGA6	Contoso Motors	Coupe	2005	RWD	6 Cylinder	Racing Green	Beige	Automatic
+922	922	3HAOIE7ES2MHZW9TT	Contoso Motors	Hybrid	2015	FWD	Hybrid	Volcanic Orange	White	Semi-automatic
+923	808	UW77H6R708EIE9OLS	Contoso Motors	Truck	2016	FWD	6 Cylinder	Silver	Black	Automatic
+924	475	8R5D8PMU2LJP25G25	Contoso Motors	Hatchback	2013	AWD	6 Cylinder	Chili Red	Black	Automatic
+925	397	J165EXXZ9KYOH2TF8	Contoso Motors	Sedan	2011	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+926	434	XZKKHBHIYECG3VTLL	Contoso Motors	Sedan	2007	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+927	469	8XBCZZPJDEFJV8IHD	Contoso Motors	Sedan	2014	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+928	492	ANAQ2CSXPZV04SSB3	Contoso Motors	Wagon	2016	AWD	6 Cylinder	White Silver	Smoke White	Automatic
+929	809	Z9GJHDT27HY6MIV2A	Contoso Motors	Truck	2011	FWD	6 Cylinder	Silver	Black	Automatic
+930	816	ZRELSR86XTMT1KI1Z	Contoso Motors	Truck	2004	AWD	6 Cylinder	Silver	Black	Automatic
+931	825	V1ME9XPJCFFK51OBG	Contoso Motors	Coupe	2014	FWD	6 Cylinder	Electric Blue	Red	Automatic
+932	932	B0KQJS58D9W3QUFC7	Contoso Motors	Hybrid	2015	FWD	Hybrid	Thunder Gray	Gray	Semi-automatic
+933	193	N4923VAUT73830S31	Contoso Motors	SUV	2011	FWD	6 Cylinder	Silver	Black	Automatic
+934	399	8KNYKMNPQZ4E359R9	Contoso Motors	Commercial	2013	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+935	935	SVTA6FJUPTXJS3S66	Contoso Motors	Convertible 2DR	2014	FWD	4 Cylinder	Chili Red	Black	Automatic
+936	197	5Y7C4X1AW9OD6YJ5H	Contoso Motors	Crossover	2007	FWD	8 Cylinder	Silver	Black	Automatic
+937	198	9UXISGGMN5UGSNFRU	Contoso Motors	SUV	2016	AWD	10 Cylinder	Silver	Black	Automatic
+938	938	L5I8UFY8X6GL2D69M	Contoso Motors	Minivan	2010	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+939	213	QCZNWGSD18592WZN8	Contoso Motors	SUV	2005	FWD	6 Cylinder	Silver	Black	Automatic
+940	940	YBA3G7IMYLGC0GXJN	Contoso Motors	Minivan	2016	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+941	216	Z2L5CLWYCUDITKUF4	Contoso Motors	SUV	2011	FWD	6 Cylinder	Silver	White	Automatic
+942	942	RDR4WN8V9E87L9YG9	Contoso Motors	Minivan	2009	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+943	943	SN5X1SZYMFZHUM6JH	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+944	944	BUH4CXR94R6VAI3ZO	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+945	945	8SA2DDGJJ17593MQI	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Chili Red	Black	Automatic
+946	946	VZGPN3M599V67YJH5	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Blue	Old Lace	Automatic
+947	493	LRJWGGVPDJZT6W58N	Contoso Motors	Sedan	2011	AWD	6 Cylinder	Racing Green	Beige	Automatic
+948	496	54T67R4TX2PBD1ANZ	Contoso Motors	Wagon	2015	AWD	6 Cylinder	Thunder Gray	Gray	Automatic
+949	494	ONT8HNOEUQELWAPTE	Contoso Motors	Sedan	2013	AWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+950	495	3TNMHKIBIRL8VEFVU	Contoso Motors	Sedan	2014	AWD	6 Cylinder	Electric Blue	Red	Automatic
+951	217	ER4VYHEYMCSJ3ZAIE	Contoso Motors	SUV	2004	FWD	Electric	Silver	Black	Automatic
+952	833	NPKFUFF093BM7T96C	Contoso Motors	Truck	2004	AWD	6 Cylinder	Silver	Black	Automatic
+953	905	A78TYXAEP593BZ4IP	Contoso Motors	Truck	2005	AWD	6 Cylinder	Silver	Black	Automatic
+954	516	G5CQWFZJQ3A5KMGC6	Contoso Motors	Hatchback	2013	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+955	592	76CDO5YKDLP6DBKCB	Contoso Motors	Wagon	2005	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+956	956	9SYQ7O5RY42RX52IS	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+957	957	P0Q6O7AYK4AVE7KUR	Contoso Motors	Minivan	2014	FWD	6 Cylinder	Chili Red	Black	Automatic
+958	219	W7R9NH0J222XFJ5QB	Contoso Motors	Crossover	2007	AWD	6 Cylinder	Silver	Ivory	Automatic
+959	612	27132MOCI2XLY2WV7	Contoso Motors	Hatchback	2011	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+960	929	JSMODE77LND1A80LI	Contoso Motors	Truck	2004	AWD	6 Cylinder	Silver	Black	Automatic
+961	221	BMO12BYEKJUJ1EXEZ	Contoso Motors	Crossover	2011	FWD	Hybrid	Silver	Silverstone	Automatic
+962	517	I3RPXKI35GTJ57UPB	Contoso Motors	Sedan	2014	FWD	6 Cylinder	Racing Green	Beige	Automatic
+963	623	13J2AYMGFCWX7XEMK	Contoso Motors	Hatchback	2012	FWD	6 Cylinder	Racing Green	Beige	Automatic
+964	964	B5SXM9ARB640FVFRN	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+965	231	GH0RCH5YSD9CI6N6T	Contoso Motors	SUV	2014	FWD	4 Cylinder	Silver	Ivory	Automatic
+966	238	7JVWHYB4XCC0HBQ2B	Contoso Motors	SUV	2009	AWD	6 Cylinder	Silver	Gray	Automatic
+967	462	GT7RUGNJPQ3LX5OTG	Contoso Motors	Commercial	2013	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+968	968	QPIQ3B5P296KG8YNE	Contoso Motors	Convertible 2DR	2016	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+969	873	OBZKQYDVE0TXIZSPK	Contoso Motors	Coupe	2005	RWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+970	970	CD9AENZSES3TBGU6N	Contoso Motors	Hybrid	2015	FWD	Hybrid	Blue	Old Lace	Semi-automatic
+971	930	QNSSJ538O55HX8AXT	Contoso Motors	Truck	2005	FWD	6 Cylinder	Silver	Black	Automatic
+972	636	83EL4EBUXZXOQRD9R	Contoso Motors	Wagon	2005	AWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+973	563	0ON6GUTCMZHRYY4KQ	Contoso Motors	Sedan	2013	AWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+974	589	BYPKHEZ3D91QIR985	Contoso Motors	Sedan	2011	FWD	6 Cylinder	Electric Blue	Red	Automatic
+975	611	KBSM14UZ8CCMU2VE8	Contoso Motors	Sedan	2016	FWD	6 Cylinder	Racing Green	Beige	Automatic
+976	640	U5NZHUP1TYVEC9K8A	Contoso Motors	Wagon	2004	AWD	6 Cylinder	Volcanic Orange	White	Automatic
+977	952	4B78AP4AZ8QDAZMSR	Contoso Motors	Truck	2011	FWD	6 Cylinder	Silver	Black	Automatic
+978	953	2DSVHSN0AVPWBNJJ6	Contoso Motors	Truck	2014	FWD	6 Cylinder	Silver	Black	Automatic
+979	931	7HQWE72SAZL9944LE	Contoso Motors	Coupe	2012	FWD	6 Cylinder	Electric Blue	Red	Automatic
+980	980	TBMYQQ5TJDC85HHHD	Contoso Motors	Hybrid	2015	FWD	Hybrid	Volcanic Orange	White	Semi-automatic
+981	241	KMXVZZGIYQNL8CW3B	Contoso Motors	SUV	2007	AWD	6 Cylinder	Silver	Black	Automatic
+982	831	PLJ6GAR4VGCX6DWKO	Contoso Motors	Commercial	2013	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+983	983	P32QUJV32R5ZOCLIB	Contoso Motors	Convertible 2DR	2007	FWD	4 Cylinder	Silver	Ivory	Automatic
+984	245	WFSGFJXH1AB67X93T	Contoso Motors	Crossover	2005	FWD	Electric	Silver	Silverstone	Automatic
+985	246	QHIXFSVPFZHHVYXPQ	Contoso Motors	SUV	2007	FWD	Hybrid	Silver	Smoke White	Automatic
+986	986	EFFUOG0WWS3E7Q8WW	Contoso Motors	Minivan	2009	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+987	261	BTHD3UQJMH9C06D6N	Contoso Motors	SUV	2004	FWD	6 Cylinder	Silver	Red	Automatic
+988	988	W3Q4L78VTR18G817K	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+989	264	3H2YWQ17MULYF5FTA	Contoso Motors	SUV	2016	FWD	6 Cylinder	Silver	White	Automatic
+990	990	28O0HON8YYKBRF6O2	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+991	991	6JUYB87B3I62HUYX1	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+992	992	EVLOYPZ7B75Y81XKX	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+993	993	6F8CKWLXSL9QOKE0O	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Chili Red	Black	Automatic
+994	994	KHQBOI9N0HQP30BZB	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Blue	Old Lace	Automatic
+995	613	AP2B4YCNREOTQFZEY	Contoso Motors	Sedan	2004	FWD	6 Cylinder	Electric Blue	Red	Automatic
+996	671	4Z6AH2FXJIO5RO8QR	Contoso Motors	Hatchback	2014	AWD	6 Cylinder	Electric Blue	Red	Automatic
+997	614	QRD1S64DT4QIBM7AT	Contoso Motors	Sedan	2005	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+998	637	ZGUM9XEX13YN4L0V6	Contoso Motors	Sedan	2007	AWD	6 Cylinder	Electric Blue	Red	Automatic
+999	265	8PG1W9FQCTZLSR6K3	Contoso Motors	SUV	2011	FWD	8 Cylinder	Silver	Black	Automatic
+1000	971	Z29DGG4YR4IYE8OO7	Contoso Motors	Truck	2006	FWD	6 Cylinder	Silver	Black	Automatic
+1001	8	EV2UCHMQ491FCMWY7	Contoso Motors	Truck	2011	FWD	6 Cylinder	Silver	Black	Automatic
+1002	675	LX0P14QFLTWJLUVZU	Contoso Motors	Hatchback	2007	AWD	6 Cylinder	Chili Red	Black	Automatic
+1003	708	AFQ0WFEQHBEBEBPX2	Contoso Motors	Hatchback	2007	AWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1004	4	C8IF4CG8XRI0INDGM	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1005	5	ZL77R53CTYB7RTMTQ	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Chili Red	Black	Automatic
+1006	267	S8CXAC6OUK9WD5HHX	Contoso Motors	Crossover	2006	FWD	12 Cylinder	Silver	Ivory	Automatic
+1007	732	6SRO87HSURDVNBUOT	Contoso Motors	Wagon	2011	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1008	25	FJB04U5KE657N8ETJ	Contoso Motors	Truck	2004	FWD	6 Cylinder	Silver	Black	Automatic
+1009	269	YKO1Q8RX7Z20BVBG0	Contoso Motors	Crossover	2004	FWD	Hybrid	Silver	Silverstone	Automatic
+1010	674	Q3WAEDXVEW6WW44CP	Contoso Motors	Sedan	2010	AWD	6 Cylinder	Volcanic Orange	White	Automatic
+1011	756	HVL5A6XYMSSLTJOGX	Contoso Motors	Hatchback	2016	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1012	12	T1PNXW0C4AU3ZZBD2	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1013	279	39W6037WNRPIWR2N6	Contoso Motors	SUV	2007	AWD	6 Cylinder	Silver	Ivory	Automatic
+1014	286	3F4D4PXZWAA3USWXT	Contoso Motors	SUV	2016	FWD	Hybrid	Silver	White	Automatic
+1015	927	O895KBHQ8ZBSR5K4J	Contoso Motors	Commercial	2013	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+1016	16	GWII8E3CTPIVEFP8C	Contoso Motors	Convertible 2DR	2007	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1017	75	L281WRH4LDV9BEEGQ	Contoso Motors	Coupe	2004	FWD	6 Cylinder	Chili Red	Black	Automatic
+1018	18	OB2DUWVQGQ5WYYJRV	Contoso Motors	Hybrid	2015	FWD	Hybrid	Blue	Old Lace	Semi-automatic
+1019	48	LMYPQM5731EVRX7IQ	Contoso Motors	Truck	2004	FWD	6 Cylinder	Silver	Black	Automatic
+1020	810	R4ZBR89H8KRRIFKEK	Contoso Motors	Wagon	2009	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1021	782	TU8F5I53UXR8PTPCQ	Contoso Motors	Sedan	2015	AWD	6 Cylinder	Blue	Old Lace	Automatic
+1022	851	VK9WWDO4FW1UQ3N4I	Contoso Motors	Sedan	2007	AWD	6 Cylinder	Chili Red	Black	Automatic
+1023	879	D7GARWGXTUUY80PLB	Contoso Motors	Sedan	2007	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1024	811	F0MHIDSCCW3U5GYLM	Contoso Motors	Hatchback	2004	FWD	6 Cylinder	Racing Green	Beige	Automatic
+1025	49	FGYE8WOSGG4AENKIM	Contoso Motors	Truck	2005	FWD	6 Cylinder	Silver	Black	Automatic
+1026	73	QYP6JDA0C3C5ZCSKX	Contoso Motors	Truck	2011	AWD	6 Cylinder	Silver	Black	Automatic
+1027	161	JAF0NGJRJNHBLEOLT	Contoso Motors	Coupe	2011	AWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1028	28	WRARVHX83P8AEWBV7	Contoso Motors	Hybrid	2015	FWD	Hybrid	Volcanic Orange	White	Semi-automatic
+1029	289	148FARP3MNS8RRZ2G	Contoso Motors	SUV	2005	FWD	4 Cylinder	Silver	Ivory	Automatic
+1030	990	HZUJFFMCS9YMUA10L	Contoso Motors	Commercial	2013	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+1031	31	98U8Z5YFEQI5L4TSQ	Contoso Motors	Convertible 2DR	2004	AWD	6 Cylinder	Silver	Ivory	Automatic
+1032	293	B325URQ271DPK9FSU	Contoso Motors	Crossover	2014	RWD	4 Cylinder	Silver	Beige	Automatic
+1033	294	HJ6D18K3ZA7W51558	Contoso Motors	SUV	2015	FWD	4 Cylinder	Silver	Nutmeg	Automatic
+1034	34	D74C25X8NK5HSSA6C	Contoso Motors	Minivan	2016	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1035	309	7O2HN3N6X6DB8AHFV	Contoso Motors	SUV	2011	AWD	Hybrid	Silver	Dark Gray	Automatic
+1036	36	CVIEIL47FIMGU4O07	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1037	312	RAFBQG2LUVXKHYVN2	Contoso Motors	SUV	2007	AWD	4 Cylinder	Silver	Old Lace	Automatic
+1038	38	198JNWUXC1CYJF4I5	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1039	39	DMLKAW3NESZ59ISY9	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Chili Red	Black	Automatic
+1040	40	OV7FYRY2C77P1PKXU	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1041	41	3NCBK2NK65XQURUNH	Contoso Motors	Minivan	2014	FWD	6 Cylinder	Silver	Ivory	Automatic
+1042	42	B0UY0GZFP627P59IF	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1043	902	VRJXVUQUWLMYNIC8X	Contoso Motors	Sedan	2016	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1044	819	FSYFUXI1FPJ9DIFX7	Contoso Motors	Hatchback	2013	AWD	6 Cylinder	Silver	Ivory	Automatic
+1045	927	SL1XB76VD9HRMA0BI	Contoso Motors	Sedan	2006	AWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1046	962	5YCUQMCMTOH8KQSX5	Contoso Motors	Sedan	2007	AWD	6 Cylinder	White Silver	Smoke White	Automatic
+1047	313	WM649Q068P9KUPN57	Contoso Motors	SUV	2004	AWD	4 Cylinder	Silver	Ivory	Automatic
+1048	74	QNTENDARF69XO1DA1	Contoso Motors	Truck	2009	AWD	6 Cylinder	Silver	Black	Automatic
+1049	104	I71DVIJHW12327918	Contoso Motors	Truck	2007	AWD	6 Cylinder	Silver	Black	Automatic
+1050	828	E6QVD8225ME2R5FVO	Contoso Motors	Wagon	2004	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1051	832	48ZG0D16RBN971LUD	Contoso Motors	Wagon	2011	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1052	52	OTTLFELA69FMPFE9Q	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1053	53	UJ7OFMTZUDJD29Q0A	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Silver	Ivory	Automatic
+1054	315	90Y89GBSZII8YXUY6	Contoso Motors	Crossover	2012	AWD	4 Cylinder	Silver	Silverstone	Automatic
+1055	867	MYESKH75FZOPX79MB	Contoso Motors	Hatchback	2016	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1056	144	2FMQS6LOV6N4LGLUA	Contoso Motors	Truck	2016	AWD	6 Cylinder	Silver	Black	Automatic
+1057	317	9SWGXWA8EK394CJKQ	Contoso Motors	Crossover	2011	FWD	4 Cylinder	Silver	Beige	Automatic
+1058	22	FCFYXUIMDSQWG07PJ	Contoso Motors	Sedan	2013	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1059	876	HHIBJMFWFTL3SBNOL	Contoso Motors	Wagon	2011	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1060	60	FBRK56Z0QVZCB3DNU	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1061	327	QOF12N5J7I5CMCOKN	Contoso Motors	SUV	2004	FWD	Electric	Silver	Silverstone	Automatic
+1062	334	40Z1XF6W95S5AIE1Q	Contoso Motors	SUV	2007	FWD	Hybrid	Silver	White	Automatic
+1063	359	Q018K8DFH4QTX5P2B	Contoso Motors	Commercial	2013	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+1064	64	C76BYOK0OXDFAIE87	Contoso Motors	Convertible 2DR	2016	FWD	4 Cylinder	Blue	Old Lace	Automatic
+1065	209	9OG2TB8N5TOTHHEL1	Contoso Motors	Coupe	2007	AWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1066	66	ABC2BM83BXY03UIEM	Contoso Motors	Hybrid	2015	FWD	Hybrid	Deep Blue	Brown	Semi-automatic
+1067	152	ACJHQARKKLUSUUNZ1	Contoso Motors	Truck	2016	FWD	6 Cylinder	Silver	Black	Automatic
+1068	911	VSFGRY39FYXJTEBTD	Contoso Motors	Hatchback	2016	FWD	6 Cylinder	Chili Red	Black	Automatic
+1069	71	IQHVM8L85KM9O49QL	Contoso Motors	Sedan	2007	AWD	6 Cylinder	Electric Blue	Red	Automatic
+1070	106	2N1JUAYU3QCRH6RGQ	Contoso Motors	Sedan	2005	AWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1071	141	G33XEJKSF9OM7UZVN	Contoso Motors	Sedan	2004	AWD	6 Cylinder	Electric Blue	Red	Automatic
+1072	928	5HYVYWBICEZSI2AI2	Contoso Motors	Wagon	2007	AWD	6 Cylinder	White Silver	Smoke White	Automatic
+1073	192	CO8RA8SBH7WBRSHKU	Contoso Motors	Truck	2007	FWD	6 Cylinder	Silver	Black	Automatic
+1074	218	DMIPLR82W1YOPY4BT	Contoso Motors	Truck	2015	AWD	6 Cylinder	Silver	Black	Automatic
+1075	305	K3NJFO7AVRUSXN4R5	Contoso Motors	Coupe	2014	AWD	6 Cylinder	Racing Green	Beige	Automatic
+1076	76	HKZVEBRMVP2HV7NAT	Contoso Motors	Hybrid	2015	FWD	Hybrid	Blue	Old Lace	Semi-automatic
+1077	337	TINMPBP7FX3P2VBM6	Contoso Motors	SUV	2014	FWD	Hybrid	Silver	Ivory	Automatic
+1078	455	1MYG2SP8I35KE3KWK	Contoso Motors	Commercial	2013	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+1079	79	2TGONTPCDAAIZV5IZ	Contoso Motors	Convertible 2DR	2011	FWD	Electric	Midnight Black	Silverstone	Automatic
+1080	341	F810N41O2NRBJHKBY	Contoso Motors	Crossover	2014	FWD	4 Cylinder	Silver	Beige	Automatic
+1081	342	CG7TF9695SQWL3MQD	Contoso Motors	SUV	2015	FWD	4 Cylinder	Silver	Nutmeg	Automatic
+1082	82	OMTGA1J3TP19R3J72	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1083	357	9VVBO24LAH7ECEN20	Contoso Motors	SUV	2004	FWD	Electric	Silver	Dark Gray	Automatic
+1084	84	PPMZZUHU269M8SGTV	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1085	360	J1JB7GZ4YXVOBG1EA	Contoso Motors	SUV	2016	FWD	Hybrid	Silver	Old Lace	Automatic
+1086	86	L9L9DDVI0AHOSCCEC	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1087	87	VC5VO4P4XSNE9OEWN	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Chili Red	Black	Automatic
+1088	88	YU7771OZT6S9XSMYO	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1089	89	2CPYH0ER405RCQAYG	Contoso Motors	Minivan	2014	FWD	6 Cylinder	Silver	Ivory	Automatic
+1090	90	EMMXPYQ0IUMCNZFZV	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1091	167	WSWBI8IGT84RW9LKD	Contoso Motors	Sedan	2011	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+1092	948	COLOE9MMMYL1WJU0J	Contoso Motors	Hatchback	2004	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1093	187	O7S1FKA1U3UZ6NLIO	Contoso Motors	Sedan	2007	FWD	6 Cylinder	Racing Green	Beige	Automatic
+1094	189	C36JJAMQ08MEXWSEK	Contoso Motors	Sedan	2011	FWD	6 Cylinder	Electric Blue	Red	Automatic
+1095	361	OIJU9UUM1TPF4K4ZU	Contoso Motors	SUV	2011	FWD	Hybrid	Silver	Ivory	Automatic
+1096	248	ZRIDFO6YXSH409QIZ	Contoso Motors	Truck	2016	AWD	6 Cylinder	Silver	Black	Automatic
+1097	307	DW4MISZ52U5R2C921	Contoso Motors	Truck	2016	FWD	6 Cylinder	Silver	Black	Automatic
+1098	996	CPYLYGBYUZSLZVZQZ	Contoso Motors	Hatchback	2011	AWD	6 Cylinder	Deep Blue	Brown	Automatic
+1099	50	JNP5QPIVUH4LQEWXV	Contoso Motors	Wagon	2007	AWD	6 Cylinder	Volcanic Orange	White	Automatic
+1100	100	JSDIXWR4J6UKQ0BZ7	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1101	101	W9QRD06GOHX1IALUY	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Silver	Ivory	Automatic
+1102	363	MRRL7VUHBO1I0OXIP	Contoso Motors	Crossover	2014	FWD	Hybrid	Silver	Silverstone	Automatic
+1103	51	VCGP9QOH9SJXZU7NT	Contoso Motors	Hatchback	2016	RWD	6 Cylinder	Chili Red	Black	Automatic
+1104	344	J4PSIF7V9LS7CM0JH	Contoso Motors	Truck	2004	FWD	6 Cylinder	Silver	Black	Automatic
+1105	365	H9B2RLTFU2H2I7ZZA	Contoso Motors	Crossover	2004	RWD	4 Cylinder	Silver	Beige	Automatic
+1106	261	X40KN3GR0W7WOUBPX	Contoso Motors	Sedan	2014	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+1107	55	DTZSU66GZ5I2ZJ9ON	Contoso Motors	Hatchback	2007	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1108	108	HAPAPY13LGVYN6IOI	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1109	375	E0IFFYJHBQ9KGBL26	Contoso Motors	SUV	2011	FWD	6 Cylinder	Silver	Silverstone	Automatic
+1110	382	3M98H0RS5EO18NICW	Contoso Motors	SUV	2015	AWD	Hybrid	Silver	Old Lace	Automatic
+1111	55	2JKXDM0Q7W56MBA58	Contoso Motors	Commercial	2014	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+1112	112	OYYG0JKCW4RW8QIX6	Contoso Motors	Convertible 2DR	2015	FWD	Hybrid	Blue	Old Lace	Automatic
+1113	315	1QQK7Z53NPZJMEH01	Contoso Motors	Coupe	2016	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1114	114	29UQM5DGL3FVCLCTN	Contoso Motors	Hybrid	2015	FWD	Hybrid	Deep Blue	Brown	Semi-automatic
+1115	384	CGDEZOWRBIU0HYIJG	Contoso Motors	Truck	2005	FWD	6 Cylinder	Silver	Black	Automatic
+1116	72	WBHEY1DCGL0KYJEEC	Contoso Motors	Wagon	2016	AWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1117	309	VIHYRVDRYHM61RNGH	Contoso Motors	Sedan	2014	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+1118	381	PYU038HFUCIK6WB6N	Contoso Motors	Sedan	2011	FWD	6 Cylinder	Chili Red	Black	Automatic
+1119	407	RWCS7RS110HZ89X0Y	Contoso Motors	Sedan	2007	FWD	6 Cylinder	Silver	Ivory	Automatic
+1120	103	0GBRHQWAUQB1PL0TB	Contoso Motors	Hatchback	2006	AWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1121	392	60A9H95T0VSGPZJBV	Contoso Motors	Truck	2011	AWD	6 Cylinder	Silver	Black	Automatic
+1122	451	5NLUW3AXQLK8OZAPB	Contoso Motors	Truck	2007	RWD	6 Cylinder	Silver	Black	Automatic
+1123	363	AAS8RO78FE8H8XY1T	Contoso Motors	Coupe	2007	FWD	6 Cylinder	Racing Green	Beige	Automatic
+1124	124	JFBFPBZ9IO4GGYUD0	Contoso Motors	Hybrid	2014	FWD	Hybrid	Blue	Old Lace	Semi-automatic
+1125	385	IKY867K1HQH3NKVJ1	Contoso Motors	SUV	2014	AWD	10 Cylinder	Silver	Silverstone	Automatic
+1126	583	AMAG0W5B0AU5DDSX8	Contoso Motors	Commercial	2014	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+1127	127	9BOSV00YBSTO45Q75	Contoso Motors	Convertible 2DR	2013	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1128	389	89EGUL97CRN0OQ7R2	Contoso Motors	Crossover	2005	FWD	6 Cylinder	Silver	Red	Automatic
+1129	390	FYTOU2AV5ODJ68U56	Contoso Motors	SUV	2007	FWD	Electric	Silver	Gray	Automatic
+1130	130	VC4MRSR10TENVX9D2	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1131	405	L1BME38PEG6TOUKR8	Contoso Motors	SUV	2011	FWD	Hybrid	Silver	Black	Automatic
+1132	132	OJLU3VSLXRLKVJA7G	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1133	408	23MRDQ3RS24GTHL0Z	Contoso Motors	SUV	2015	FWD	Hybrid	Silver	Brown	Automatic
+1134	134	ABGMRTW4A8U1KF7IL	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1135	135	3V35G3IU9O1FX58DC	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Silver	Ivory	Automatic
+1136	136	0SFG8RQQ0FUYXMDP3	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1137	137	X5PMD0O0PES0B906V	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1138	138	QFKKDE2Q455EL97LA	Contoso Motors	Minivan	2007	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1139	427	VPL1QJ2CW6DXESKEI	Contoso Motors	Sedan	2004	RWD	6 Cylinder	Chili Red	Black	Automatic
+1140	164	97ZDH28ATAZN1XLWY	Contoso Motors	Wagon	2005	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1141	429	2ZUKP41V4QTLXOWLD	Contoso Motors	Sedan	2007	AWD	6 Cylinder	Silver	Ivory	Automatic
+1142	453	UG25XB71ROX6VWX3F	Contoso Motors	Sedan	2011	FWD	6 Cylinder	Silver	Ivory	Automatic
+1143	409	YSS5SQTLGD33K8SL1	Contoso Motors	SUV	2004	FWD	6 Cylinder	Silver	Brown	Automatic
+1144	457	I29S8BXMFZKVS8IRC	Contoso Motors	Truck	2004	FWD	6 Cylinder	Silver	Black	Automatic
+1145	480	0T19RSQE02TINDAAL	Contoso Motors	Truck	2011	FWD	6 Cylinder	Silver	Black	Automatic
+1146	188	FWHC82R5PP8ZEXXAD	Contoso Motors	Hatchback	2016	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1147	195	GORVXJBZ0O6JW2J3N	Contoso Motors	Hatchback	2012	RWD	6 Cylinder	Silver	Ivory	Automatic
+1148	148	SZ0IU82I78EXJI8EO	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1149	149	6NNDPGBHMT2Z5EIUS	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1150	411	G2XP09WBQD4AH7E0X	Contoso Motors	Crossover	2007	FWD	Hybrid	Silver	Brown	Automatic
+1151	212	GYHLH8H7FM5MU90X5	Contoso Motors	Wagon	2004	AWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1152	481	3JOAP9YH2NS9BNBMQ	Contoso Motors	Truck	2014	FWD	6 Cylinder	Silver	Black	Automatic
+1153	413	8JE4ZZRGE7A19KLES	Contoso Motors	Crossover	2011	FWD	Electric	Silver	Brown	Automatic
+1154	454	D1Z9A1BETTMBRI4NW	Contoso Motors	Sedan	2005	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1155	243	X78P7EE6VPA1H57Y7	Contoso Motors	Hatchback	2014	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1156	156	P0I71GC5S21ZIBAUF	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1157	423	T6MGWM3HFCT09DWAN	Contoso Motors	SUV	2013	AWD	Hybrid	Silver	Brown	Automatic
+1158	430	B4WZ7V4Q2XKB6HVS0	Contoso Motors	SUV	2015	FWD	4 Cylinder	Silver	Brown	Automatic
+1159	111	DYPS8PMDK9HBLFQD7	Contoso Motors	Commercial	2014	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+1160	160	ZJUN70Z1VDKIKW6JT	Contoso Motors	Convertible 2DR	2016	FWD	Hybrid	Deep Blue	Brown	Manual
+1161	401	S7360F4IWKE5TRHZI	Contoso Motors	Coupe	2005	FWD	6 Cylinder	Electric Blue	Red	Automatic
+1162	162	F6T5VFTMUHT3N0PKK	Contoso Motors	Hybrid	2014	FWD	Hybrid	White Silver	Smoke White	Semi-automatic
+1163	505	GA2AJ5X7DH9HBQ55Y	Contoso Motors	Truck	2011	AWD	6 Cylinder	Silver	Black	Automatic
+1164	247	JWGUIFIV3Q7XXDA9P	Contoso Motors	Hatchback	2007	AWD	6 Cylinder	Electric Blue	Red	Automatic
+1165	477	CVEW9BUKF8OI77XY7	Contoso Motors	Sedan	2005	FWD	6 Cylinder	Silver	Ivory	Automatic
+1166	478	90GB5N6DRZ7V781D4	Contoso Motors	Sedan	2007	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1167	501	41AWJADS0XG8B48YY	Contoso Motors	Sedan	2004	AWD	6 Cylinder	Silver	Ivory	Automatic
+1168	264	I0SXGXIBU2K45UM4F	Contoso Motors	Wagon	2013	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1169	506	PVY0PV7AADAH2DJYC	Contoso Motors	Truck	2013	AWD	6 Cylinder	Silver	Black	Automatic
+1170	528	1WOFHPROXWGN96QOG	Contoso Motors	Truck	2013	FWD	6 Cylinder	Silver	Black	Automatic
+1171	449	RGWBMK8KQ4MEP7NNW	Contoso Motors	Coupe	2004	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+1172	172	3NF1S5NWW07XKMSG7	Contoso Motors	Hybrid	2014	FWD	Hybrid	Deep Blue	Brown	Semi-automatic
+1173	433	530W2IAE5A9T8SZ0Y	Contoso Motors	SUV	2005	FWD	6 Cylinder	Silver	Brown	Automatic
+1174	639	2BDXIN8PZK2AQRC17	Contoso Motors	Commercial	2014	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+1175	175	N85D2K3A60TXOA9LB	Contoso Motors	Convertible 2DR	2016	AWD	Hybrid	Racing Green	Beige	Manual
+1176	437	TBRA01B6HVUVAA72C	Contoso Motors	Crossover	2004	RWD	6 Cylinder	Silver	Brown	Automatic
+1177	438	C7JW8JCYBIV9ORFZ5	Contoso Motors	SUV	2005	FWD	3 Cylinder	Silver	Brown	Automatic
+1178	178	906HDJ8H0W9BL65SV	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1179	453	XVFP29B0NL0AKUD5P	Contoso Motors	SUV	2004	AWD	8 Cylinder	Silver	Brown	Automatic
+1180	180	ELUHSYBVDCFNNFPKC	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1181	456	2N6XHWSUOHT8WC08V	Contoso Motors	SUV	2016	AWD	6 Cylinder	Silver	Brown	Automatic
+1182	182	TMTTU60BTN1545T38	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1183	183	1HNKIHZL5Z1M33ZQ5	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Silver	Ivory	Automatic
+1184	184	L67F49WJBZ8S0RBGM	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1185	185	0BXDIHRSNQQKYSL5W	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1186	186	VRG8KBFGZW30CSGGF	Contoso Motors	Minivan	2005	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1187	502	CB3RI2UW96J2XY7O6	Contoso Motors	Sedan	2005	AWD	6 Cylinder	Deep Blue	Brown	Automatic
+1188	284	EQQ1NZWQZALHWSQFN	Contoso Motors	Hatchback	2016	AWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1189	503	XE5MSTKF0DYWNV1ZT	Contoso Motors	Sedan	2012	AWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1190	525	K31X83Q8OAWY41TG4	Contoso Motors	Sedan	2014	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1191	457	LFQW1OKHGC3OSPYIA	Contoso Motors	SUV	2011	AWD	6 Cylinder	Silver	Brown	Automatic
+1192	577	ER1E7N85MRKL9ANO9	Contoso Motors	Truck	2005	AWD	6 Cylinder	Silver	Black	Automatic
+1193	584	1GA8S8N4J1FG3XOQ9	Contoso Motors	Truck	2016	FWD	6 Cylinder	Silver	Black	Automatic
+1194	308	GJG4UW3FTNVX2473G	Contoso Motors	Wagon	2013	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1195	312	TQ22E75PAKKD1T2NL	Contoso Motors	Wagon	2004	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1196	196	26PK7J56X3W3ZXMH4	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1197	197	VRWLYRD3XW8XQ5PN6	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1198	459	U4P0RTX0KIORVCVU3	Contoso Motors	Crossover	2004	AWD	Electric	Silver	Brown	Automatic
+1199	332	3T9KCUYCGS6EY7VM6	Contoso Motors	Hatchback	2015	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1200	624	XAOBIMU080AVB4CME	Contoso Motors	Truck	2011	FWD	6 Cylinder	Silver	Black	Automatic
+1201	461	BOP2XCCXIGHE7N6TQ	Contoso Motors	Crossover	2007	FWD	8 Cylinder	Silver	Brown	Automatic
+1202	571	PL239SH0GJM53U9UZ	Contoso Motors	Sedan	2016	RWD	6 Cylinder	Silver	Ivory	Automatic
+1203	338	LIY5IZ7YLRSMSGGWI	Contoso Motors	Wagon	2009	AWD	6 Cylinder	White Silver	Smoke White	Automatic
+1204	204	PBGJM7MBFGRQ3OH9W	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1205	471	76623FQEO37MWMVVR	Contoso Motors	SUV	2016	FWD	Hybrid	Silver	Brown	Automatic
+1206	478	YSHUK8KE32XMS6ADJ	Contoso Motors	SUV	2007	FWD	Hybrid	Silver	Brown	Automatic
+1207	167	LKRCL68SFDKLK42PP	Contoso Motors	Commercial	2014	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+1208	208	0Z42ATJI1R3D1RCQE	Contoso Motors	Convertible 2DR	2005	FWD	6 Cylinder	Deep Blue	Brown	Manual
+1209	603	1ELTWJFFQHN8MGSRL	Contoso Motors	Coupe	2004	FWD	6 Cylinder	Chili Red	Black	Automatic
+1210	210	C7K8EWK29HKF71V1E	Contoso Motors	Hybrid	2014	FWD	Hybrid	White Silver	Smoke White	Semi-automatic
+1211	625	1X0BEZG5RFU5P2SCE	Contoso Motors	Truck	2004	FWD	6 Cylinder	Silver	Black	Automatic
+1212	347	H2SIWYECXGY668PKR	Contoso Motors	Hatchback	2013	FWD	6 Cylinder	Silver	Ivory	Automatic
+1213	597	XNJG3ESF0KIBQYXYC	Contoso Motors	Sedan	2004	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1214	619	1IR4Z93B2RB32ILZW	Contoso Motors	Sedan	2013	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1215	621	XF3GTQ4DXGRVOPIKZ	Contoso Motors	Sedan	2005	FWD	6 Cylinder	Racing Green	Beige	Automatic
+1216	404	OM89K40I5L1PNACD9	Contoso Motors	Wagon	2011	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1217	680	VHMGA88HZ7CBE8VO9	Contoso Motors	Truck	2016	AWD	6 Cylinder	Silver	Black	Automatic
+1218	691	MQFUZ427AFCL7WD2U	Contoso Motors	Truck	2004	FWD	6 Cylinder	Silver	Black	Automatic
+1219	833	I3IJBG6NFJEYNQ006	Contoso Motors	Coupe	2014	FWD	6 Cylinder	Racing Green	Beige	Automatic
+1220	220	0I30WSXTJIMT05NMZ	Contoso Motors	Hybrid	2014	FWD	Hybrid	Deep Blue	Brown	Semi-automatic
+1221	481	NDCDLJOTWMEKBJPND	Contoso Motors	SUV	2004	FWD	Hybrid	Silver	Brown	Automatic
+1222	70	BWADR3Y9RZ034T69R	Contoso Motors	Commercial	2015	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+1223	223	XLSP2XOXW4PSDKDMU	Contoso Motors	Convertible 2DR	2013	FWD	Hybrid	Racing Green	Beige	Manual
+1224	485	2NNBYPLXMPYIGE1T5	Contoso Motors	Crossover	2011	FWD	4 Cylinder	Silver	Brown	Automatic
+1225	486	GHWDQ7A3UZIL3XMVH	Contoso Motors	SUV	2005	FWD	4 Cylinder	Silver	Brown	Automatic
+1226	226	DSAC1X4P9DF5Y68KQ	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1227	501	RZAW4278UQ6HPF19Q	Contoso Motors	SUV	2011	FWD	Electric	Silver	Brown	Automatic
+1228	228	4A4UHN656JD1DBMX4	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1229	504	JE8FF9NU4JOWBY72H	Contoso Motors	SUV	2005	FWD	8 Cylinder	Silver	Brown	Automatic
+1230	230	5RBDKWDUX9ADDYK0G	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1231	231	58ZOCI38QKP897IZT	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1232	232	Z1FXORB5IZ8LWUANM	Contoso Motors	Minivan	2016	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1233	233	5O12NDTI6VVRZZJ8E	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Racing Green	Beige	Automatic
+1234	234	YYPFAPQ7FR6EAEU8N	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1235	622	NJAJ6E9MSUEVP9IQB	Contoso Motors	Sedan	2007	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1236	428	L3CSZU1SEURP4WI9D	Contoso Motors	Hatchback	2005	AWD	6 Cylinder	Blue	Old Lace	Automatic
+1237	645	FT4W77VTWPTOAI30M	Contoso Motors	Sedan	2011	AWD	6 Cylinder	Racing Green	Beige	Automatic
+1238	682	YYUF7P2NL99J1F9WP	Contoso Motors	Sedan	2013	AWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1239	505	WQFQF43WVB7VDMIVK	Contoso Motors	SUV	2007	FWD	10 Cylinder	Silver	Brown	Automatic
+1240	697	ZGL3U8RGPUDWAL5SK	Contoso Motors	Truck	2005	FWD	6 Cylinder	Silver	Black	Automatic
+1241	720	T6IPJJ74Q1ZKCMA34	Contoso Motors	Truck	2007	AWD	6 Cylinder	Silver	Black	Automatic
+1242	452	ETRQ5IK20QUNLMHG0	Contoso Motors	Wagon	2016	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1243	476	MG938KW4ROP139RKI	Contoso Motors	Hatchback	2004	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1244	244	E96DUTRPKKFTBZY69	Contoso Motors	Minivan	2015	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1245	245	M8FU8QCVRN89ZIRXA	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Racing Green	Beige	Automatic
+1246	507	0TRTC0ZNZP8VJY56Y	Contoso Motors	Crossover	2011	FWD	3 Cylinder	Silver	Brown	Automatic
+1247	482	LFMINWIJD3BDT3Z7A	Contoso Motors	Wagon	2015	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1248	739	BBAWQA6H4DGS3R6GQ	Contoso Motors	Truck	2011	AWD	6 Cylinder	Silver	Black	Automatic
+1249	509	ODZH8NPF5MDVGYSIZ	Contoso Motors	Crossover	2005	RWD	6 Cylinder	Silver	Brown	Automatic
+1250	717	IK3852NSY885GO899	Contoso Motors	Sedan	2011	AWD	6 Cylinder	Electric Blue	Red	Automatic
+1251	500	GAXQKXF247DXMV87J	Contoso Motors	Wagon	2007	AWD	6 Cylinder	Blue	Old Lace	Automatic
+1252	252	NCGT352M2HBLTB991	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1253	519	NRGMCKB8AGZVYQOD8	Contoso Motors	SUV	2013	FWD	Electric	Silver	Red	Automatic
+1254	526	VLJDAURTHW5D3TH3Z	Contoso Motors	SUV	2005	AWD	6 Cylinder	Silver	Brown	Automatic
+1255	646	ULBEOJBJNIIY81QP0	Contoso Motors	Commercial	2015	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+1256	256	4W5SZGAL7ZWK0VNV3	Contoso Motors	Convertible 2DR	2004	FWD	8 Cylinder	White Silver	Smoke White	Manual
+1257	881	Y46JJS1HPE59U638H	Contoso Motors	Coupe	2014	RWD	6 Cylinder	Racing Green	Beige	Automatic
+1258	258	DH5KEKXT2JKA4ZGQ6	Contoso Motors	Hybrid	2014	FWD	Hybrid	Blazing Gray	Nutmeg	Semi-automatic
+1259	745	4QJFB96VQMZKHAPV8	Contoso Motors	Truck	2014	FWD	6 Cylinder	Silver	Black	Automatic
+1260	504	AVL35XR093PIZO6K7	Contoso Motors	Wagon	2016	AWD	6 Cylinder	White Silver	Smoke White	Automatic
+1261	741	EG75SX4LRFNW9T2L8	Contoso Motors	Sedan	2005	FWD	6 Cylinder	Electric Blue	Red	Automatic
+1262	742	I6GWV0XSZIQT23ZHY	Contoso Motors	Sedan	2007	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1263	743	M264PSN0D764LP4E0	Contoso Motors	Sedan	2013	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+1264	524	SB1LWHLPSQJ6PWUEU	Contoso Motors	Hatchback	2011	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1265	768	6Y4HPKD65POPBXDAU	Contoso Motors	Truck	2016	FWD	6 Cylinder	Silver	Black	Automatic
+1266	824	66UVTJW2DY0O8PYMK	Contoso Motors	Truck	2005	RWD	6 Cylinder	Silver	Black	Automatic
+1267	939	5HH7R527ZJOYIA8OY	Contoso Motors	Coupe	2006	AWD	6 Cylinder	Racing Green	Beige	Automatic
+1268	268	XJ6KDFQ2PBQ4ZUBGB	Contoso Motors	Hybrid	2014	FWD	Hybrid	White Silver	Smoke White	Semi-automatic
+1269	529	9SZFR2BHGVEAF6JOX	Contoso Motors	SUV	2011	AWD	6 Cylinder	Silver	Beige	Automatic
+1270	174	NGIMR2OG7496H3DFC	Contoso Motors	Commercial	2015	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+1271	271	MK7GA9A923OPBECLB	Contoso Motors	Convertible 2DR	2016	FWD	Electric	Electric Blue	Red	Manual
+1272	533	LAM5A9404QPQHTRAZ	Contoso Motors	Crossover	2004	FWD	Electric	Silver	Beige	Automatic
+1273	534	IDEKL3UODAAI6CG4K	Contoso Motors	SUV	2005	FWD	Hybrid	Silver	Beige	Automatic
+1274	274	F9CT3R8M8E4ZAHJF6	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1275	549	TM1JD19QYMFO1P574	Contoso Motors	SUV	2007	FWD	4 Cylinder	Silver	Beige	Automatic
+1276	276	GTOEXK959CMD932ZB	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1277	552	K1RQ6TZOABLZ68O03	Contoso Motors	SUV	2004	FWD	6 Cylinder	Silver	Beige	Automatic
+1278	278	V4YYL9QFC49ZAEM49	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1279	279	LCBU82I3PQ88AJRPC	Contoso Motors	Minivan	2006	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1280	280	M0FFTDSRAVLG9AI8R	Contoso Motors	Minivan	2007	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1281	281	SJEWVZES6P40RFJ2C	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Racing Green	Beige	Automatic
+1282	282	UNHJ1BS4IJDD9JJQ4	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1283	765	DRO9OF9GDWEPDU90B	Contoso Motors	Sedan	2004	FWD	6 Cylinder	Electric Blue	Red	Automatic
+1284	600	AV977M67R6FW2C7UY	Contoso Motors	Wagon	2016	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1285	826	WRIDNN9F6V38KKPDJ	Contoso Motors	Sedan	2016	AWD	6 Cylinder	Volcanic Orange	White	Automatic
+1286	887	AX0J6KW0FDI04F222	Contoso Motors	Sedan	2016	FWD	6 Cylinder	Silver	Ivory	Automatic
+1287	553	IZGBOUOH0QDT7KX44	Contoso Motors	SUV	2005	FWD	6 Cylinder	Silver	Beige	Automatic
+1288	913	JVHJQQ3CAYW85TKM6	Contoso Motors	Truck	2007	FWD	6 Cylinder	Silver	Black	Automatic
+1289	937	MH96VP2EWK2CU8QLO	Contoso Motors	Truck	2011	AWD	6 Cylinder	Silver	Black	Automatic
+1290	620	TEJKXNOSEJQHD43H6	Contoso Motors	Hatchback	2004	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1291	631	66FZ8F20WBAKUQR4W	Contoso Motors	Hatchback	2006	RWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1292	292	D8GCDIXB5352RWT9L	Contoso Motors	Minivan	2016	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1293	293	T5G690OUAUEORIOUO	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Racing Green	Beige	Automatic
+1294	555	E6I1WU4V68P2YI9EZ	Contoso Motors	Crossover	2013	FWD	6 Cylinder	Silver	Beige	Automatic
+1295	644	A8KAMYGO3AKYV081V	Contoso Motors	Wagon	2016	AWD	6 Cylinder	White Silver	Smoke White	Automatic
+1296	938	3PBED0J26IA5PGY7C	Contoso Motors	Truck	2005	AWD	6 Cylinder	Silver	Black	Automatic
+1297	557	5JK0ZIYX9GGG3HWD1	Contoso Motors	Crossover	2014	FWD	6 Cylinder	Silver	Beige	Automatic
+1298	910	KGKU39G92BWMGN5L3	Contoso Motors	Sedan	2009	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1299	648	LSCQSH0E0ZO6FQXA1	Contoso Motors	Wagon	2005	AWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1300	300	FTX8HD931F3FMWDHA	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1301	567	ONE99UYVELKPCUTDP	Contoso Motors	SUV	2016	AWD	3 Cylinder	Silver	Beige	Automatic
+1302	574	MCGQ5T5PN01IP9MZ8	Contoso Motors	SUV	2005	FWD	10 Cylinder	Silver	Beige	Automatic
+1303	222	UI06J0D5G0CAAFY19	Contoso Motors	Commercial	2015	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+1304	304	Y5SBTSW4WX021KGFA	Contoso Motors	Convertible 2DR	2011	FWD	6 Cylinder	White Silver	Smoke White	Manual
+1305	73	MP0S8AKU43RPKD90V	Contoso Motors	Coupe	2004	FWD	6 Cylinder	Chili Red	Black	Automatic
+1306	306	YHIK1NXRYJEB9PVH1	Contoso Motors	Hybrid	2014	FWD	Hybrid	Blazing Gray	Nutmeg	Semi-automatic
+1307	960	34X7MRZ9LNSQT9DQU	Contoso Motors	Truck	2004	FWD	6 Cylinder	Silver	Black	Automatic
+1308	679	2UJ2QKEYM218KRM6J	Contoso Motors	Hatchback	2012	RWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1309	935	6UHMXMW5NXMNQUAF0	Contoso Motors	Sedan	2007	AWD	6 Cylinder	Silver	Ivory	Automatic
+1310	970	314QP2MUZPKE4BAFS	Contoso Motors	Sedan	2015	AWD	6 Cylinder	Blue	Old Lace	Automatic
+1311	30	B13S39TMEEIO3NBHJ	Contoso Motors	Sedan	2005	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1312	683	XW440S0HCDHEM9P9F	Contoso Motors	Hatchback	2014	AWD	6 Cylinder	Electric Blue	Red	Automatic
+1313	961	SPTF6X75CP3H9LH2O	Contoso Motors	Truck	2005	FWD	6 Cylinder	Silver	Black	Automatic
+1314	979	22ADQR3GY64IQ96JF	Contoso Motors	Truck	2007	FWD	6 Cylinder	Silver	Black	Automatic
+1315	121	RM1WZGYS9YABON8Q8	Contoso Motors	Coupe	2011	AWD	6 Cylinder	Chili Red	Black	Automatic
+1316	316	UF0BKWQIZ10FZ6B9E	Contoso Motors	Hybrid	2014	FWD	Hybrid	White Silver	Smoke White	Semi-automatic
+1317	577	E3EBBLYQZ88UC2Z7W	Contoso Motors	SUV	2004	FWD	6 Cylinder	Silver	Beige	Automatic
+1318	702	99HNLW25GFLZEJ2PS	Contoso Motors	Commercial	2015	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+1319	319	TAE9Z89VLO83PHJR1	Contoso Motors	Convertible 2DR	2007	AWD	3 Cylinder	Pepper White	Dark Gray	Manual
+1320	581	Y1BNRSA5R4BXLBPMK	Contoso Motors	Crossover	2011	RWD	8 Cylinder	Silver	Beige	Automatic
+1321	582	GYR52YP8G2NKMLWBH	Contoso Motors	SUV	2013	FWD	10 Cylinder	Silver	Beige	Automatic
+1322	322	BVMNWWVGHRTC3GEDU	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1323	597	SBF0EH6V8KP76QGL4	Contoso Motors	SUV	2005	AWD	Hybrid	Silver	Beige	Automatic
+1324	324	YYZWNGOX1RUWRC7XC	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1325	600	LJ6F4OZPZ9KYSBCM2	Contoso Motors	SUV	2011	AWD	Hybrid	Silver	Beige	Automatic
+1326	326	QTWN80VZUV7PXBZBK	Contoso Motors	Minivan	2005	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1327	327	F7QHYEUVCVPREJVZR	Contoso Motors	Minivan	2012	FWD	6 Cylinder	Racing Green	Beige	Automatic
+1328	328	ODHWMT1905X771A4G	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1329	329	5UVV52TCPL8K6P7Z0	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Electric Blue	Red	Automatic
+1330	330	2PSIBOHIZGHIVTM1T	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1331	99	C3U7E7UASKXHUVXQS	Contoso Motors	Sedan	2016	FWD	6 Cylinder	Silver	Ivory	Automatic
+1332	723	6Y0AHLH3LQ1AI4WXW	Contoso Motors	Hatchback	2012	AWD	6 Cylinder	Silver	Ivory	Automatic
+1333	127	I40PBTA95H61CKPWB	Contoso Motors	Sedan	2007	FWD	6 Cylinder	Racing Green	Beige	Automatic
+1334	150	ROVY27XJA4YWIAXG6	Contoso Motors	Sedan	2007	AWD	6 Cylinder	White Silver	Smoke White	Automatic
+1335	601	M3CW0MS6MFSL5UAAD	Contoso Motors	SUV	2014	AWD	Hybrid	Silver	Beige	Automatic
+1336	16	DAGVB9T3K577ZR0KK	Contoso Motors	Truck	2004	FWD	6 Cylinder	Silver	Black	Automatic
+1337	33	IGFMX01JATNY81JNK	Contoso Motors	Truck	2011	FWD	6 Cylinder	Silver	Black	Automatic
+1338	740	PVCT3LTTZSQN0IRET	Contoso Motors	Wagon	2004	RWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1339	744	TFPD7W5PGE4JJUPHN	Contoso Motors	Wagon	2011	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1340	340	INUX9NV7E99VIABYE	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1341	341	R9PQY8C8BV6YLW8HP	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Electric Blue	Red	Automatic
+1342	603	FVX12C6OGRUE5ZY8I	Contoso Motors	Crossover	2016	AWD	Hybrid	Silver	Beige	Automatic
+1343	764	K81ISYCQ22EWXGU6W	Contoso Motors	Hatchback	2007	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1344	56	WBL4WLJG14TKK0MDZ	Contoso Motors	Truck	2013	FWD	6 Cylinder	Silver	Black	Automatic
+1345	605	RTJ0QA3ECF8QO010S	Contoso Motors	Crossover	2014	FWD	4 Cylinder	Silver	Beige	Automatic
+1346	175	BKB70LRTCH9G77TGB	Contoso Motors	Sedan	2004	FWD	6 Cylinder	Electric Blue	Red	Automatic
+1347	823	ME44GUAR7A2LB4HZD	Contoso Motors	Hatchback	2004	AWD	6 Cylinder	Electric Blue	Red	Automatic
+1348	348	I1PDM5GBDKL1A46DQ	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1349	615	A66BQTFUEM23UF0YQ	Contoso Motors	SUV	2007	FWD	6 Cylinder	Silver	Beige	Automatic
+1350	622	R32L45Y45CXJ1832L	Contoso Motors	SUV	2005	FWD	Hybrid	Silver	Smoke White	Automatic
+1351	750	KUSBIPA04LYM2EIIP	Contoso Motors	Commercial	2015	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+1352	352	QYY4ASV4JLB7RCT3Y	Contoso Motors	Convertible 2DR	2013	FWD	Hybrid	Blazing Gray	Nutmeg	Manual
+1353	179	R6BV391OVKDOB81RH	Contoso Motors	Coupe	2011	FWD	6 Cylinder	Chili Red	Black	Automatic
+1354	354	SD1FDIMAM885VRR4K	Contoso Motors	Hybrid	2014	FWD	Hybrid	Thunder Gray	Gray	Semi-automatic
+1355	57	OJ0HVO4LHFR5EJ4F5	Contoso Motors	Truck	2014	FWD	6 Cylinder	Silver	Black	Automatic
+1356	827	MZGKYCHARBJTS7WZO	Contoso Motors	Hatchback	2011	AWD	6 Cylinder	Chili Red	Black	Automatic
+1357	258	RMBSQDOAPJSSMRR9Q	Contoso Motors	Sedan	2010	AWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1358	269	ZOPYIRVU7EI9GHUMQ	Contoso Motors	Sedan	2005	FWD	6 Cylinder	Electric Blue	Red	Automatic
+1359	317	D1DDKVM88RR3PLBAT	Contoso Motors	Sedan	2014	RWD	6 Cylinder	Electric Blue	Red	Automatic
+1360	836	DXBHUHLUGYJDY1PNK	Contoso Motors	Wagon	2013	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1361	64	KRB9R16B5VHMT1D6R	Contoso Motors	Truck	2011	RWD	6 Cylinder	Silver	Black	Automatic
+1362	81	FZC84TTVLD7HFOORL	Contoso Motors	Truck	2014	AWD	6 Cylinder	Silver	Black	Automatic
+1363	313	ILVKP2FAG3WG5IM8C	Contoso Motors	Coupe	2005	AWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1364	364	3MOPQ5ZT5C38AXQ2U	Contoso Motors	Hybrid	2014	FWD	Hybrid	Blazing Gray	Nutmeg	Semi-automatic
+1365	625	CY6LZH8RR2H1SAREI	Contoso Motors	SUV	2011	FWD	10 Cylinder	Silver	Red	Automatic
+1366	230	OYG2928S3NRJW1YKT	Contoso Motors	Commercial	2015	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+1367	367	MHAK658W5TEUHITRR	Contoso Motors	Convertible 2DR	2006	FWD	6 Cylinder	Pepper White	Dark Gray	Manual
+1368	629	1FVYIKXVMOTS48FD3	Contoso Motors	Crossover	2004	FWD	6 Cylinder	Silver	Black	Automatic
+1369	630	GEFAEBS0H3FIVOR2J	Contoso Motors	SUV	2010	FWD	Electric	Silver	Old Lace	Automatic
+1370	370	514EHHUJ1TFYIS65E	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1371	645	GW9NI5JQVOG703PZB	Contoso Motors	SUV	2014	FWD	Hybrid	Silver	Silverstone	Automatic
+1372	372	YEL4K5RNX940QFNL3	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1373	648	Q78598MH3T1V54KFM	Contoso Motors	SUV	2013	FWD	Hybrid	Silver	Nutmeg	Automatic
+1374	374	LH732XEZDKI4Z394T	Contoso Motors	Minivan	2013	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1375	375	ICT9RIOF32THO9556	Contoso Motors	Minivan	2014	FWD	6 Cylinder	Racing Green	Beige	Automatic
+1376	376	QRP61J8WWMFEC1OJ9	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1377	377	Q1FF8A1TVWBJI28E2	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Electric Blue	Red	Automatic
+1378	378	D4E4HC4Y1OBFLZ63T	Contoso Motors	Minivan	2010	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1379	389	D80AUFIV83HX8YCH3	Contoso Motors	Sedan	2004	RWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+1380	860	2ZZD7EGUGGMKFQ18O	Contoso Motors	Hatchback	2015	RWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1381	415	70AVZHYLXOOVE6YOR	Contoso Motors	Sedan	2016	FWD	6 Cylinder	Chili Red	Black	Automatic
+1382	435	O4URHRZXH6XPYFM6P	Contoso Motors	Sedan	2007	FWD	6 Cylinder	Electric Blue	Red	Automatic
+1383	649	39GI4HW1QA7DPSHVZ	Contoso Motors	SUV	2014	FWD	6 Cylinder	Silver	Red	Automatic
+1384	153	CV1U309RLIH6HDXT1	Contoso Motors	Truck	2004	AWD	6 Cylinder	Silver	Black	Automatic
+1385	177	QEUZ5VK4OZ3LC3N6E	Contoso Motors	Truck	2007	FWD	6 Cylinder	Silver	Black	Automatic
+1386	884	GGU564Y01QWH8GW9H	Contoso Motors	Wagon	2004	RWD	6 Cylinder	Volcanic Orange	White	Automatic
+1387	919	ORR4OWHTW0CEF66X2	Contoso Motors	Hatchback	2013	AWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+1388	388	VDRKMX1QOU4MITQAL	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1389	389	XG8VBMCYEO2QOG8ZR	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Electric Blue	Red	Automatic
+1390	651	MJ401YWXY32Z6KTKM	Contoso Motors	Crossover	2013	FWD	Hybrid	Silver	Dark Gray	Automatic
+1391	936	7Q4UWJ6Q6CDFFKVAZ	Contoso Motors	Wagon	2016	AWD	6 Cylinder	Deep Blue	Brown	Automatic
+1392	178	R6WSJIP4RU0PIYO36	Contoso Motors	Truck	2016	FWD	6 Cylinder	Silver	Black	Automatic
+1393	653	N88SJT15AC6Y5J2R9	Contoso Motors	Crossover	2005	AWD	Electric	Silver	Black	Automatic
+1394	437	0T0ZLCUSG9BVJX2VW	Contoso Motors	Sedan	2011	RWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+1395	956	ZY4NAV7ZN2VT1VR0K	Contoso Motors	Hatchback	2005	RWD	6 Cylinder	Volcanic Orange	White	Automatic
+1396	396	60VWQA1A274G0SAVL	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1397	663	G0VMNUCY2U8RK3G1F	Contoso Motors	SUV	2006	FWD	Hybrid	Silver	Black	Automatic
+1398	670	KTTD6O22EY8MVZW5S	Contoso Motors	SUV	2013	AWD	4 Cylinder	Silver	Nutmeg	Automatic
+1399	278	5AYXF6STXFTDRP7GA	Contoso Motors	Commercial	2015	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+1400	400	CCYMU05361DPN6Y5H	Contoso Motors	Convertible 2DR	2004	FWD	Hybrid	Blazing Gray	Nutmeg	Manual
+1401	323	Z4DCRPF5BA7QXDT12	Contoso Motors	Coupe	2013	FWD	6 Cylinder	Silver	Ivory	Automatic
+1402	402	H7W70OJO6GKA2G5PN	Contoso Motors	Hybrid	2014	FWD	Hybrid	Thunder Gray	Gray	Semi-automatic
+1403	200	SWLZX9W7G065UO78G	Contoso Motors	Truck	2016	FWD	6 Cylinder	Silver	Black	Automatic
+1404	4	23QEY2EIZJ7TSBDNM	Contoso Motors	Hatchback	2004	RWD	6 Cylinder	Blue	Old Lace	Automatic
+1405	85	IPPH7JTK8J2GIGIBP	Contoso Motors	Sedan	2004	FWD	8 Cylinder	Electric Blue	Red	Automatic
+1406	205	KIB84CBLSYJDN2ZRD	Contoso Motors	Sedan	2014	AWD	8 Cylinder	Chili Red	Black	Automatic
+1407	829	W09CFDMO31STQUN0D	Contoso Motors	Sedan	2005	FWD	8 Cylinder	Chili Red	Black	Automatic
+1408	58	0OOJ8IQVRVRDAU642	Contoso Motors	Wagon	2015	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1409	201	CWKWH6MOEIGGCIFTB	Contoso Motors	Truck	2011	FWD	6 Cylinder	Silver	Black	Automatic
+1410	256	2POR20L908FD1YUHI	Contoso Motors	Truck	2015	AWD	6 Cylinder	Silver	Black	Automatic
+1411	371	A1VDWB1U6X26VT7LV	Contoso Motors	Coupe	2016	AWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1412	412	24EDQV9L503HDA204	Contoso Motors	Hybrid	2014	FWD	Hybrid	Thunder Gray	Gray	Semi-automatic
+1413	673	F7SFZ0MU1XFQG9077	Contoso Motors	SUV	2004	AWD	6 Cylinder	Silver	Dark Gray	Automatic
+1414	295	HUHAD0APMI22Q8C7X	Contoso Motors	Commercial	2016	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+1415	415	ASIDMJ6V33NZT5VSG	Contoso Motors	Convertible 2DR	2012	RWD	Hybrid	Chili Red	Black	Manual
+1416	677	A9F6PH28NZ5ZIBKMC	Contoso Motors	Crossover	2011	AWD	6 Cylinder	Silver	Ivory	Automatic
+1417	678	OKQBG2ICF2KRYHDUY	Contoso Motors	SUV	2009	FWD	Hybrid	Silver	Brown	Automatic
+1418	418	SENNKVN947MLANT7V	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1419	693	E2AOT1D1ZAQXRZAXC	Contoso Motors	SUV	2014	RWD	4 Cylinder	Silver	Beige	Automatic
+1420	420	UW092M9QVF7OLA7J1	Contoso Motors	Minivan	2015	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1421	696	RJIQL9ZNREDLQVYBG	Contoso Motors	SUV	2004	FWD	6 Cylinder	Silver	Gray	Automatic
+1422	422	G1G0IUTLXIYUUV6CS	Contoso Motors	Minivan	2010	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1423	423	O9CANIIHM3UQE3A1J	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Electric Blue	Red	Automatic
+1424	424	MXPHR91GN9DGQOIJ0	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1425	425	T3KLZ617OKEGL3TGJ	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+1426	426	2KBITZA6S4WDX8XA0	Contoso Motors	Minivan	2009	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1427	949	FSQKIDJEC19ESR9AR	Contoso Motors	Sedan	2005	FWD	8 Cylinder	Midnight Black	Silverstone	Automatic
+1428	59	2JES0TXB2WPP8V4B0	Contoso Motors	Hatchback	2013	FWD	6 Cylinder	Electric Blue	Red	Automatic
+1429	213	7H44MSTH0YTYQH5KQ	Contoso Motors	Sedan	2005	AWD	8 Cylinder	Electric Blue	Red	Automatic
+1430	333	6L8D6ON3GFMXNFB9F	Contoso Motors	Sedan	2004	FWD	8 Cylinder	Chili Red	Black	Automatic
+1431	697	LXAITSU9VBN5WLGPC	Contoso Motors	SUV	2005	FWD	6 Cylinder	Silver	Dark Gray	Automatic
+1432	315	PWQM69O8290304IBT	Contoso Motors	Truck	2013	FWD	6 Cylinder	Silver	Black	Automatic
+1433	352	TOPX706T4XBB7RO75	Contoso Motors	Truck	2005	AWD	6 Cylinder	Silver	Black	Automatic
+1434	67	XG8TA9ISLW21GL1FT	Contoso Motors	Hatchback	2007	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1435	76	9AB0R9HP7PD4OQCG6	Contoso Motors	Wagon	2016	RWD	6 Cylinder	Deep Blue	Brown	Automatic
+1436	436	KXUE0W39UBTR9D24M	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1437	437	ESAMLQHZ457J3EJ9K	Contoso Motors	Minivan	2014	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+1438	699	1YT0TLVVYGW5OBC0H	Contoso Motors	Crossover	2016	FWD	6 Cylinder	Silver	Black	Automatic
+1439	80	NUMPGRXLUG5WUN6N9	Contoso Motors	Wagon	2015	AWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1440	392	Q8G63B9ZWLE5RRHCP	Contoso Motors	Truck	2016	FWD	6 Cylinder	Silver	Black	Automatic
+1441	701	U7MDJAR5LL5ALEY01	Contoso Motors	Crossover	2004	FWD	6 Cylinder	Silver	Ivory	Automatic
+1442	957	SLR5PLAM3Q4GGUY8W	Contoso Motors	Sedan	2007	FWD	8 Cylinder	Chili Red	Black	Automatic
+1443	115	WG8RHF60Y173NRFBC	Contoso Motors	Hatchback	2006	AWD	6 Cylinder	Racing Green	Beige	Automatic
+1444	444	65VLT3C6AL03OD9OV	Contoso Motors	Minivan	2004	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1445	711	HVH2QDGUKRBYSEUCM	Contoso Motors	SUV	2012	AWD	Hybrid	Silver	Black	Automatic
+1446	718	X74HXEXZQ4TFL9GE8	Contoso Motors	SUV	2010	FWD	4 Cylinder	Silver	Nutmeg	Automatic
+1447	550	S4IHKUK9UXS1GXBA1	Contoso Motors	Commercial	2016	AWD	8 Cylinder	Gray	Dark Gray	Automatic
+1448	448	5FWPP08E5U40S90JF	Contoso Motors	Convertible 2DR	2011	RWD	6 Cylinder	Thunder Gray	Gray	Manual
+1449	409	A6F0W6YJMU6KPAEWT	Contoso Motors	Coupe	2014	AWD	6 Cylinder	Racing Green	Beige	Automatic
+1450	450	DD354DXEQ2C8GK1K2	Contoso Motors	Hybrid	2014	FWD	Hybrid	Volcanic Orange	White	Semi-automatic
+1451	400	9XGRHDQAU86GJT7DZ	Contoso Motors	Truck	2004	AWD	6 Cylinder	Silver	Black	Automatic
+1452	124	BY82VNI3MZ7TBCZ61	Contoso Motors	Wagon	2015	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1453	77	0E5QAEMVCDAOZE81L	Contoso Motors	Sedan	2011	AWD	8 Cylinder	Midnight Black	Silverstone	Automatic
+1454	341	YGSDTSSEOJX2D7DRX	Contoso Motors	Sedan	2011	FWD	8 Cylinder	Electric Blue	Red	Automatic
+1455	461	2TALRZCYSSCGLYJB7	Contoso Motors	Sedan	2004	AWD	8 Cylinder	Chili Red	Black	Manual
+1456	159	04KB5JW22G7L17K58	Contoso Motors	Hatchback	2006	FWD	6 Cylinder	Silver	Ivory	Automatic
+1457	440	BAWJQMV834O3RGTQN	Contoso Motors	Truck	2005	AWD	6 Cylinder	Silver	Black	Automatic
+1458	466	9RLZ3KDXEIZ0KPFOO	Contoso Motors	Truck	2005	FWD	6 Cylinder	Silver	Black	Manual
+1459	457	DRFYNAK6B3OLGP3ME	Contoso Motors	Coupe	2005	FWD	6 Cylinder	Electric Blue	Red	Automatic
+1460	460	WXIXIATNJAIVOJ5DP	Contoso Motors	Hybrid	2014	FWD	Hybrid	Thunder Gray	Gray	Semi-automatic
+1461	721	E55ZK1LVHO5LY26NK	Contoso Motors	SUV	2011	FWD	4 Cylinder	Silver	Dark Gray	Automatic
+1462	263	VYER3B0FUJ7EBHRPV	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Silver	Black	Automatic
+1463	463	2WMI3NEZPP3LFAFXN	Contoso Motors	Convertible 2DR	2014	RWD	Hybrid	Chili Red	Black	Automatic
+1464	725	NJ09G7SCLOOYSVGF2	Contoso Motors	Crossover	2007	AWD	6 Cylinder	Silver	Ivory	Automatic
+1465	726	M0HEYXR1FQ58L52S7	Contoso Motors	SUV	2016	RWD	6 Cylinder	Silver	Brown	Automatic
+1466	466	EQ4OEBLVRVOWHQZZX	Contoso Motors	Minivan	2010	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1467	741	47VI6DSJ9ZSRXAIQ9	Contoso Motors	SUV	2005	RWD	4 Cylinder	Silver	Beige	Automatic
+1468	468	JER538BP9QVGHG3PJ	Contoso Motors	Minivan	2016	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1469	744	SDAGYHT0D9ACO185Q	Contoso Motors	SUV	2011	AWD	4 Cylinder	Silver	Gray	Automatic
+1470	470	ROGKNHHPJYJENJ5BF	Contoso Motors	Minivan	2009	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1471	471	D67GEPWUEHW2RGDTE	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Electric Blue	Red	Automatic
+1472	472	CJRJSONFBZ0KLNGKR	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1473	473	UR8HWELJ219P0FEAN	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+1474	474	MYQF0W644K2TQCPFB	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1475	14	VCYVW0WUZNBTM594J	Contoso Motors	Sedan	2010	FWD	Electric	Thunder Gray	Gray	Semi-automatic
+1476	176	7P44TV27Q82RVL5D2	Contoso Motors	Wagon	2005	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1477	37	1MVGQFGP8BR90WYK4	Contoso Motors	Sedan	2005	FWD	Electric	Electric Blue	Red	Semi-automatic
+1478	83	HIY403UZ5QSU9D9T1	Contoso Motors	Sedan	2016	FWD	Electric	Racing Green	Beige	Semi-automatic
+1479	745	LWYISXURRBFELINPT	Contoso Motors	SUV	2004	AWD	4 Cylinder	Silver	Dark Gray	Automatic
+1480	496	6VUFZH9DQ1OHVWWHL	Contoso Motors	Truck	2013	FWD	6 Cylinder	Silver	Black	Manual
+1481	17	WYNIIY42VKV6OQS1J	Contoso Motors	Truck	2011	FWD	8 Cylinder	Silver	Black	Automatic
+1482	202	K1J4FM1E05H45I3XJ	Contoso Motors	Wagon	2005	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1483	203	XDTPFNWVM1IDB4KUK	Contoso Motors	Hatchback	2006	FWD	6 Cylinder	Chili Red	Black	Automatic
+1484	484	91OD1VSTDP4QT5V3W	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1485	485	WE9YLC1VHIA8IYWQ4	Contoso Motors	Minivan	2014	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+1486	747	RE5LS5OHYBH4CGGH6	Contoso Motors	Crossover	2007	AWD	4 Cylinder	Silver	Black	Automatic
+1487	255	1DL7WYTFPXLJRUC3H	Contoso Motors	Hatchback	2014	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1488	137	8K1DYE2X4NWT6B1KY	Contoso Motors	Truck	2004	FWD	8 Cylinder	Silver	Black	Automatic
+1489	749	VL7ZSJ9XMZRFSVVYW	Contoso Motors	Crossover	2011	AWD	6 Cylinder	Silver	Ivory	Automatic
+1490	134	YKENBK1A0J2TOLRIU	Contoso Motors	Sedan	2005	AWD	Electric	Volcanic Orange	White	Semi-automatic
+1491	272	9CNMVH24G72Z4EH26	Contoso Motors	Wagon	2011	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1492	492	AMQU4G115NOBZ1EAJ	Contoso Motors	Minivan	2011	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1493	759	V3MF6B9JWO4AD92W0	Contoso Motors	SUV	2014	FWD	6 Cylinder	Silver	Ivory	Automatic
+1494	766	PQERC0DIQ23RLNGAN	Contoso Motors	SUV	2009	FWD	Electric	Silver	Gray	Automatic
+1495	886	1K7G3JQVU24TX1XOG	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Silver	Black	Automatic
+1496	496	IR31Z4JMBQ7BR3DT6	Contoso Motors	Convertible 2DR	2016	FWD	4 Cylinder	Thunder Gray	Gray	Automatic
+1497	393	C8IR133QT4UP6GHDN	Contoso Motors	Coupe	2004	FWD	8 Cylinder	Chili Red	Black	Automatic
+1498	498	26VHOKX71LZ7UPXOP	Contoso Motors	Hybrid	2014	FWD	Hybrid	Volcanic Orange	White	Semi-automatic
+1499	257	CEMSQ9VOTYU9UB9W4	Contoso Motors	Truck	2005	FWD	8 Cylinder	Silver	Black	Automatic
+1500	292	DGNFGS0NKM1CFCPQ7	Contoso Motors	Hatchback	2007	AWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1501	157	T4V0PIGVKXY7TLYWZ	Contoso Motors	Sedan	2005	FWD	Electric	Pepper White	Dark Gray	Semi-automatic
+1502	194	AZGRJZ1Q4K8LY3IDS	Contoso Motors	Sedan	2009	FWD	Electric	Blue	Old Lace	Semi-automatic
+1503	254	9QDQL8PGET15GXOA4	Contoso Motors	Sedan	2015	FWD	Electric	Blue	Old Lace	Semi-automatic
+1504	316	M3N1WXSP9UKDFAW3O	Contoso Motors	Wagon	2011	AWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1505	384	ZUM234INX6MPOJ1D6	Contoso Motors	Truck	2013	AWD	8 Cylinder	Silver	Black	Automatic
+1506	401	H12V1ZVTMOAEYM126	Contoso Motors	Truck	2004	RWD	8 Cylinder	Silver	Black	Automatic
+1507	633	20Q8Q0OL6VU1OZTS5	Contoso Motors	Coupe	2011	AWD	8 Cylinder	Midnight Black	Silverstone	Automatic
+1508	508	WUOPKVM97HJ99K9TW	Contoso Motors	Hybrid	2014	FWD	Hybrid	Volcanic Orange	White	Semi-automatic
+1509	769	BHLOGG4XR7G0925IY	Contoso Motors	SUV	2007	FWD	8 Cylinder	Silver	Black	Automatic
+1510	846	GRRQSUNYCMBO1JCIM	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Silver	Black	Automatic
+1511	511	CW1GOX8G0SCEOHMGV	Contoso Motors	Convertible 2DR	2007	FWD	6 Cylinder	Silver	Ivory	Automatic
+1512	773	1UGMYO6ZDQ3KC72HT	Contoso Motors	Crossover	2005	FWD	6 Cylinder	Silver	Silverstone	Automatic
+1513	774	5JIE8CIRSG6DO5D6Y	Contoso Motors	SUV	2007	FWD	Electric	Silver	Smoke White	Automatic
+1514	514	SHFW1485JP8BKDCN2	Contoso Motors	Minivan	2009	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1515	789	UNXA7MYFRC185UENT	Contoso Motors	SUV	2004	FWD	Electric	Silver	Red	Automatic
+1516	516	FVZH6SUQJS69V5DGG	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1517	792	XOFNWGQJNGM873DZT	Contoso Motors	SUV	2016	FWD	Electric	Silver	White	Automatic
+1518	518	UUYYO73V5Y6LZ1NVL	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1519	519	6Y8Y0BNPFVH43DZ1D	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+1520	520	WIMUHV7ZOBKPI03BD	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1521	521	27SEXSHYVQ6VY54IT	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Chili Red	Black	Automatic
+1522	522	5HDV89IZ3WY50VUOY	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1523	277	TFMQU0D2MDU2FP5Q8	Contoso Motors	Sedan	2004	AWD	Electric	Chili Red	Black	Semi-automatic
+1524	320	UOSRNKXPQ6TW69O0V	Contoso Motors	Wagon	2013	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1525	398	KNUVWH1HPMMKNR6SS	Contoso Motors	Sedan	2005	FWD	Electric	White Silver	Smoke White	Semi-automatic
+1526	399	W87OFVPYZZRGFXOYV	Contoso Motors	Sedan	2006	FWD	Electric	Racing Green	Beige	Semi-automatic
+1527	793	HL7QWAKSLPLGGIA5Z	Contoso Motors	SUV	2011	FWD	Hybrid	Silver	Black	Automatic
+1528	521	9K6N3B4YM0MDPZBK4	Contoso Motors	Truck	2005	FWD	8 Cylinder	Silver	Black	Automatic
+1529	624	QWC264BKO406G99YX	Contoso Motors	Truck	2016	FWD	8 Cylinder	Silver	Black	Automatic
+1530	340	BB6JTFWSINXUHNLS2	Contoso Motors	Hatchback	2016	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1531	346	TK0KO40ZA5A4S28MS	Contoso Motors	Wagon	2010	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1532	532	9LZYSQ2EI0ARBTSAJ	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1533	533	KXNKAFRAK1J6E2U1B	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Chili Red	Black	Automatic
+1534	795	5CFGO2J07EC6FCJFA	Contoso Motors	Crossover	2006	FWD	Hybrid	Silver	Ivory	Automatic
+1535	355	4Q5OVWVJQGKWWQXGS	Contoso Motors	Hatchback	2011	FWD	6 Cylinder	Chili Red	Black	Automatic
+1536	641	JFVLSAR3BYBMAEJT5	Contoso Motors	Truck	2005	FWD	8 Cylinder	Silver	Black	Automatic
+1537	797	SH85GQO77AR5YFRTD	Contoso Motors	Crossover	2004	AWD	Hybrid	Silver	Silverstone	Automatic
+1538	467	NMFWXCAUUDH36P048	Contoso Motors	Sedan	2013	FWD	Electric	Silver	Ivory	Semi-automatic
+1539	412	AEO5LVAOL7IREKB6E	Contoso Motors	Wagon	2004	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1540	540	LECL9ZZ9XECVR48E2	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1541	807	6YOYKFUC5X42DUNNC	Contoso Motors	SUV	2007	FWD	6 Cylinder	Silver	Ivory	Automatic
+1542	814	XLVJSCH9EPSN7QVD5	Contoso Motors	SUV	2016	AWD	3 Cylinder	Silver	Gray	Automatic
+1543	894	NZOEWO2I5KZ9VITWL	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Silver	Black	Automatic
+1544	544	4FYGDM5C6HS2K3RY5	Contoso Motors	Convertible 2DR	2007	FWD	Electric	Volcanic Orange	White	Automatic
+1545	777	W345EOIZ1P4D71V97	Contoso Motors	Coupe	2014	RWD	8 Cylinder	Silver	Red	Automatic
+1546	546	KVMP01U4Q6L1F5E6C	Contoso Motors	Hybrid	2014	FWD	Hybrid	Blue	Old Lace	Semi-automatic
+1547	760	5FE440DUQUZKYDFF7	Contoso Motors	Truck	2015	FWD	8 Cylinder	Silver	Black	Automatic
+1548	436	EKW640T5T4QOFIC2U	Contoso Motors	Hatchback	2016	AWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1549	470	KS8EL125HYA3EBP5E	Contoso Motors	Sedan	2015	FWD	Electric	White Silver	Smoke White	Semi-automatic
+1550	518	7OFQRQ2M19MUJIUSJ	Contoso Motors	Sedan	2015	FWD	Electric	Blazing Gray	Nutmeg	Semi-automatic
+1551	530	LNLAAIQWMT7JVMPMS	Contoso Motors	Sedan	2005	AWD	Electric	Blazing Gray	Nutmeg	Semi-automatic
+1552	443	O3B237IYWMPFSF20Q	Contoso Motors	Hatchback	2011	AWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1553	1000	O3JB3WYC014ALTBDG	Contoso Motors	Truck	2013	AWD	8 Cylinder	Silver	Black	Automatic
+1554	145	T2TF0BJTVUI5DRJZU	Contoso Motors	Truck	2011	AWD	8 Cylinder	Silver	Black	Automatic
+1555	17	68QK5KSFDUQ70LYOF	Contoso Motors	Coupe	2004	AWD	8 Cylinder	Chili Red	Black	Automatic
+1556	556	36GQ6LK7ZZG18PZEZ	Contoso Motors	Hybrid	2014	FWD	Hybrid	Volcanic Orange	White	Semi-automatic
+1557	817	AW70NLMX8PV0LAS0C	Contoso Motors	SUV	2005	AWD	Electric	Silver	Black	Automatic
+1558	15	5P57WNFONMMCH2J8C	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Silver	Black	Automatic
+1559	559	Z4X5MYSEL1B0UVLLA	Contoso Motors	Convertible 2DR	2004	RWD	6 Cylinder	Silver	Ivory	Automatic
+1560	821	N2KHHTB57D9IJGIBK	Contoso Motors	Convertible 2DR	2016	RWD	8 Cylinder	Silver	Silverstone	Automatic
+1561	822	3LM6L9DBF0WM7OT2G	Contoso Motors	SUV	2015	FWD	12 Cylinder	Silver	Smoke White	Automatic
+1562	562	O983ZFAOX3EX873I2	Contoso Motors	Minivan	2016	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1563	837	JX41LIDZE71NUSCTG	Contoso Motors	SUV	2011	RWD	8 Cylinder	Silver	Red	Automatic
+1564	564	JCDCAMUP86TWW8HK4	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1565	840	QH9CF10U8A2Y6M89K	Contoso Motors	SUV	2007	FWD	Electric	Silver	White	Automatic
+1566	566	E4JKDQZU95AZHIBYC	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1567	567	KJLW8ZRR3ANX19RCF	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+1568	568	BGEPPHL3N48B3GWP0	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1569	569	3RU2E6A5BY89CDQ5Y	Contoso Motors	Minivan	2014	FWD	6 Cylinder	Chili Red	Black	Automatic
+1570	570	M6TTBHZY8DGMNKRN2	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1571	578	WQ6DTHHUJLDR1E0YA	Contoso Motors	Sedan	2005	FWD	Electric	Thunder Gray	Gray	Semi-automatic
+1572	460	XRM3ZG9CN2B8L7XZA	Contoso Motors	Wagon	2011	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1573	590	EV2ACSWSTKFJW079L	Contoso Motors	Sedan	2009	FWD	Electric	Thunder Gray	Gray	Semi-automatic
+1574	638	0IESVCF1KGKEOXYYS	Contoso Motors	Sedan	2016	AWD	Electric	Thunder Gray	Gray	Semi-automatic
+1575	841	RO1KIV05KIY4ZQ48E	Contoso Motors	SUV	2004	FWD	Hybrid	Silver	Black	Automatic
+1576	265	0SEZX361T08ETSC2U	Contoso Motors	Truck	2014	FWD	8 Cylinder	Silver	Black	Automatic
+1577	385	F0DCI60VY9KL3FSJM	Contoso Motors	Truck	2007	FWD	8 Cylinder	Silver	Black	Automatic
+1578	491	AAS75KHKTTGXX1D1M	Contoso Motors	Hatchback	2013	FWD	6 Cylinder	Racing Green	Beige	Automatic
+1579	495	AXTJKB5CSA5TXKUPQ	Contoso Motors	Hatchback	2016	RWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+1580	580	C1KTYKY80U1A2FF5F	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1581	581	S3CB9EBFGNB9ZV587	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Chili Red	Black	Automatic
+1582	843	OR5ODEZT9BLC55KG9	Contoso Motors	Crossover	2012	FWD	Electric	Silver	Ivory	Automatic
+1583	444	R68X8CRT7UFQ57SKV	Contoso Motors	Wagon	2007	FWD	8 Cylinder	Deep Blue	Brown	Automatic
+1584	529	U8DNJABNVRSI6QNGO	Contoso Motors	Truck	2014	FWD	8 Cylinder	Silver	Black	Automatic
+1585	845	H90FJDYMZQHOTJJRG	Contoso Motors	Crossover	2011	FWD	6 Cylinder	Silver	Silverstone	Automatic
+1586	639	UC85N8APJRKY3LH9T	Contoso Motors	Sedan	2011	AWD	Electric	Pepper White	Dark Gray	Semi-automatic
+1587	564	5KUKWLQS8YX657DNF	Contoso Motors	Hatchback	2004	AWD	8 Cylinder	White Silver	Smoke White	Automatic
+1588	588	8LXHG9FTX5LUIKBYN	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1589	855	2MPL86P3AN8ASIW0E	Contoso Motors	SUV	2004	AWD	Hybrid	Silver	Silverstone	Automatic
+1590	862	FUJGPJPKYW3MC45LY	Contoso Motors	SUV	2007	FWD	4 Cylinder	Silver	White	Automatic
+1591	71	VE98QV3EYDPB42RBQ	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Silver	Black	Automatic
+1592	592	8Z9YKS53ZTWY2OJ4O	Contoso Motors	Convertible 2DR	2016	RWD	Electric	Volcanic Orange	White	Automatic
+1593	641	TJUPIEC0LBKARMSH3	Contoso Motors	Coupe	2004	FWD	8 Cylinder	Silver	Ivory	Automatic
+1594	594	SOUVK7HBM2FAQTAUS	Contoso Motors	Hybrid	2014	FWD	Hybrid	Blue	Old Lace	Semi-automatic
+1595	632	SDPJZR8GREG3ODHOY	Contoso Motors	Truck	2007	FWD	8 Cylinder	Silver	Black	Automatic
+1596	880	7I3ZI3DKNA6XADQPF	Contoso Motors	Wagon	2016	FWD	8 Cylinder	White Silver	Smoke White	Automatic
+1597	709	W61TLR0P38YATPSIA	Contoso Motors	Sedan	2004	AWD	Electric	Pepper White	Dark Gray	Semi-automatic
+1598	733	CLKWTZ5BN3ACTUDIS	Contoso Motors	Sedan	2014	FWD	Electric	Pepper White	Dark Gray	Semi-automatic
+1599	757	OTUUHSVXY7IOUZ5DG	Contoso Motors	Sedan	2011	FWD	Electric	Chili Red	Black	Semi-automatic
+1600	572	X4Z73EKSECVVYOQQQ	Contoso Motors	Hatchback	2013	AWD	8 Cylinder	Deep Blue	Brown	Automatic
+1601	649	CKDCP5VZ1PXLMFJUI	Contoso Motors	Truck	2007	AWD	8 Cylinder	Silver	Black	Automatic
+1602	769	IOW6X2ZEXLU7D64P8	Contoso Motors	Truck	2011	FWD	8 Cylinder	Silver	Black	Automatic
+1603	25	1VMWIOFFE6U5C9KKP	Contoso Motors	Coupe	2011	RWD	8 Cylinder	Silver	Dark Gray	Automatic
+1604	604	48V6TR0VQRG82KOC2	Contoso Motors	Hybrid	2014	FWD	Hybrid	Blue	Old Lace	Semi-automatic
+1605	865	QGSHJB1517N4COP7K	Contoso Motors	SUV	2014	FWD	4 Cylinder	Silver	Ivory	Automatic
+1606	270	K3DPIDNVWANODBD7R	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Silver	Black	Automatic
+1607	607	AP64B4T7XRHYVXC08	Contoso Motors	Convertible 2DR	2011	RWD	Hybrid	Midnight Black	Silverstone	Automatic
+1608	869	GDQVJW6S5CSXD9Z5A	Contoso Motors	Crossover	2014	AWD	6 Cylinder	Silver	Beige	Automatic
+1609	870	NJRFWCQ33IK75ATJO	Contoso Motors	SUV	2015	RWD	6 Cylinder	Silver	Nutmeg	Automatic
+1610	610	R0EQZMXVG017N3F2R	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1611	885	M0YBUYR0WKKIXXROP	Contoso Motors	SUV	2004	RWD	6 Cylinder	Silver	Dark Gray	Automatic
+1612	612	6GIQIXZOSS7BUWGYN	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1613	888	UEC7FUGRL4HHW2GQQ	Contoso Motors	SUV	2016	AWD	6 Cylinder	Silver	Old Lace	Automatic
+1614	614	QC02434PWRNE2T2QR	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1615	615	W2Y8E93DPYWST0C6A	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Chili Red	Black	Automatic
+1616	616	H89THI6GKS5JY6E83	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1617	617	7SSRFBKWIGBOIW14F	Contoso Motors	Minivan	2014	FWD	6 Cylinder	Silver	Ivory	Automatic
+1618	618	AK3R6RZ2O7KHFZMHW	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1619	783	GS7OYBBL6M7ENHIK5	Contoso Motors	Sedan	2013	AWD	Electric	Silver	Ivory	Semi-automatic
+1620	692	5IEFLIT90OWI1KNST	Contoso Motors	Wagon	2005	FWD	8 Cylinder	White Silver	Smoke White	Automatic
+1621	877	G7IUI1Q9GU0WLHMPM	Contoso Motors	Sedan	2004	FWD	Electric	Silver	Ivory	Semi-automatic
+1622	997	33K4PI1RAWSFEIK5M	Contoso Motors	Sedan	2014	AWD	Electric	Midnight Black	Silverstone	Semi-automatic
+1623	889	HYAUQ6AX10I4TF368	Contoso Motors	SUV	2011	AWD	8 Cylinder	Silver	Ivory	Automatic
+1624	8	56SVWIRUKQ69VDJ4L	Contoso Motors	Truck	2011	AWD	8 Cylinder	Silver	Black	Automatic
+1625	273	HFN5V4PWXEJLZN7UG	Contoso Motors	Truck	2014	FWD	8 Cylinder	Silver	Black	Automatic
+1626	888	ELM5U2P7ODFHPBWXE	Contoso Motors	Wagon	2011	FWD	8 Cylinder	Deep Blue	Brown	Automatic
+1627	128	R2ENORLBCSEJ8X371	Contoso Motors	Wagon	2016	FWD	8 Cylinder	Blazing Gray	Nutmeg	Automatic
+1628	628	XXFCC7ZSMPG0UP5Z8	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1629	629	H7LNDN98IKLXV7Y2D	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Silver	Ivory	Automatic
+1630	891	3VAMZNIAR2V18EPKW	Contoso Motors	Crossover	2014	AWD	12 Cylinder	Silver	Silverstone	Automatic
+1631	91	0XNJORPFB4OV80G8R	Contoso Motors	Hatchback	2006	RWD	Electric	Blazing Gray	Ivory	Automatic
+1632	393	E4LPYGCU1QXJ660GS	Contoso Motors	Truck	2011	FWD	8 Cylinder	Silver	Black	Automatic
+1633	893	E690S50JPHBMKS9A5	Contoso Motors	Crossover	2004	AWD	6 Cylinder	Silver	Beige	Automatic
+1634	23	0MQFIU5MSNIT1IC17	Contoso Motors	Sedan	2014	FWD	Electric	Racing Green	Beige	Semi-automatic
+1635	143	P7POEO9Q5GYMD72WP	Contoso Motors	Hatchback	2014	FWD	Electric	Blazing Gray	Red	Automatic
+1636	636	5QNO3F92BPWRIAYSQ	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1637	903	NMBWNK2V5FTSVAYNC	Contoso Motors	SUV	2011	FWD	Electric	Silver	Silverstone	Automatic
+1638	910	BVHUVVTKZ1L9J035P	Contoso Motors	SUV	2015	FWD	Hybrid	Silver	White	Automatic
+1639	326	SWGF4JG31KV2Q6IW0	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Silver	Black	Automatic
+1640	640	PND40OKF3OGAOF3PQ	Contoso Motors	Convertible 2DR	2015	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1641	211	953FW7GH2DQGMUB83	Contoso Motors	Coupe	2013	FWD	Electric	Racing Green	Beige	Automatic
+1642	642	SPC2R8IRDA7BLB1FU	Contoso Motors	Hybrid	2014	FWD	Hybrid	Deep Blue	Brown	Semi-automatic
+1643	40	22TYPMI6D6BKTOWS4	Contoso Motors	Truck	2011	RWD	Electric	Silver	Black	Automatic
+1644	160	MWNPDQI25FRHDJIKM	Contoso Motors	Wagon	2011	FWD	Electric	Blazing Gray	Old Lace	Automatic
+1645	142	YNPSM3Y08JPJJL9IE	Contoso Motors	Sedan	2005	AWD	Electric	Thunder Gray	Gray	Semi-automatic
+1646	165	PNUB63REXYJO573IT	Contoso Motors	Sedan	2007	FWD	Electric	Electric Blue	Red	Semi-automatic
+1647	202	FM7TA6Q201H1QXYK2	Contoso Motors	Sedan	2010	FWD	Electric	Thunder Gray	Gray	Semi-automatic
+1648	208	OVHKMMLW5QZCZ4A06	Contoso Motors	Wagon	2013	FWD	Electric	Blazing Gray	Brown	Automatic
+1649	65	7RAHAO9T3W02YNGOX	Contoso Motors	Truck	2007	FWD	Electric	Silver	Black	Automatic
+1650	88	YK95FLWKUTBBUZZST	Contoso Motors	Truck	2016	FWD	Electric	Silver	Black	Automatic
+1651	441	K0G1FK363MS3V74UJ	Contoso Motors	Coupe	2011	FWD	Electric	Chili Red	Black	Automatic
+1652	652	I50RB3EXAQIXZ0EYK	Contoso Motors	Hybrid	2014	FWD	Hybrid	Blue	Old Lace	Semi-automatic
+1653	913	J20TWR816OYXHKYK4	Contoso Motors	SUV	2014	FWD	Hybrid	Silver	Ivory	Automatic
+1654	30	2Q8MCU41CQ69AAB6J	Contoso Motors	Commercial	2012	AWD	8 Cylinder	Silver	Black	Automatic
+1655	655	EABPP9R6HJCHQHAJE	Contoso Motors	Convertible 2DR	2013	FWD	Electric	Midnight Black	Silverstone	Automatic
+1656	917	G8N3Y50OFFYEW0D77	Contoso Motors	Crossover	2005	FWD	Hybrid	Silver	Beige	Automatic
+1657	918	W1Y9YYJOU2JB89YJX	Contoso Motors	SUV	2007	FWD	Hybrid	Silver	Beige	Automatic
+1658	658	EF8METSVDOITMZ5I0	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1659	933	JZLTQ6VXVL68UJXMX	Contoso Motors	SUV	2011	FWD	6 Cylinder	Silver	Beige	Automatic
+1660	660	SCHZX0UZ8NNBP32KX	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1661	936	MU8D93ZS7FWREBRP1	Contoso Motors	SUV	2015	FWD	6 Cylinder	Silver	Beige	Automatic
+1662	662	JJFQR6FXV45S2XG55	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1663	663	O0VDILSSHN16FX14C	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Chili Red	Black	Automatic
+1664	664	FDSW7I802BKJJDR6B	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1665	665	QU0VRE0558IS31EM6	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Silver	Ivory	Automatic
+1666	666	FCCC0JZUGXD4WUZFR	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1667	262	7Q3YDXZB1ZRY2BNX6	Contoso Motors	Sedan	2015	FWD	Electric	Volcanic Orange	White	Semi-automatic
+1668	304	E5X1LZVX86QN3CV2R	Contoso Motors	Wagon	2011	FWD	Electric	Blazing Gray	Smoke White	Automatic
+1669	285	L4FD2S6N5GC7OD7RX	Contoso Motors	Sedan	2011	AWD	Electric	Pepper White	Dark Gray	Semi-automatic
+1670	331	K3ZQGLFTDBM0BDDXB	Contoso Motors	Sedan	2014	FWD	Electric	Pepper White	Dark Gray	Semi-automatic
+1671	937	5L0DMBN9IHY07PXGZ	Contoso Motors	SUV	2004	FWD	Electric	Silver	Beige	Automatic
+1672	185	GEYMICFG1HBNERZ6L	Contoso Motors	Truck	2011	FWD	Electric	Silver	Black	Automatic
+1673	203	HWNOTJPA7R5PBDWLZ	Contoso Motors	Truck	2013	AWD	Electric	Silver	Black	Automatic
+1674	330	7C82LT94JMLBD9YEL	Contoso Motors	Wagon	2016	FWD	Electric	Blazing Gray	Nutmeg	Automatic
+1675	527	7ZRZ7SQNBX2E1PR3X	Contoso Motors	Hatchback	2007	AWD	Electric	Blazing Gray	Silverstone	Automatic
+1676	676	Z371Z54EPYQPMESC8	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1677	677	V3UU8QTZWYW6UDMAG	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Silver	Ivory	Automatic
+1678	939	QPLT2V1KC14RVJ2HZ	Contoso Motors	Crossover	2007	FWD	6 Cylinder	Silver	Beige	Automatic
+1679	570	M89LQAUR2M8OJL9NB	Contoso Motors	Wagon	2005	FWD	Electric	Blazing Gray	Old Lace	Automatic
+1680	280	6O32POOF1DXPOGKOQ	Contoso Motors	Truck	2016	FWD	Electric	Silver	Black	Automatic
+1681	941	396IUGLTRPN4VKBKX	Contoso Motors	Crossover	2011	AWD	10 Cylinder	Silver	Beige	Automatic
+1682	382	9EDN7R7D50YQZWN8Y	Contoso Motors	Sedan	2009	FWD	Electric	Blue	Old Lace	Semi-automatic
+1683	579	IKJ5NQPEW4LNC8AYM	Contoso Motors	Hatchback	2012	FWD	Electric	Blazing Gray	Dark Gray	Automatic
+1684	684	YP7A6G1W2N7VNJ849	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1685	951	FIFQC8G5IQDSP0HZW	Contoso Motors	SUV	2013	FWD	12 Cylinder	Silver	Beige	Automatic
+1686	958	DZ0JN3HME3OKBBFYU	Contoso Motors	SUV	2015	AWD	10 Cylinder	Silver	Beige	Automatic
+1687	118	AESQX3ZKCFM25HNNE	Contoso Motors	Commercial	2010	AWD	8 Cylinder	Silver	Black	Automatic
+1688	688	NH1SK0I6BX6XF05MX	Contoso Motors	Convertible 2DR	2016	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1689	835	B98FFFQ3HDRX8SLMV	Contoso Motors	Coupe	2007	FWD	Electric	Racing Green	Beige	Automatic
+1690	690	8DPS2FIS26U15IL9P	Contoso Motors	Hybrid	2014	FWD	Hybrid	Deep Blue	Brown	Semi-automatic
+1691	450	DHPVT5LN2MSGSMEMP	Contoso Motors	Truck	2013	FWD	Electric	Silver	Black	Automatic
+1692	780	SZBAR4VUGY08X8JKN	Contoso Motors	Wagon	2013	AWD	Electric	Blazing Gray	White	Automatic
+1693	405	PK70FRDXM0A7D00IB	Contoso Motors	Sedan	2004	FWD	Electric	Chili Red	Black	Semi-automatic
+1694	455	87NAPA5IHNG5E2FLU	Contoso Motors	Sedan	2006	FWD	Electric	Midnight Black	Silverstone	Semi-automatic
+1695	526	8NTGYTURD5U7DNX0Z	Contoso Motors	Sedan	2015	FWD	Electric	White Silver	Smoke White	Semi-automatic
+1696	852	4TIX69ZZ8YSTOLDZ3	Contoso Motors	Hatchback	2016	AWD	Electric	Blazing Gray	Old Lace	Automatic
+1697	473	ME04HHTNX276VQD15	Contoso Motors	Truck	2014	RWD	Electric	Silver	Black	Automatic
+1698	587	RHY4I7HZ15471I333	Contoso Motors	Truck	2007	FWD	Electric	Silver	Black	Automatic
+1699	969	2YWYDXNLDHHR9XRME	Contoso Motors	Coupe	2011	FWD	Electric	Silver	Black	Automatic
+1700	700	JO5ZFOCJD72V9CX0D	Contoso Motors	Hybrid	2014	FWD	Hybrid	Deep Blue	Brown	Semi-automatic
+1701	961	U9OIY7EOWOI2YE72I	Contoso Motors	SUV	2005	AWD	Hybrid	Silver	Beige	Automatic
+1702	454	5JZN82IAK0YTZDH4R	Contoso Motors	Commercial	2010	AWD	8 Cylinder	Silver	Black	Automatic
+1703	703	LLA6XUGWOTOZ0X5FX	Contoso Motors	Convertible 2DR	2016	RWD	12 Cylinder	Racing Green	Beige	Automatic
+1704	965	O2BP2GUZ5NTPXT0AQ	Contoso Motors	Crossover	2004	AWD	6 Cylinder	Silver	Beige	Automatic
+1705	966	FBBYST4XSAYYR2RL8	Contoso Motors	SUV	2005	FWD	Electric	Silver	Beige	Automatic
+1706	706	JJW3OFY2BK8439VBD	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1707	981	XTLXKBJTDD9VU4KEU	Contoso Motors	SUV	2004	RWD	4 Cylinder	Silver	Beige	Automatic
+1708	708	TOIXIEYYLH11CH7NH	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1709	984	JT68XQJP6G4OQTB30	Contoso Motors	SUV	2016	FWD	4 Cylinder	Silver	Beige	Automatic
+1710	710	MV9IRF1YD2M42M0L1	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1711	711	SSBRUGC4FBHQEJ3RK	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Silver	Ivory	Automatic
+1712	712	0IPUYIOCUWJT4V20V	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1713	713	R19QRPMJUKFVUG4UT	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1714	714	NP704LVE7E996YTR3	Contoso Motors	Minivan	2005	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1715	538	Q8M77PMTJUT0JEFY0	Contoso Motors	Sedan	2005	AWD	Electric	White Silver	Smoke White	Semi-automatic
+1716	900	ZQOYYE8AWT1N28DIC	Contoso Motors	Hatchback	2005	FWD	Electric	Blazing Gray	Old Lace	Automatic
+1717	586	PLD1V7LHPF90MXQ0C	Contoso Motors	Sedan	2005	FWD	Electric	White Silver	Smoke White	Semi-automatic
+1718	598	H3H68R551K4NH4RIX	Contoso Motors	Sedan	2010	FWD	Electric	White Silver	Smoke White	Semi-automatic
+1719	985	I7W8KMBD4L3XHBI96	Contoso Motors	SUV	2011	FWD	4 Cylinder	Silver	Beige	Automatic
+1720	593	7AZTQAEV9PQZ5GLAC	Contoso Motors	Truck	2007	FWD	Electric	Silver	Black	Automatic
+1721	786	AF0WV5FT4P49HYO9A	Contoso Motors	Truck	2007	FWD	Electric	Silver	Black	Automatic
+1722	906	RC7K5KN7EY5V6QQSW	Contoso Motors	Wagon	2007	RWD	Electric	Blazing Gray	Nutmeg	Automatic
+1723	954	WTXY1OCOXVUIJNT3U	Contoso Motors	Wagon	2015	FWD	Electric	Blazing Gray	Gray	Automatic
+1724	724	9L8C15C6NR9I5FL1E	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1725	725	NR0SA18C6MJ0CCXNP	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1726	987	DRWBKV5QE7DVWAU52	Contoso Motors	Crossover	2004	FWD	6 Cylinder	Silver	Beige	Automatic
+1727	955	JJJIT8DTGXFM0VCAB	Contoso Motors	Hatchback	2016	FWD	Electric	Blazing Gray	Dark Gray	Automatic
+1728	834	VW8W9V1YBK90CNUA1	Contoso Motors	Truck	2005	RWD	Electric	Silver	Black	Automatic
+1729	989	5F2WJD2504ZITUWH9	Contoso Motors	Crossover	2007	FWD	6 Cylinder	Silver	Beige	Automatic
+1730	646	I5W0PH8ULHIVIG8H4	Contoso Motors	Sedan	2009	AWD	Electric	Blazing Gray	Nutmeg	Semi-automatic
+1731	963	3Y56J5XSHHIZ2HFCT	Contoso Motors	Hatchback	2016	AWD	Electric	Blazing Gray	Beige	Automatic
+1732	732	27YT7WTB98IX4L9DL	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1733	999	B2C46I8SHH5Q08LUL	Contoso Motors	SUV	2016	AWD	6 Cylinder	Silver	Beige	Automatic
+1734	6	FBJQ161J0SU3XU4IJ	Contoso Motors	SUV	2007	FWD	Electric	Silver	Beige	Automatic
+1735	982	RZ9GTU4PGH4XKDHPW	Contoso Motors	Commercial	2010	AWD	8 Cylinder	Silver	Black	Automatic
+1736	736	UHEJIUFBZCYY9CH44	Contoso Motors	Convertible 2DR	2005	AWD	4 Cylinder	Deep Blue	Brown	Automatic
+1737	219	02PA8MBT8WD7OWXL1	Contoso Motors	Coupe	2016	FWD	Electric	Silver	Ivory	Automatic
+1738	738	1S75U8FVSTNS1B5GL	Contoso Motors	Hybrid	2014	FWD	Hybrid	White Silver	Smoke White	Semi-automatic
+1739	912	9WZO4FCN511COUNSE	Contoso Motors	Truck	2013	FWD	Electric	Silver	Black	Automatic
+1740	972	WI6VDD1ARHRCAOBOJ	Contoso Motors	Wagon	2007	FWD	Electric	Blazing Gray	Brown	Automatic
+1741	647	YTJ51G030H2TMZ1OT	Contoso Motors	Sedan	2004	AWD	Electric	Electric Blue	Red	Semi-automatic
+1742	715	JPDBX1NWE0A6WXK0W	Contoso Motors	Sedan	2007	RWD	Electric	Racing Green	Beige	Semi-automatic
+1743	718	3FZRIHE0VMBV7V12F	Contoso Motors	Sedan	2005	AWD	Electric	Thunder Gray	Gray	Semi-automatic
+1744	20	RT0EVODU2WMUFGWOA	Contoso Motors	Wagon	2016	FWD	Electric	Blazing Gray	Brown	Automatic
+1745	960	8RRMNKA6SN8JH8R6M	Contoso Motors	Truck	2004	AWD	Electric	Silver	Black	Automatic
+1746	26	AVI2ZLRQCTFNGFE9O	Contoso Motors	Truck	2010	FWD	Electric	Silver	Black	Automatic
+1747	689	8CEDMXZMCVTNXRU74	Contoso Motors	Coupe	2011	FWD	Electric	Silver	Ivory	Automatic
+1748	748	1RSOR232QDNZZ6BBM	Contoso Motors	Hybrid	2014	FWD	Hybrid	Deep Blue	Brown	Semi-automatic
+1749	9	WJ9J39U387P1N2G5J	Contoso Motors	SUV	2004	FWD	8 Cylinder	Silver	Beige	Automatic
+1750	510	9L2WOKP3K45W1WN7X	Contoso Motors	Commercial	2010	AWD	8 Cylinder	Silver	Black	Automatic
+1751	751	LY6F0YA00Y86CGISY	Contoso Motors	Convertible 2DR	2013	AWD	6 Cylinder	Racing Green	Beige	Automatic
+1752	13	KH69C01UU2UHF4ONV	Contoso Motors	Crossover	2011	FWD	6 Cylinder	Silver	Beige	Automatic
+1753	14	2OINCR4ERI6O76LOK	Contoso Motors	SUV	2005	AWD	Electric	Silver	Beige	Automatic
+1754	754	HZ0L5C2W3FWWD236E	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1755	29	CUG33X4JOKD5B9DPA	Contoso Motors	SUV	2011	AWD	Electric	Silver	Beige	Automatic
+1756	756	TS3Y5M400JJTJ8YEC	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1757	32	9VWJ26SNMDE0MEI4Q	Contoso Motors	SUV	2005	AWD	Electric	Silver	Beige	Automatic
+1758	758	FY5UV1NQ4UJTUU8UB	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1759	759	ZYPF5QNPQ7PNFK3PY	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Silver	Ivory	Automatic
+1760	760	JU3Q3513FALGQ08W3	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1761	761	MJ70EVZCNL9XX8G1S	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1762	762	VI68NRJ8R9N5BSMPG	Contoso Motors	Minivan	2005	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1763	766	HYUG7ML73M5VXE80S	Contoso Motors	Sedan	2005	FWD	Electric	Thunder Gray	Gray	Semi-automatic
+1764	151	L4314B5E2KN0VTXPB	Contoso Motors	Hatchback	2012	FWD	Electric	Blazing Gray	Brown	Automatic
+1765	778	ZFN1NLE3ARXQ9QIQC	Contoso Motors	Sedan	2009	FWD	Electric	Thunder Gray	Gray	Semi-automatic
+1766	837	YA7V5AXQATUJ29WXF	Contoso Motors	Sedan	2014	FWD	Electric	Pepper White	Dark Gray	Semi-automatic
+1767	33	L5RLIIHHEZCF5I817	Contoso Motors	SUV	2007	AWD	Hybrid	Silver	Beige	Automatic
+1768	56	HHQRWJO5J5QX6UCGB	Contoso Motors	Truck	2016	FWD	Electric	Silver	Black	Automatic
+1769	193	950LO0X8PNK5487WW	Contoso Motors	Truck	2004	FWD	Electric	Silver	Black	Automatic
+1770	168	ZFVIDRM7CQVFL94XE	Contoso Motors	Wagon	2004	FWD	Electric	Blazing Gray	Brown	Automatic
+1771	216	JWXZS5SPNAXAUPMIZ	Contoso Motors	Wagon	2011	AWD	Electric	Blazing Gray	Brown	Automatic
+1772	772	APTZCVQF6U47AM6RU	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1773	773	RGBKBUR5PY0XTFUYR	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1774	35	FD9OG0V80KMOYR9B1	Contoso Motors	Crossover	2011	AWD	Hybrid	Silver	Beige	Automatic
+1775	339	134T02W19WT2VNI5T	Contoso Motors	Hatchback	2004	RWD	Electric	Blazing Gray	Brown	Automatic
+1776	211	R8T22E4QX2VMD4NAX	Contoso Motors	Truck	2011	AWD	Electric	Silver	Black	Automatic
+1777	37	7Q7708FOQJAZWZBE6	Contoso Motors	Crossover	2005	AWD	Hybrid	Silver	Beige	Automatic
+1778	861	DNLMNFXIQT6GQ5HPO	Contoso Motors	Sedan	2004	AWD	Electric	Pepper White	Dark Gray	Semi-automatic
+1779	391	11HA9J4HC7G8RL2U1	Contoso Motors	Hatchback	2013	RWD	Electric	Blazing Gray	Brown	Automatic
+1780	780	ZFHWOW6VA67ALFFGK	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1781	47	H72CUVX2A4NLX2Y2V	Contoso Motors	SUV	2013	FWD	6 Cylinder	Silver	Beige	Automatic
+1782	54	S5IPMWQCM63VARAJ0	Contoso Motors	SUV	2005	RWD	Hybrid	Silver	Beige	Automatic
+1783	38	XFVZKAWXKSCH1CYYD	Contoso Motors	Commercial	2010	AWD	8 Cylinder	Silver	Black	Automatic
+1784	784	HF4UKFMQ86SYX6V8D	Contoso Motors	Convertible 2DR	2004	FWD	Electric	Deep Blue	Brown	Automatic
+1785	977	HV22RYC92SAU3UBDF	Contoso Motors	Coupe	2004	FWD	Electric	Pepper White	Dark Gray	Automatic
+1786	786	NQRSIXZF2KVL8SFU1	Contoso Motors	Hybrid	2014	FWD	Hybrid	White Silver	Smoke White	Semi-automatic
+1787	288	HKKEXL35XCVVERPBA	Contoso Motors	Truck	2015	AWD	Electric	Silver	Black	Automatic
+1788	408	8Q0SLA97OMN4ID000	Contoso Motors	Wagon	2016	FWD	Electric	Blazing Gray	Brown	Automatic
+1789	885	OK0280NTIJRD4GV19	Contoso Motors	Sedan	2005	FWD	Electric	Chili Red	Black	Semi-automatic
+1790	5	I5GNNKNP7DE9X8MAL	Contoso Motors	Sedan	2005	AWD	Electric	Silver	Ivory	Semi-automatic
+1791	31	3WCD7AMA2J9AZ7HCL	Contoso Motors	Sedan	2012	FWD	Electric	Midnight Black	Silverstone	Semi-automatic
+1792	535	ZCH21XKUMFD1416PX	Contoso Motors	Hatchback	2016	RWD	Electric	Blazing Gray	Brown	Automatic
+1793	313	N2TXGSXON7ICLCZ2C	Contoso Motors	Truck	2005	FWD	Electric	Silver	Black	Automatic
+1794	336	Z7JLMXF3R4MVGV6HW	Contoso Motors	Truck	2016	FWD	Electric	Silver	Black	Automatic
+1795	83	UEK5ALXCMX6B3SOP5	Contoso Motors	Coupe	2007	AWD	Electric	Pepper White	Dark Gray	Automatic
+1796	796	AS8N7YAOVUXYD538A	Contoso Motors	Hybrid	2014	FWD	Hybrid	White Silver	Smoke White	Semi-automatic
+1797	57	WZD0FAWB8AKGBDW70	Contoso Motors	SUV	2011	FWD	Hybrid	Silver	Beige	Automatic
+1798	103	43OWHTKJL3PGWXUDQ	Contoso Motors	Commercial	2011	AWD	8 Cylinder	Silver	Black	Automatic
+1799	799	JL9HGQYKX3Z1GTXH6	Contoso Motors	Convertible 2DR	2016	FWD	6 Cylinder	Electric Blue	Red	Automatic
+1800	61	B9HA6Z09KY4TM0A76	Contoso Motors	Crossover	2004	FWD	Hybrid	Silver	Dark Gray	Automatic
+1801	62	7JHXB50SUPQOL8XMX	Contoso Motors	SUV	2005	FWD	Hybrid	Silver	White	Automatic
+1802	802	DYY2LF6JWHNB58M6W	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1803	77	PE24KWIAW35HOI5W9	Contoso Motors	SUV	2007	FWD	6 Cylinder	Silver	Ivory	Automatic
+1804	804	IVTNM5RLIWIA7LMSA	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1805	80	RRZM5JFZQHT7R0A64	Contoso Motors	SUV	2004	FWD	Hybrid	Silver	Smoke White	Automatic
+1806	806	N9MF131UGWSR9U0GV	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1807	807	OD05AHPM25NHX48OP	Contoso Motors	Minivan	2006	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1808	808	F0F2WHGSIH4MS541Y	Contoso Motors	Minivan	2007	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1809	809	YQ1CEMGT924O5514L	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Racing Green	Beige	Automatic
+1810	810	CSMZSNI8K7WGL9SH4	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1811	125	9JVGMLPA2NEUMPT6K	Contoso Motors	Sedan	2004	FWD	Electric	Midnight Black	Silverstone	Semi-automatic
+1812	578	TIQ2UHLCRYEJL4T5R	Contoso Motors	Wagon	2007	AWD	Electric	Blazing Gray	Brown	Automatic
+1813	210	O5V5DV6OY6TERV773	Contoso Motors	Sedan	2013	FWD	Electric	Blazing Gray	Nutmeg	Semi-automatic
+1814	270	3C1YNXSSPZQEWG7H8	Contoso Motors	Sedan	2007	FWD	Electric	Thunder Gray	Gray	Semi-automatic
+1815	81	4VHS63K95IBOG1TZZ	Contoso Motors	SUV	2015	FWD	6 Cylinder	Silver	Beige	Automatic
+1816	432	LSNWMQXA8YOK8STO7	Contoso Motors	Truck	2004	AWD	Electric	Silver	Black	Automatic
+1817	458	TPD5S8UKQ1X3Z5K9L	Contoso Motors	Truck	2005	FWD	Electric	Silver	Black	Automatic
+1818	587	8AH2ECGMEM9JP24RE	Contoso Motors	Hatchback	2006	FWD	Electric	Racing Green	Brown	Automatic
+1819	775	WQKDPLZAT3A7XBYK7	Contoso Motors	Hatchback	2007	AWD	Electric	Racing Green	Brown	Automatic
+1820	820	CXRPHGM4VI2L1FA4P	Contoso Motors	Minivan	2016	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1821	821	O1NWZUDN720THHPDX	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Racing Green	Beige	Automatic
+1822	83	YEDKX73PT6BGST3H5	Contoso Motors	Crossover	2013	FWD	Hybrid	Silver	Red	Automatic
+1823	908	V0L2KGR4VDZAYBQ4A	Contoso Motors	Hatchback	2016	FWD	Electric	Volcanic Orange	Brown	Automatic
+1824	595	7Y758EU9YC4MYFRLG	Contoso Motors	Truck	2014	RWD	Electric	Silver	Black	Automatic
+1825	85	HLBI37GB8RC4UGAP5	Contoso Motors	Crossover	2014	FWD	Electric	Silver	Dark Gray	Automatic
+1826	293	TGFDQ9VIJ5X6MDMO8	Contoso Motors	Sedan	2004	RWD	Electric	Electric Blue	Red	Semi-automatic
+1827	914	E73WPS71QUWYR1K45	Contoso Motors	Wagon	2016	FWD	Electric	White Silver	Brown	Automatic
+1828	828	MJN7MCX1E4WVOGG92	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1829	95	RVRD9TF8CQZIGU49W	Contoso Motors	SUV	2016	FWD	4 Cylinder	Silver	Red	Automatic
+1830	102	R8U6PF4JESGYE4MGI	Contoso Motors	SUV	2005	RWD	6 Cylinder	Silver	Brown	Automatic
+1831	727	62CYUL4PG3PCMZ8C6	Contoso Motors	Commercial	2011	AWD	8 Cylinder	Silver	Black	Automatic
+1832	832	1GESGTOO1FP3KZXLM	Contoso Motors	Convertible 2DR	2011	AWD	Hybrid	White Silver	Smoke White	Automatic
+1833	467	2NAMMYRMFTRNA194Z	Contoso Motors	Coupe	2006	FWD	Electric	Racing Green	Beige	Automatic
+1834	834	W81TWMICRR833W3T6	Contoso Motors	Hybrid	2014	FWD	Hybrid	Blazing Gray	Nutmeg	Semi-automatic
+1835	601	80K0NUUU1CUV2ZBK1	Contoso Motors	Truck	2011	FWD	Electric	Silver	Black	Automatic
+1836	962	HSYWQVTTD0Z6HRF4O	Contoso Motors	Wagon	2007	FWD	Electric	White Silver	Brown	Automatic
+1837	339	YESD0077ML2GMPSIO	Contoso Motors	Sedan	2012	FWD	Electric	Racing Green	Beige	Semi-automatic
+1838	390	HETWVNS7R9YFPECZZ	Contoso Motors	Sedan	2010	FWD	Electric	Volcanic Orange	White	Semi-automatic
+1839	413	86P1ESMFO5MGSFRWG	Contoso Motors	Sedan	2005	FWD	Electric	Pepper White	Dark Gray	Semi-automatic
+1840	963	RMY6DQK9ELFIMUZSG	Contoso Motors	Hatchback	2013	FWD	Electric	Racing Green	Brown	Automatic
+1841	698	7TWHX14WEK0DEJUT6	Contoso Motors	Truck	2007	FWD	Electric	Silver	Black	Automatic
+1842	721	OY0GDA2LRL6XE1XOB	Contoso Motors	Truck	2004	AWD	Electric	Silver	Black	Automatic
+1843	105	BR0GT9CILRZ9A43F3	Contoso Motors	Coupe	2011	FWD	Hybrid	Racing Green	Beige	Automatic
+1844	844	Y1RE4Q1EJZ1PUYCFN	Contoso Motors	Hybrid	2014	FWD	Hybrid	White Silver	Smoke White	Semi-automatic
+1845	105	AA5UPOYD33EGVZSOQ	Contoso Motors	SUV	2004	AWD	6 Cylinder	Silver	Beige	Automatic
+1846	255	6R64SKO0C3FR7140B	Contoso Motors	Commercial	2011	AWD	8 Cylinder	Silver	Black	Automatic
+1847	847	NQHCP46HGWCGBRKX7	Contoso Motors	Convertible 2DR	2007	AWD	4 Cylinder	Electric Blue	Red	Automatic
+1848	109	9DIDL80LPEKAJ8MDA	Contoso Motors	Crossover	2011	AWD	Electric	Silver	Dark Gray	Automatic
+1849	110	PBNZG6IQCB8KONIBD	Contoso Motors	SUV	2013	AWD	Hybrid	Silver	White	Automatic
+1850	850	O06VDJVYL92YUWDZY	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Volcanic Orange	White	Automatic
+1851	125	3VF7QH2ALJKCN2I67	Contoso Motors	SUV	2005	AWD	6 Cylinder	Silver	Ivory	Automatic
+1852	852	GR75XOTA85XMLMLUP	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1853	128	J1W0CUNROHESE2OK9	Contoso Motors	SUV	2011	FWD	6 Cylinder	Silver	Smoke White	Automatic
+1854	854	K1GW6D8UH0DW6ULJU	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1855	855	YLTY2V3NF3W77WSAK	Contoso Motors	Minivan	2012	FWD	6 Cylinder	Midnight Black	Silverstone	Automatic
+1856	856	ZP2VWPVYBL00QZCIT	Contoso Motors	Minivan	2016	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1857	857	PLPRZO05BHM85ZZDD	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Racing Green	Beige	Automatic
+1858	858	E0681XOGP7TKBCYRW	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1859	450	MCQ41XLMCAD42B6QR	Contoso Motors	Sedan	2015	FWD	Electric	Blue	Old Lace	Semi-automatic
+1860	971	HZGPND740G0BNWYZG	Contoso Motors	Hatchback	2013	AWD	Electric	Silver	Brown	Automatic
+1861	15	HNVCE6YFZSA5M82NY	Contoso Motors	Sedan	2007	FWD	Hybrid	Pepper White	Dark Gray	Semi-automatic
+1862	35	OI8WD4DRDZEWW4COT	Contoso Motors	Sedan	2013	FWD	Hybrid	Racing Green	Beige	Semi-automatic
+1863	129	SYK3UOPF19CTZGQAC	Contoso Motors	SUV	2014	FWD	6 Cylinder	Silver	Beige	Automatic
+1864	920	NUJSKHZITRCC4FSEB	Contoso Motors	Truck	2011	RWD	Electric	Silver	Black	Automatic
+1865	968	ML0FPNHO2KQCRJ005	Contoso Motors	Truck	2013	RWD	Electric	Silver	Black	Automatic
+1866	980	LHTP6GFS9IDBZPJVA	Contoso Motors	Wagon	2016	FWD	Electric	Blue	Brown	Automatic
+1867	28	0WR03RBQOIEE54NP1	Contoso Motors	Wagon	2007	RWD	Electric	Blue	Brown	Automatic
+1868	868	NH3WQOEUGGJ1H01BC	Contoso Motors	Minivan	2005	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1869	869	552KVXMT7HLB031E9	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Racing Green	Beige	Automatic
+1870	131	MLFFX7XURJHTIQ670	Contoso Motors	Crossover	2016	FWD	4 Cylinder	Silver	Dark Gray	Automatic
+1871	100	0OTTMK0TJTZRN6GHM	Contoso Motors	Hatchback	2013	AWD	Electric	Deep Blue	Brown	Automatic
+1872	34	UAMGBQH7MRNQF3P7C	Contoso Motors	Truck	2013	FWD	Electric	Silver	Black	Automatic
+1873	133	Z4BWOKJ4K9746485Z	Contoso Motors	Crossover	2014	FWD	Electric	Silver	Black	Automatic
+1874	38	M65841L7FNKYEPQ1D	Contoso Motors	Sedan	2007	FWD	Hybrid	Thunder Gray	Gray	Semi-automatic
+1875	148	YM5490ZK7EDU2UB2J	Contoso Motors	Hatchback	2004	AWD	Electric	Deep Blue	Brown	Automatic
+1876	876	QTIB92YVNGGZ5NCSB	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1877	143	23RLNWFGBMPZ5R283	Contoso Motors	SUV	2007	AWD	Hybrid	Silver	Black	Automatic
+1878	150	RZF15ASCAPSG1YFX5	Contoso Motors	SUV	2005	FWD	Electric	Silver	Black	Automatic
+1879	783	GHZE1IXGUO2ST98OX	Contoso Motors	Commercial	2011	AWD	8 Cylinder	Silver	Black	Automatic
+1880	880	CFYAOEH0C1H0UCXTF	Contoso Motors	Convertible 2DR	2013	AWD	6 Cylinder	White Silver	Smoke White	Automatic
+1881	163	AO2M20D51UUYDZFT0	Contoso Motors	Coupe	2016	RWD	Hybrid	Midnight Black	Silverstone	Automatic
+1882	882	GAE2DZ0TO7X99Z5K5	Contoso Motors	Hybrid	2014	FWD	Hybrid	Thunder Gray	Gray	Semi-automatic
+1883	82	6PSV5WJIRTVY7476X	Contoso Motors	Truck	2010	AWD	Electric	Silver	Black	Automatic
+1884	154	DETPST38DZY7DXE21	Contoso Motors	Wagon	2005	AWD	Electric	Thunder Gray	Gray	Automatic
+1885	98	RYLMK2QG390E4DJP2	Contoso Motors	Sedan	2013	AWD	Hybrid	Volcanic Orange	White	Semi-automatic
+1886	158	4ESZLV9P45UX28XB6	Contoso Motors	Sedan	2007	FWD	Hybrid	Volcanic Orange	White	Semi-automatic
+1887	227	HN4NBI7CWAIBSU9SZ	Contoso Motors	Sedan	2012	FWD	Hybrid	Pepper White	Dark Gray	Semi-automatic
+1888	207	VFIZXSGDTRI7MDRUG	Contoso Motors	Hatchback	2012	FWD	Electric	Midnight Black	Silverstone	Automatic
+1889	160	YUU2FD5H2K66V8NKV	Contoso Motors	Truck	2007	FWD	Electric	Silver	Black	Automatic
+1890	296	AA3EHHRB707R62KHH	Contoso Motors	Truck	2016	AWD	Electric	Silver	Black	Automatic
+1891	307	NI1WFQKIABQN1EA4I	Contoso Motors	Coupe	2007	AWD	Hybrid	Silver	Red	Automatic
+1892	892	XOX7TQJKPSIDBHE9V	Contoso Motors	Hybrid	2014	FWD	Hybrid	Blazing Gray	Nutmeg	Semi-automatic
+1893	153	XZBMPMLG88ST2A1VY	Contoso Motors	SUV	2011	FWD	8 Cylinder	Silver	Black	Automatic
+1894	182	7NNFSYIU12C79B34H	Contoso Motors	Commercial	2011	AWD	8 Cylinder	Silver	Black	Automatic
+1895	895	ZMKK68LG6P29T391M	Contoso Motors	Convertible 2DR	2006	AWD	Hybrid	Pepper White	Dark Gray	Automatic
+1896	157	L7LK0N5XKOZMGRKO0	Contoso Motors	Crossover	2004	FWD	Hybrid	Silver	Black	Automatic
+1897	158	9WUAZI8WYKE2HLN74	Contoso Motors	SUV	2010	AWD	6 Cylinder	Silver	Black	Automatic
+1898	898	89K02IJKPPMHR6P29	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1899	173	QKCHRE6RZGZ9RN71P	Contoso Motors	SUV	2014	AWD	Hybrid	Silver	Black	Automatic
+1900	900	7A5P5CAVN7ECYUWB3	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1901	176	WA487EEOQ5WCKZYLR	Contoso Motors	SUV	2013	AWD	4 Cylinder	Silver	Black	Automatic
+1902	902	18EAJ0D3N68L32XHZ	Contoso Motors	Minivan	2013	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1903	903	KL6L0A8IGL5OMNCLY	Contoso Motors	Minivan	2014	FWD	6 Cylinder	Racing Green	Beige	Automatic
+1904	904	A6W492X9QZZIOIHMJ	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1905	905	LJWY307L1YB167PUX	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Electric Blue	Red	Automatic
+1906	906	2EEIVXYW67W47AMWE	Contoso Motors	Minivan	2010	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1907	255	H623WDYR5UVWD9OTB	Contoso Motors	Sedan	2013	AWD	Hybrid	Silver	Ivory	Automatic
+1908	347	XBN0KTOXQE3Y0W7H2	Contoso Motors	Hatchback	2007	FWD	Electric	Silver	Ivory	Automatic
+1909	275	G535XU2EP4EZYQ9V5	Contoso Motors	Sedan	2014	AWD	Hybrid	Pepper White	Dark Gray	Automatic
+1910	278	VI8ICCWWC8MXVBNDX	Contoso Motors	Sedan	2010	AWD	Hybrid	Blue	Old Lace	Automatic
+1911	177	1LIE370RGVBQSNGYW	Contoso Motors	SUV	2014	AWD	4 Cylinder	Silver	Black	Automatic
+1912	321	WLJ9LSVNPL0NN8BRQ	Contoso Motors	Truck	2014	FWD	Electric	Silver	Black	Automatic
+1913	344	JKKU5T3KPDSAG2FQN	Contoso Motors	Truck	2015	FWD	Electric	Silver	Black	Automatic
+1914	399	0Y2F1LU2675YG73T6	Contoso Motors	Hatchback	2011	FWD	Electric	Electric Blue	Red	Automatic
+1915	416	SHCFMZY6U55X1GU6F	Contoso Motors	Wagon	2011	FWD	Electric	Blue	Old Lace	Automatic
+1916	916	88KN6269SHW7SO6RX	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1917	917	63M8BQ5Y0CFK1SOJY	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Electric Blue	Red	Automatic
+1918	179	ESSKZFS50KRY3KDVC	Contoso Motors	Crossover	2013	AWD	4 Cylinder	Silver	Black	Automatic
+1919	464	7R14LHOCKXGTMX5EQ	Contoso Motors	Wagon	2016	FWD	Electric	Deep Blue	Brown	Automatic
+1920	441	SUJUGG82U7R82JVP2	Contoso Motors	Truck	2007	AWD	Electric	Silver	Black	Automatic
+1921	181	N5NRZD4B92K2KJFKU	Contoso Motors	Crossover	2005	AWD	4 Cylinder	Silver	Black	Automatic
+1922	302	KCBY8S2REET1ZNWWR	Contoso Motors	Sedan	2007	FWD	Hybrid	Deep Blue	Brown	Automatic
+1923	42	OOYDCQ5731N18LOMC	Contoso Motors	Wagon	2005	AWD	Hybrid	Blue	Old Lace	Automatic
+1924	924	9JYNZBLTIYDQ73N6M	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1925	191	HUDTMC2MY0LQ4J3TI	Contoso Motors	SUV	2006	FWD	4 Cylinder	Silver	Black	Automatic
+1926	198	70PQPODP5A2LE93UA	Contoso Motors	SUV	2013	RWD	12 Cylinder	Silver	Black	Automatic
+1927	215	D8E4AYK4RAY0XVG32	Contoso Motors	Commercial	2011	AWD	8 Cylinder	Silver	Black	Automatic
+1928	928	ZLRJLFDZKY6PQASXX	Contoso Motors	Convertible 2DR	2004	FWD	4 Cylinder	Blazing Gray	Nutmeg	Automatic
+1929	355	E1U7K2VBNE5SZ0785	Contoso Motors	Coupe	2006	FWD	Hybrid	Electric Blue	Red	Automatic
+1930	930	0M1PLR2LLPAWSDQA5	Contoso Motors	Hybrid	2014	FWD	Hybrid	Thunder Gray	Gray	Semi-automatic
+1931	459	GJVUKI2XMRT53TTTO	Contoso Motors	Truck	2016	RWD	Electric	Silver	Black	Manual
+1932	43	HM3MLK42H5QEJE660	Contoso Motors	Hatchback	2007	RWD	Hybrid	Silver	Ivory	Automatic
+1933	338	A3EPVS1D5RFF9A1TU	Contoso Motors	Sedan	2015	FWD	Hybrid	Deep Blue	Brown	Automatic
+1934	419	1EXU6S978JMN2FSPR	Contoso Motors	Sedan	2011	AWD	Hybrid	Silver	Ivory	Automatic
+1935	421	XDP9D86SP6V7QLVQX	Contoso Motors	Sedan	2005	AWD	Hybrid	Midnight Black	Silverstone	Automatic
+1936	47	BWPQY645OPHPE6CXZ	Contoso Motors	Hatchback	2006	FWD	Hybrid	Racing Green	Beige	Automatic
+1937	41	H0VF7DTNQWLN5ENEG	Contoso Motors	Truck	2004	FWD	8 Cylinder	Silver	Black	Automatic
+1938	66	04NMXATAMN8S6VKBB	Contoso Motors	Truck	2016	FWD	8 Cylinder	Silver	Black	Automatic
+1939	451	V5E59SEPOBKDUOZQU	Contoso Motors	Coupe	2014	AWD	Hybrid	Pepper White	Dark Gray	Automatic
+1940	940	GDYOSNEAIJ2BFYVY9	Contoso Motors	Hybrid	2014	FWD	Hybrid	Blazing Gray	Nutmeg	Semi-automatic
+1941	201	A22MHRP7Z0D5TE3XJ	Contoso Motors	SUV	2004	FWD	6 Cylinder	Silver	Black	Automatic
+1942	311	9CRW18JAVJ6OQP9HY	Contoso Motors	Commercial	2011	AWD	8 Cylinder	Silver	Black	Automatic
+1943	943	5W9DX7TH0HTYSZWT7	Contoso Motors	Convertible 2DR	2012	FWD	4 Cylinder	Pepper White	Dark Gray	Automatic
+1944	205	63REOYYUHOPS1D62C	Contoso Motors	Crossover	2011	FWD	8 Cylinder	Silver	Black	Automatic
+1945	206	HSW81YZHGFAK8T17G	Contoso Motors	SUV	2009	FWD	10 Cylinder	Silver	Black	Automatic
+1946	946	0OVW2G8QLXRSNDCZH	Contoso Motors	Minivan	2013	FWD	6 Cylinder	Blue	Old Lace	Automatic
+1947	221	NPBYEBKRXEEVMLXG6	Contoso Motors	SUV	2014	FWD	6 Cylinder	Silver	Black	Automatic
+1948	948	AR62WFWQCKSEUCCDK	Contoso Motors	Minivan	2015	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1949	224	1KR728DT8OAD58949	Contoso Motors	SUV	2004	FWD	6 Cylinder	Silver	Black	Automatic
+1950	950	GDKTORY3WRN2ZAJMB	Contoso Motors	Minivan	2010	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1951	951	MKXI32S392M70JIFQ	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Racing Green	Beige	Automatic
+1952	952	QGJCLX8PBXTYPK7TU	Contoso Motors	Minivan	2016	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1953	953	SCGIKWBHNK6VOAC1E	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Electric Blue	Red	Automatic
+1954	954	XSSACT0GS4LV8Q82Z	Contoso Motors	Minivan	2009	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1955	422	HEEF4DKFI00AIGYFQ	Contoso Motors	Sedan	2007	AWD	Hybrid	White Silver	Smoke White	Automatic
+1956	95	UKQ0QCBBLEHJ5URTI	Contoso Motors	Hatchback	2012	AWD	Hybrid	Racing Green	Beige	Automatic
+1957	482	L7PLS7U6EJI6V774I	Contoso Motors	Sedan	2005	FWD	Hybrid	Blazing Gray	Nutmeg	Automatic
+1958	541	SLO85LFFBQ1XVDDO4	Contoso Motors	Sedan	2004	FWD	Hybrid	Racing Green	Beige	Automatic
+1959	225	C6KZKW6RB216N1VDX	Contoso Motors	SUV	2005	FWD	Electric	Silver	Black	Automatic
+1960	89	8HRHW45SB7L1YZ34X	Contoso Motors	Truck	2011	FWD	8 Cylinder	Silver	Black	Automatic
+1961	107	I4D2TYI6BR8YYA8PP	Contoso Motors	Truck	2004	FWD	8 Cylinder	Silver	Black	Automatic
+1962	186	FPO88LWG2EJ7GLA4S	Contoso Motors	Wagon	2013	AWD	Hybrid	Deep Blue	Brown	Automatic
+1963	195	L2IK6CE4KVESWBQLA	Contoso Motors	Hatchback	2004	FWD	Hybrid	Silver	Ivory	Automatic
+1964	964	K7K2KO3M6CV8DZUWQ	Contoso Motors	Minivan	2011	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1965	965	15YDAX23IHOPRZBFV	Contoso Motors	Minivan	2014	FWD	6 Cylinder	Electric Blue	Red	Automatic
+1966	227	JVPP0P4OZJD8KD7V4	Contoso Motors	Crossover	2016	FWD	6 Cylinder	Silver	Black	Automatic
+1967	282	HQ8LKEE05RW6NXMPH	Contoso Motors	Wagon	2009	FWD	Hybrid	White Silver	Smoke White	Automatic
+1968	155	RDVDFYX73UM18D7S4	Contoso Motors	Truck	2011	FWD	8 Cylinder	Silver	Black	Automatic
+1969	229	RHXKA5YFO8375E9PG	Contoso Motors	Crossover	2004	FWD	Hybrid	Silver	Black	Automatic
+1970	542	OWU6HKEFU3NVEXCVT	Contoso Motors	Sedan	2010	FWD	Hybrid	Blazing Gray	Nutmeg	Automatic
+1971	283	SY76YRA77QSDZCJ09	Contoso Motors	Hatchback	2004	FWD	Hybrid	Racing Green	Beige	Automatic
+1972	972	QPBLBSK9HPHBC98JY	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1973	239	N7WH5LORFP87A71Q5	Contoso Motors	SUV	2012	FWD	4 Cylinder	Silver	Black	Automatic
+1974	246	NM8PDE61Z253S8322	Contoso Motors	SUV	2010	RWD	6 Cylinder	Silver	Black	Automatic
+1975	374	CB4VM1J7KXZ2I59AY	Contoso Motors	Commercial	2011	AWD	8 Cylinder	Silver	Black	Automatic
+1976	976	4QYATR9NXWNSAUVQU	Contoso Motors	Convertible 2DR	2011	AWD	6 Cylinder	Thunder Gray	Gray	Automatic
+1977	537	II2VF0IYP5IAF0BS8	Contoso Motors	Coupe	2011	FWD	Hybrid	Silver	Ivory	Automatic
+1978	978	HLJL1EYJU4STU1SHF	Contoso Motors	Hybrid	2014	FWD	Hybrid	Volcanic Orange	White	Semi-automatic
+1979	161	C461JCACRS28PP9FE	Contoso Motors	Truck	2014	FWD	8 Cylinder	Silver	Black	Automatic
+1980	287	DVLBK8JHO9IDPNVZB	Contoso Motors	Hatchback	2011	FWD	Hybrid	Chili Red	Black	Automatic
+1981	543	D0Y9DCN9ECL52DQUG	Contoso Motors	Sedan	2007	FWD	Hybrid	Electric Blue	Red	Automatic
+1982	591	VJR5LRKIK7RSLIZV9	Contoso Motors	Sedan	2004	FWD	Hybrid	Pepper White	Dark Gray	Automatic
+1983	659	X8P5T9MNMF770UL5P	Contoso Motors	Sedan	2007	FWD	Hybrid	Racing Green	Beige	Automatic
+1984	331	3SV8RATUAKG0IDFLU	Contoso Motors	Hatchback	2011	AWD	Hybrid	Electric Blue	Red	Automatic
+1985	162	6CDTHKINUASVINVRZ	Contoso Motors	Truck	2015	AWD	8 Cylinder	Silver	Black	Automatic
+1986	209	K6JUTP61EA8MTEI3K	Contoso Motors	Truck	2014	FWD	8 Cylinder	Silver	Black	Automatic
+1987	585	V7R05AQ3TFEFE5NI2	Contoso Motors	Coupe	2004	FWD	Hybrid	Midnight Black	Silverstone	Automatic
+1988	988	4GVNID6GR0JPWZ7BQ	Contoso Motors	Hybrid	2014	FWD	Hybrid	Thunder Gray	Gray	Semi-automatic
+1989	249	QMA85LH8AOBZ0T4IJ	Contoso Motors	SUV	2011	AWD	6 Cylinder	Silver	Black	Automatic
+1990	422	MCW2JMAJT2A0SREG8	Contoso Motors	Commercial	2011	AWD	8 Cylinder	Silver	Black	Automatic
+1991	991	DXNK27ZGT4UYXVPY4	Contoso Motors	Convertible 2DR	2014	AWD	4 Cylinder	Chili Red	Black	Automatic
+1992	253	1IH8RAIVEX4L2DE0W	Contoso Motors	Crossover	2007	AWD	Electric	Silver	Black	Automatic
+1993	254	YW1COWICS4YHRIZRN	Contoso Motors	SUV	2016	AWD	Hybrid	Silver	Black	Automatic
+1994	994	O4PIQFIU1ULCNH3RE	Contoso Motors	Minivan	2010	FWD	6 Cylinder	Deep Blue	Brown	Automatic
+1995	269	7X5AAFGEPWLZ10PQ6	Contoso Motors	SUV	2005	AWD	6 Cylinder	Silver	Black	Automatic
+1996	996	41E52LGERXMYRPRCX	Contoso Motors	Minivan	2016	FWD	6 Cylinder	White Silver	Smoke White	Automatic
+1997	272	6MS0AKFNMOLRZB881	Contoso Motors	SUV	2011	FWD	6 Cylinder	Silver	Black	Automatic
+1998	998	B5FCS6XKFGUEW5FKB	Contoso Motors	Minivan	2009	FWD	6 Cylinder	Blazing Gray	Nutmeg	Automatic
+1999	999	WOKP6O9O78AWNBMZU	Contoso Motors	Minivan	2004	FWD	6 Cylinder	Electric Blue	Red	Automatic
+2001	1	3JS4JR5LUQZ6ZV9A2	Contoso Motors	Minivan	2007	FWD	6 Cylinder	Pepper White	Dark Gray	Automatic
+2000	1000	BO0GQC6Y9U6OJZD3I	Contoso Motors	Minivan	2005	FWD	6 Cylinder	Thunder Gray	Gray	Automatic
+
+
