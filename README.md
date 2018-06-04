@@ -18,10 +18,10 @@ The class *Main* runs **main**.
 Offers 2 menus: Automated and Manual.
 - Automated Menu: Will ask for number of vehicles to generate (starting from ID 1 to given parameter)
 - Manual Menu: Will ask for 4 parameters:
--- AutoID - the vehicles ID.
--- driver_persona - 1 of 3 existing driver personas - will impact the driver's style.
--- road_length - Short, Medium, Long - will impact road's speed limit and length.
--- total_journyes - number of continues drives.
+>  AutoID - the vehicles ID. <br />
+>  driver_persona - 1 of 3 existing driver personas - will impact the driver's style. <br />
+>  road_length - Short, Medium, Long - will impact road's speed limit and length. <br />
+>  total_journyes - number of continues drives.
 ---
 
 #### SparkApp - Using original Spark
@@ -45,9 +45,9 @@ PersonID|	FullName|	PreferredName|	Gender|	DateOfBirth|	PhoneNumber|	FaxNumber|	
 ---
 
 #### EncryptedSpark
-Adding the Encryption option to Apache Spark.
+Adding the Encryption option to Apache Spark. <br />
 We've added ***HashiCorp Vault*** to Spark, which will hold the keys for encryption/decryption of user files the cloud,
-corrently working locally, with one token, it will be updated to serve several clients in future versions.
+corrently working locally, with one token, it will be updated to serve several clients in future versions. <br />
 Includes altered parquet-format and parquet-mr folders in folder named 182-231 (not including our altercations)
 ##### Instructions:
 Open a vault server (```vault server -dev```) and copy the root token provided.
@@ -71,15 +71,15 @@ val tpe = spark.read.parquet("/PATH/TO/sample_enc.parquet.encrypted")
 ```
 
 ##### Update the following files:
--- *ParquetFileReader.java* & *ParquetOutputFormat.java* under /182-231/parquet-mr/parquet-hadoop/src/main/java/org/apache/parquet/hadoop
--- *VaultKeyRetriever.java* under /182-231/parquet-mr/parquet-hadoop/src/main/java/org/apache/parquet/crypto
--- *pom.xml* under /182-231/parquet-mr/parquet-hadoop
+*ParquetFileReader.java* & *ParquetOutputFormat.java* under /182-231/parquet-mr/parquet-hadoop/src/main/java/org/apache/parquet/hadoop <br />
+*VaultKeyRetriever.java* under /182-231/parquet-mr/parquet-hadoop/src/main/java/org/apache/parquet/crypto<br />
+*pom.xml* under /182-231/parquet-mr/parquet-hadoop<br />
 Build parquet-format and then build parquet-mr **separately** both using ```mvn clean install -DskipTests```, and then build Spark (2.2.0) using ```./build/mvn -DskipTests clean package```
 
 This version requires the following software (*notice the versions*):
--- Scala 
--- Maven 
--- JDK 1.8
--- Thrift 0.7.0
--- protocol buffers 2.5.0
+* Scala 
+* Maven 
+* JDK 1.8
+* Thrift 0.7.0
+* protocol buffers 2.5.0 <br />
 There is a file called helper.sh, it shows which commands to run in roder to get these versions, DO NOT run this script, view it in order to complete installations of prerequisites (it is not complete, just assists). 
