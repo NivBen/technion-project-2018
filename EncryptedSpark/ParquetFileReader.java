@@ -408,16 +408,17 @@ public class ParquetFileReader implements Closeable {
 	if (null != pfd) return pfd;
 
 	String userToken = configuration.get("parquet.decryption.user.token");
+	String vaultAddress = configuration.get("parquet.vault.address");
 
 	if (userToken != null) {
 	  //byte[] keyBytes = Base64.getDecoder().decode(decryptionKey);
 	  //System.out.println("Parquet key: No id");
-	  VaultKeyRetriever keyRetriever = new VaultKeyRetriever(userToken);
+	  VaultKeyRetriever keyRetriever = new VaultKeyRetriever(userToken, vaultAddress);
 	  DecryptionSetup dSetup = new DecryptionSetup(keyRetriever);
 	  pfd = ParquetEncryptionFactory.createFileDecryptor(dSetup);
 	}
 
-	if (null == pfd) throw new IOException("Decryption key not specified for file "+file);
+	if (null == pfd) throw new IOException("Decryption key not specified for file "+file+".");
 
 	//TODO
 	//String AAD = file.getParent().getName()+"/"+file.getName();

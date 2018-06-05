@@ -63,7 +63,9 @@ val tc = spark.read.schema(
 tc.write.option("parquet.encryption.user.token", "<root token>").
     option("parquet.encryption.key.id", "<Encryption key ID#>"). 
     parquet("/PATH/TO/sample_enc.parquet.encrypted")
-    // Make sure to add the key to vault prior with an integer identifier
+    // Make sure to add the key to vault prior with an integer identifier, for instance:
+	// export VAULT_ADDR='http://127.0.0.1:8200'
+	// vault write "secret/keys" <Encryption key ID#>="AAECAwQFBgcICQoLDA0ODw==" 
 //------ Reading the encrypted file
 sc.hadoopConfiguration.set("parquet.decryption.user.token", "<root token>")
 val tpe = spark.read.parquet("/PATH/TO/sample_enc.parquet.encrypted")
@@ -83,3 +85,16 @@ This version requires the following software (*notice the versions*):
 * Thrift 0.7.0
 * protocol buffers 2.5.0 <br />
 There is a file called helper.sh, it shows which commands to run in roder to get these versions, DO NOT run this script, view it in order to complete installations of prerequisites (it is not complete, just assists). 
+---
+#### EncryptedSparkApp
+Same as *SparkApp* but using *EncryptedSpark*.
+to build do the following:
+```Bash
+	# Run Master and slave, see https://spark.apache.org/docs/latest/spark-standalone.html
+	./sbin/start-master.sh
+	./sbin/start-slave.sh <master-spark-URL>
+	# Then go to EncryptedSparkApp directory to create a jar
+	java -jar cloudapp.java
+	mvn build
+```
+

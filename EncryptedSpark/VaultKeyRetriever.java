@@ -23,6 +23,7 @@ import com.bettercloud.vault.Vault;
 import com.bettercloud.vault.VaultConfig;
 import org.apache.parquet.bytes.BytesUtils;
 
+import java.io.IOException;
 import java.util.Base64;
 import java.util.HashMap;
 import java.util.Map;
@@ -31,23 +32,29 @@ public class VaultKeyRetriever implements DecryptionKeyRetriever{
 
     final private String token;
     final private Map<Integer, byte[]> keys;
+	final Vault vault;
 
-    public VaultKeyRetriever(String token) {
+    public VaultKeyRetriever(String token, String vaultAddress) throws IOException{
         this.token = token;
         keys = new HashMap<Integer, byte[]>();
+		VaultConfig config;
+		try {
+			config = new VaultConfig()
+					.address(vaultAddress)
+					.token(token)
+					.build();
+		}catch(Exception e){
+			throw new IOException("Unable to reach Vault server.");
+		}
+		vault = new Vault(config);
     }
     private byte[] getKeyFromVault(Integer keyId){
         try {
-            VaultConfig config = new VaultConfig()
-                    .address("http://127.0.0.1:8200/" )
-                    .token(token)
-                    .build();
-            Vault vault = new Vault(config);
             String key = vault.logical().read("secret/keys").getData().get(keyId.toString());
             //System.out.println("Log: retrieving key " + keyId + ".");
             return Base64.getDecoder().decode(key);
         } catch (Exception e){
-            //System.out.println("Log: Key doesn't exist.");
+        	System.out.println("Could not retrieve key from Vault. (No permission or doesn't exist)");
             return null;
         }
     }

@@ -313,7 +313,8 @@ public class ParquetOutputFormat<T> extends FileOutputFormat<Void, T> {
     String encryptionKeyId = conf.getTrimmed("parquet.encryption.key.id");
     if (encryptionKeyId != null && userToken != null) { //Throw if one of them is null?
       EncryptionSetup eSetup;
-      VaultKeyRetriever keyRetriever = new VaultKeyRetriever(userToken);
+      String vaultAddress = conf.getTrimmed("parquet.vault.address");
+      VaultKeyRetriever keyRetriever = new VaultKeyRetriever(userToken, vaultAddress);
       Integer keyId = Integer.valueOf(encryptionKeyId);
       byte[] keyBytes = keyRetriever.getKeyFromInt(keyId);
       if(keyBytes == null){
