@@ -62,12 +62,13 @@ val tc = spark.read.schema(
                             // just an example for a csv file with 2 columns
 tc.write.option("parquet.encryption.user.token", "<root token>").
     option("parquet.encryption.key.id", "<Encryption key ID#>"). 
+	option("parquet.vault.address", "<VAULT_ADDR>").
     parquet("/PATH/TO/sample_enc.parquet.encrypted")
     // Make sure to add the key to vault prior with an integer identifier, for instance:
 	// export VAULT_ADDR='http://127.0.0.1:8200'
 	// vault write "secret/keys" <Encryption key ID#>="AAECAwQFBgcICQoLDA0ODw==" 
 //------ Reading the encrypted file
-sc.hadoopConfiguration.set("parquet.decryption.user.token", "<root token>")
+sc.hadoopConfiguration.set("parquet.decryption.user.token", "<root token>", "parquet.vault.address", "<VAULT_ADDR>")
 val tpe = spark.read.parquet("/PATH/TO/sample_enc.parquet.encrypted")
 // tpe now holds the original plaintext
 ```
