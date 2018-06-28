@@ -9,8 +9,8 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) throws IOException , java.util.InputMismatchException{
-        File file = new File ("C:/Users/niv/Desktop/events.tsv"); // Change path to your .tsv file location
-        FileWriter fileWriter = new FileWriter(file, false); // currently not appending
+        File file = new File ("PATH/TO/events.tsv"); // Change path to your wanted .tsv file location
+        FileWriter fileWriter = new FileWriter(file, false); // not appending
         PrintWriter printWriter = new PrintWriter(fileWriter);
         printWriter.printf("EventID\t"+"JourneyID\tAutoID\tengine_speed\tvehicle_speed\troad_speed_limit\ttransmission_gear_position\tbeam_status\tlatitude\tlongitude\ttimastamp");
         printWriter.println();
@@ -34,7 +34,7 @@ public class Main {
                     for (AutoID = 1; AutoID <= max_AutoID; AutoID++) {
                         driver_persona = generate.random_int(0, 2);
                         road_length = generate.random_int(0, 2);
-                        total_journeys = generate.random_int(1, 5);
+                        total_journeys = generate.random_int(1, 5); // change this for longer journeys per vehicle
                         for (int j = 0; j < total_journeys; j++) {
                             generate.generate_data(AutoID, driver_persona, road_length, printWriter);
                         }
